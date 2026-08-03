@@ -1,4 +1,4 @@
-# [Leaders in an Array](https://takeuforward.org/plus/dsa/problems/leaders-in-an-array?subject=dsa&approach=optimal&tab=submissions)
+# [Leaders in an Array](https://takeuforward.org/plus/dsa/problems/leaders-in-an-array?subject=dsa&approach=brute&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
