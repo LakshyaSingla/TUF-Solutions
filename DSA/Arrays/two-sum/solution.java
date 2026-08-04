@@ -6,7 +6,7 @@ class Solution {
             int complement = target - nums[i];
 
             if(mpp.containsKey(complement)){
-                return new int[]{mpp.get(complement), i};
+               return new int[] {mpp.get(complement), i};
             }
             mpp.put(nums[i], i);
         }
