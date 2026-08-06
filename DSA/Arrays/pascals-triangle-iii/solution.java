@@ -1,17 +1,16 @@
 class Solution {
     List<Integer> generateRow(int row){
-        long ans = 1;
         List<Integer> ansRow = new ArrayList<>();
+        long res = 1;
         ansRow.add(1);
-
         for(int col = 1; col < row; col++){
-            ans *= (row - col);
-            ans /= col;
-            ansRow.add((int) ans);
+            res *= (row - col);
+            res /= col;
+            ansRow.add((int) res);
         }
         return ansRow;
-        
     }
+
     public List<List<Integer>> pascalTriangleIII(int n) {
         List<List<Integer>> ans = new ArrayList<>();
         for(int row = 1; row <= n; row++){
