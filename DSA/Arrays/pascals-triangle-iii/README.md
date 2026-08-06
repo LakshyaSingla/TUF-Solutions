@@ -1,4 +1,4 @@
-# [Pascal's Triangle III](https://takeuforward.org/plus/dsa/problems/pascals-triangle-iii?subject=dsa&approach=optimal&tab=submissions)
+# [Pascal's Triangle III](https://takeuforward.org/plus/dsa/problems/pascals-triangle-iii?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
