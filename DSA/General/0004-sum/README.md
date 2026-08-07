@@ -1,4 +1,4 @@
-# [4 Sum](https://takeuforward.org/plus/dsa/problems/4-sum?subject=dsa&approach=optimal&tab=submissions)
+# [4 Sum](https://takeuforward.org/plus/dsa/problems/4-sum?subject=dsa&approach=better&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
