@@ -1,38 +1,33 @@
 class Solution {
     void merge(int[] nums, int low, int mid, int high){
-        List<Integer> list = new ArrayList<>();
         int i = low;
         int j = mid + 1;
-
+        List<Integer> temp = new ArrayList<>(nums.length);
         while(i <= mid && j <= high){
             if(nums[i] <= nums[j]){
-                list.add(nums[i]);
+                temp.add(nums[i]);
                 i++;
             }else{
-                list.add(nums[j]);
+                temp.add(nums[j]);
                 j++;
             }
         }
         while(i <= mid){
-            list.add(nums[i]);
+            temp.add(nums[i]);
             i++;
         }
         while(j <= high){
-            list.add(nums[j]);
+            temp.add(nums[j]);
             j++;
         }
 
         for(int k = low; k <= high; k++){
-            nums[k] = list.get(k - low);
+            nums[k] = temp.get(k - low);
         }
-
     }
-
-    public void mergeSortHelper(int[] nums, int low, int high){
-        if(low>=high) return ;
-
-        int mid = low + (high - low) /2 ;
-
+    void mergeSortHelper(int[] nums, int low, int high){
+        if(low >= high) return;
+        int mid = low + (high - low) / 2;
         mergeSortHelper(nums, low, mid);
         mergeSortHelper(nums, mid + 1, high);
         merge(nums, low, mid, high);
