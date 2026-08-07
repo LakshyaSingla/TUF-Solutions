@@ -1,4 +1,4 @@
-# [Sort an array of 0's 1's and 2's](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's?subject=dsa&approach=optimal&tab=submissions)
+# [Sort an array of 0's 1's and 2's](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's?subject=dsa&approach=better&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
