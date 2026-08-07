@@ -16,7 +16,7 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [3 Sum](./DSA/General/0003-sum) | [JAVA](./DSA/General/0003-sum/solution.java) | 🟡 Medium | `DSA` |
 | 0002 | [4 Sum](./DSA/General/0004-sum) | [JAVA](./DSA/General/0004-sum/solution.java) | 🟡 Medium | `DSA` |
-| 0003 | [Count Inversions](./DSA/General/count-inversions) | [JAVA](./DSA/General/count-inversions/solution.java) | 🔴 Hard | `DSA` |
+| 0003 | [Count Inversions](./DSA/General/count-inversions) | [JAVA](./DSA/General/count-inversions/solution.java) [CPP](./DSA/General/count-inversions/solution.cpp) | 🔴 Hard | `DSA` |
 | 0004 | [Find missing number](./DSA/General/find-missing-number) | [JAVA](./DSA/General/find-missing-number/solution.java) | 🟢 Easy | `DSA` |
 | 0005 | [Find the repeating and missing number](./DSA/General/find-the-repeating-and-missing-number) | [JAVA](./DSA/General/find-the-repeating-and-missing-number/solution.java) | 🔴 Hard | `DSA` |
 | 0006 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
