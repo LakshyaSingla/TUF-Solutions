@@ -1,0 +1,10 @@
+class Solution {
+    public int arraySum(int[] nums) {
+        //your code goes here
+        return sum(nums, 0);
+    }
+    int sum(int[] nums, int i){
+        if(i == nums.length) return 0;
+        return nums[i] + sum(nums, i + 1);
+    }
+}
