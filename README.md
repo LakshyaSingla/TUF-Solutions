@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **43** | 25 | 13 | 5 | `2026-08-11` |
+| **44** | 26 | 13 | 5 | `2026-08-11` |
 
 ---
 
@@ -47,16 +47,17 @@
 | 0031 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
 | 0032 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
 | 0033 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0034 | [Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | 🔴 Hard | `DSA` |
-| 0035 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0036 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0037 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0038 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0039 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0040 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
-| 0041 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0042 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0043 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0034 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0035 | [Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | 🔴 Hard | `DSA` |
+| 0036 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0037 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0038 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0039 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0040 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0041 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
+| 0042 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0043 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0044 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
