@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **86** | 56 | 21 | 9 | `2026-08-18` |
+| **87** | 57 | 21 | 9 | `2026-08-18` |
 
 ---
 
@@ -84,22 +84,23 @@
 | 0068 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 | 0069 | [Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | 🔴 Hard | `DSA` |
 | 0070 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0071 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0072 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0073 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0074 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0075 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0076 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0077 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0078 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `DSA` |
-| 0079 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
-| 0080 | [System Settings](./SQL/Data-Engineering/system-settings) | [SQL](./SQL/Data-Engineering/system-settings/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0081 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0082 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0083 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0084 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
-| 0085 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0086 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0071 | [Sales Analysis](./SQL/Data-Engineering/sales-analysis) | [SQL](./SQL/Data-Engineering/sales-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0072 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0073 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0074 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0075 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0076 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0077 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0078 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0079 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `DSA` |
+| 0080 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
+| 0081 | [System Settings](./SQL/Data-Engineering/system-settings) | [SQL](./SQL/Data-Engineering/system-settings/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0082 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0083 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0084 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0085 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0086 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0087 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
 
 ---
 
