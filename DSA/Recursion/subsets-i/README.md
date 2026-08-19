@@ -1,4 +1,4 @@
-# [Subsets I](https://takeuforward.org/plus/dsa/problems/subsets-i?subject=dsa&approach=optimal-positives-negatives&tab=submissions)
+# [Subsets I](https://takeuforward.org/plus/dsa/problems/subsets-i?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 

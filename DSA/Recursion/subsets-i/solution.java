@@ -4,9 +4,10 @@ class Solution {
             ans.add(sum);
             return;
         }
-        
+
         backtrack(index + 1, nums, n, ans, sum + nums[index]);
-        backtrack(index + 1, nums, n, ans, sum );
+        backtrack(index + 1, nums, n, ans, sum);
+
     }
     public List<Integer> subsetSums(int[] nums) {
         //your code goes here
