@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **91** | 60 | 22 | 9 | `2026-08-19` |
+| **92** | 61 | 22 | 9 | `2026-08-19` |
 
 ---
 
@@ -104,7 +104,8 @@
 | 0088 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
 | 0089 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
 | 0090 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0091 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0091 | [Warehouse Stock Manager](./SQL/Data-Engineering/warehouse-stock-manager) | [SQL](./SQL/Data-Engineering/warehouse-stock-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0092 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
 
 ---
 
