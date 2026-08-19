@@ -1,4 +1,4 @@
-# [Combination Sum II](https://takeuforward.org/plus/dsa/problems/combination-sum-ii?subject=dsa&approach=optimal-positives-negatives&tab=submissions)
+# [Combination Sum II](https://takeuforward.org/plus/dsa/problems/combination-sum-ii?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
