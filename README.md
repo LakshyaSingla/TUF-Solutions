@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **100** | 67 | 23 | 10 | `2026-08-21` |
+| **101** | 67 | 24 | 10 | `2026-08-21` |
 
 ---
 
@@ -16,104 +16,105 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [3 Sum](./DSA/General/0003-sum) | [JAVA](./DSA/General/0003-sum/solution.java) | 🟡 Medium | `DSA` |
 | 0002 | [4 Sum](./DSA/General/0004-sum) | [JAVA](./DSA/General/0004-sum/solution.java) | 🟡 Medium | `DSA` |
-| 0003 | [Available Seat Streaks](./SQL/Data-Engineering/available-seat-streaks) | [SQL](./SQL/Data-Engineering/available-seat-streaks/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0004 | [Average Experience by Project](./SQL/Data-Engineering/average-experience-by-project) | [SQL](./SQL/Data-Engineering/average-experience-by-project/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0005 | [Check if a Number is Prime or Not](./DSA/General/check-if-a-number-is-prime-or-not) | [JAVA](./DSA/General/check-if-a-number-is-prime-or-not/solution.java) | 🟢 Easy | `DSA` |
-| 0006 | [Check if String is Palindrome or Not](./DSA/Strings/check-if-string-is-palindrome-or-not) | [JAVA](./DSA/Strings/check-if-string-is-palindrome-or-not/solution.java) | 🟢 Easy | `DSA` / `Strings` |
-| 0007 | [Check if the Array is Sorted II](./DSA/Arrays/check-if-the-array-is-sorted-ii) | [JAVA](./DSA/Arrays/check-if-the-array-is-sorted-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0008 | [Check if there exists a subsequence with sum K](./DSA/General/check-if-there-exists-a-subsequence-with-sum-k) | [JAVA](./DSA/General/check-if-there-exists-a-subsequence-with-sum-k/solution.java) | 🟢 Easy | `DSA` |
-| 0009 | [Combination Sum](./DSA/Recursion/combination-sum) | [JAVA](./DSA/Recursion/combination-sum/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0010 | [Combination Sum II](./DSA/Recursion/combination-sum-ii) | [JAVA](./DSA/Recursion/combination-sum-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0011 | [Combination Sum III](./DSA/Recursion/combination-sum-iii) | [JAVA](./DSA/Recursion/combination-sum-iii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0012 | [Contest Participation Rate](./SQL/Data-Engineering/contest-participation-rate) | [SQL](./SQL/Data-Engineering/contest-participation-rate/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0013 | [Count all subsequences with sum K](./DSA/Recursion/count-all-subsequences-with-sum-k) | [JAVA](./DSA/Recursion/count-all-subsequences-with-sum-k/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0014 | [Count Inversions](./DSA/General/count-inversions) | [JAVA](./DSA/General/count-inversions/solution.java) | 🔴 Hard | `DSA` |
-| 0015 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [JAVA](./DSA/Hashing/count-subarrays-with-given-sum/solution.java) | 🟡 Medium | `DSA` / `Hashing` |
-| 0016 | [Count subarrays with given xor K](./DSA/Hashing/count-subarrays-with-given-xor-k) | [JAVA](./DSA/Hashing/count-subarrays-with-given-xor-k/solution.java) | 🔴 Hard | `DSA` / `Hashing` |
-| 0017 | [CRM Automotive Sales Analysis](./SQL/Data-Engineering/crm-automotive-sales-analysis) | [SQL](./SQL/Data-Engineering/crm-automotive-sales-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0018 | [Customer Orders Overview](./SQL/Data-Engineering/customer-orders-overview) | [SQL](./SQL/Data-Engineering/customer-orders-overview/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0019 | [Email Duplicates](./SQL/Data-Engineering/email-duplicates) | [SQL](./SQL/Data-Engineering/email-duplicates/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0020 | [Employee Salary](./SQL/Data-Engineering/employee-salary) | [SQL](./SQL/Data-Engineering/employee-salary/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0021 | [Employee Work Time Summary](./SQL/Data-Engineering/employee-work-time-summary) | [SQL](./SQL/Data-Engineering/employee-work-time-summary/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0022 | [Employees Earning More Than Their Manager](./SQL/Data-Engineering/employees-earning-more-than-their-manager) | [SQL](./SQL/Data-Engineering/employees-earning-more-than-their-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0023 | [Employees With Confirmed Salary Records](./SQL/Data-Engineering/employees-with-confirmed-salary-records) | [SQL](./SQL/Data-Engineering/employees-with-confirmed-salary-records/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0024 | [Employees With or Without Salary Records](./SQL/Data-Engineering/employees-with-or-without-salary-records) | [SQL](./SQL/Data-Engineering/employees-with-or-without-salary-records/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0025 | [Factorial of a Given Number](./DSA/General/factorial-of-a-given-number) | [JAVA](./DSA/General/factorial-of-a-given-number/solution.java) | 🟢 Easy | `DSA` |
-| 0026 | [Fibonacci Number](./DSA/General/fibonacci-number) | [JAVA](./DSA/General/fibonacci-number/solution.java) | 🟢 Easy | `DSA` |
-| 0027 | [Filter Records Excluding a Specific Pattern](./SQL/Data-Engineering/filter-records-excluding-a-specific-pattern) | [SQL](./SQL/Data-Engineering/filter-records-excluding-a-specific-pattern/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0028 | [Find missing number](./DSA/General/find-missing-number) | [JAVA](./DSA/General/find-missing-number/solution.java) | 🟢 Easy | `DSA` |
-| 0029 | [Find Records Excluding a Given Set of Values](./SQL/Data-Engineering/find-records-excluding-a-given-set-of-values) | [SQL](./SQL/Data-Engineering/find-records-excluding-a-given-set-of-values/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0030 | [Find Team Size for Each Employee](./SQL/Data-Engineering/find-team-size-for-each-employee) | [SQL](./SQL/Data-Engineering/find-team-size-for-each-employee/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0031 | [Find the repeating and missing number](./DSA/General/find-the-repeating-and-missing-number) | [JAVA](./DSA/General/find-the-repeating-and-missing-number/solution.java) | 🔴 Hard | `DSA` |
-| 0032 | [First Login Analysis](./SQL/Data-Engineering/first-login-analysis) | [SQL](./SQL/Data-Engineering/first-login-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0033 | [Floor and Ceil in Sorted Array](./DSA/Arrays/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Arrays/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0034 | [Frequent Actor-Director Duos](./SQL/Data-Engineering/frequent-actor-director-duos) | [SQL](./SQL/Data-Engineering/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0035 | [Generate All Possible User-Category Pairs](./SQL/Data-Engineering/generate-all-possible-user-category-pairs) | [SQL](./SQL/Data-Engineering/generate-all-possible-user-category-pairs/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0036 | [Generate Parentheses](./DSA/Recursion/generate-parentheses) | [JAVA](./DSA/Recursion/generate-parentheses/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0037 | [High-Report Managers](./SQL/Data-Engineering/high-report-managers) | [SQL](./SQL/Data-Engineering/high-report-managers/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
-| 0038 | [Highest Order Placing Customer](./SQL/Data-Engineering/highest-order-placing-customer) | [SQL](./SQL/Data-Engineering/highest-order-placing-customer/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0039 | [Inactive Customers](./SQL/Data-Engineering/inactive-customers) | [SQL](./SQL/Data-Engineering/inactive-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0040 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0041 | [Kadane's Algorithm](./DSA/General/kadanes-algorithm) | [JAVA](./DSA/General/kadanes-algorithm/solution.java) | 🟡 Medium | `DSA` |
-| 0042 | [Large Classes](./SQL/Data-Engineering/large-classes) | [SQL](./SQL/Data-Engineering/large-classes/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0043 | [Large Nations](./SQL/Data-Engineering/large-nations) | [SQL](./SQL/Data-Engineering/large-nations/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0044 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0045 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
-| 0046 | [Longest subarray with sum K](./DSA/Arrays/longest-subarray-with-sum-k) | [JAVA](./DSA/Arrays/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0047 | [Low Bonus Employees](./SQL/Data-Engineering/low-bonus-employees) | [SQL](./SQL/Data-Engineering/low-bonus-employees/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0048 | [Lower Bound](./DSA/General/lower-bound) | [JAVA](./DSA/General/lower-bound/solution.java) | 🟢 Easy | `DSA` |
-| 0049 | [Majority Element-II](./DSA/General/majority-element-ii) | [JAVA](./DSA/General/majority-element-ii/solution.java) | 🔴 Hard | `DSA` |
-| 0050 | [Match Employees With Their Salaries](./SQL/Data-Engineering/match-employees-with-their-salaries) | [SQL](./SQL/Data-Engineering/match-employees-with-their-salaries/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0051 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🔴 Hard | `DSA` / `Arrays` |
-| 0052 | [Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0053 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0054 | [Minimum Distance Between Points](./SQL/Data-Engineering/minimum-distance-between-points) | [SQL](./SQL/Data-Engineering/minimum-distance-between-points/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0055 | [Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | 🟢 Easy | `DSA` |
-| 0056 | [N Queen](./DSA/Recursion/n-queen) | [JAVA](./DSA/Recursion/n-queen/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
-| 0057 | [Next Permutation](./DSA/Recursion/next-permutation) | [JAVA](./DSA/Recursion/next-permutation/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0058 | [Non-Referred Customers](./SQL/Data-Engineering/non-referred-customers) | [SQL](./SQL/Data-Engineering/non-referred-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0059 | [Odd Non-Boring Movies](./SQL/Data-Engineering/odd-non-boring-movies) | [SQL](./SQL/Data-Engineering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0060 | [Palindrome partitioning](./DSA/Backtracking/palindrome-partitioning) | [JAVA](./DSA/Backtracking/palindrome-partitioning/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
-| 0061 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0062 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0063 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0064 | [Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | 🟢 Easy | `DSA` |
-| 0065 | [Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | 🟢 Easy | `DSA` |
-| 0066 | [Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | 🟢 Easy | `DSA` |
-| 0067 | [Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | 🟢 Easy | `DSA` |
-| 0068 | [Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | 🟢 Easy | `DSA` |
-| 0069 | [Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | 🟢 Easy | `DSA` |
-| 0070 | [Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `DSA` |
-| 0071 | [Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | 🟡 Medium | `DSA` |
-| 0072 | [Pow(x,n)](./DSA/General/powxn) | [JAVA](./DSA/General/powxn/solution.java) | 🟢 Easy | `DSA` |
-| 0073 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0074 | [Profitable Customers in 2021](./SQL/Data-Engineering/profitable-customers-in-2021) | [SQL](./SQL/Data-Engineering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0075 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0076 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0077 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0078 | [Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | 🔴 Hard | `DSA` |
-| 0079 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0080 | [Sales Analysis](./SQL/Data-Engineering/sales-analysis) | [SQL](./SQL/Data-Engineering/sales-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0081 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0082 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0083 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0084 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0085 | [Students Enrolled in Non-Existent Departments](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments) | [SQL](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0086 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0087 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0088 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0089 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `DSA` |
-| 0090 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
-| 0091 | [Suspended Accounts](./SQL/Data-Engineering/suspended-accounts) | [SQL](./SQL/Data-Engineering/suspended-accounts/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
-| 0092 | [System Settings](./SQL/Data-Engineering/system-settings) | [SQL](./SQL/Data-Engineering/system-settings/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0093 | [Table Join Operation](./SQL/Data-Engineering/table-join-operation) | [SQL](./SQL/Data-Engineering/table-join-operation/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0094 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0095 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0096 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0097 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
-| 0098 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0099 | [Warehouse Stock Manager](./SQL/Data-Engineering/warehouse-stock-manager) | [SQL](./SQL/Data-Engineering/warehouse-stock-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0100 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0003 | [All-Product Buyers](./SQL/Data-Engineering/all-product-buyers) | [SQL](./SQL/Data-Engineering/all-product-buyers/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
+| 0004 | [Available Seat Streaks](./SQL/Data-Engineering/available-seat-streaks) | [SQL](./SQL/Data-Engineering/available-seat-streaks/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0005 | [Average Experience by Project](./SQL/Data-Engineering/average-experience-by-project) | [SQL](./SQL/Data-Engineering/average-experience-by-project/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0006 | [Check if a Number is Prime or Not](./DSA/General/check-if-a-number-is-prime-or-not) | [JAVA](./DSA/General/check-if-a-number-is-prime-or-not/solution.java) | 🟢 Easy | `DSA` |
+| 0007 | [Check if String is Palindrome or Not](./DSA/Strings/check-if-string-is-palindrome-or-not) | [JAVA](./DSA/Strings/check-if-string-is-palindrome-or-not/solution.java) | 🟢 Easy | `DSA` / `Strings` |
+| 0008 | [Check if the Array is Sorted II](./DSA/Arrays/check-if-the-array-is-sorted-ii) | [JAVA](./DSA/Arrays/check-if-the-array-is-sorted-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0009 | [Check if there exists a subsequence with sum K](./DSA/General/check-if-there-exists-a-subsequence-with-sum-k) | [JAVA](./DSA/General/check-if-there-exists-a-subsequence-with-sum-k/solution.java) | 🟢 Easy | `DSA` |
+| 0010 | [Combination Sum](./DSA/Recursion/combination-sum) | [JAVA](./DSA/Recursion/combination-sum/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0011 | [Combination Sum II](./DSA/Recursion/combination-sum-ii) | [JAVA](./DSA/Recursion/combination-sum-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0012 | [Combination Sum III](./DSA/Recursion/combination-sum-iii) | [JAVA](./DSA/Recursion/combination-sum-iii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0013 | [Contest Participation Rate](./SQL/Data-Engineering/contest-participation-rate) | [SQL](./SQL/Data-Engineering/contest-participation-rate/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0014 | [Count all subsequences with sum K](./DSA/Recursion/count-all-subsequences-with-sum-k) | [JAVA](./DSA/Recursion/count-all-subsequences-with-sum-k/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0015 | [Count Inversions](./DSA/General/count-inversions) | [JAVA](./DSA/General/count-inversions/solution.java) | 🔴 Hard | `DSA` |
+| 0016 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [JAVA](./DSA/Hashing/count-subarrays-with-given-sum/solution.java) | 🟡 Medium | `DSA` / `Hashing` |
+| 0017 | [Count subarrays with given xor K](./DSA/Hashing/count-subarrays-with-given-xor-k) | [JAVA](./DSA/Hashing/count-subarrays-with-given-xor-k/solution.java) | 🔴 Hard | `DSA` / `Hashing` |
+| 0018 | [CRM Automotive Sales Analysis](./SQL/Data-Engineering/crm-automotive-sales-analysis) | [SQL](./SQL/Data-Engineering/crm-automotive-sales-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0019 | [Customer Orders Overview](./SQL/Data-Engineering/customer-orders-overview) | [SQL](./SQL/Data-Engineering/customer-orders-overview/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0020 | [Email Duplicates](./SQL/Data-Engineering/email-duplicates) | [SQL](./SQL/Data-Engineering/email-duplicates/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0021 | [Employee Salary](./SQL/Data-Engineering/employee-salary) | [SQL](./SQL/Data-Engineering/employee-salary/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0022 | [Employee Work Time Summary](./SQL/Data-Engineering/employee-work-time-summary) | [SQL](./SQL/Data-Engineering/employee-work-time-summary/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0023 | [Employees Earning More Than Their Manager](./SQL/Data-Engineering/employees-earning-more-than-their-manager) | [SQL](./SQL/Data-Engineering/employees-earning-more-than-their-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0024 | [Employees With Confirmed Salary Records](./SQL/Data-Engineering/employees-with-confirmed-salary-records) | [SQL](./SQL/Data-Engineering/employees-with-confirmed-salary-records/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0025 | [Employees With or Without Salary Records](./SQL/Data-Engineering/employees-with-or-without-salary-records) | [SQL](./SQL/Data-Engineering/employees-with-or-without-salary-records/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0026 | [Factorial of a Given Number](./DSA/General/factorial-of-a-given-number) | [JAVA](./DSA/General/factorial-of-a-given-number/solution.java) | 🟢 Easy | `DSA` |
+| 0027 | [Fibonacci Number](./DSA/General/fibonacci-number) | [JAVA](./DSA/General/fibonacci-number/solution.java) | 🟢 Easy | `DSA` |
+| 0028 | [Filter Records Excluding a Specific Pattern](./SQL/Data-Engineering/filter-records-excluding-a-specific-pattern) | [SQL](./SQL/Data-Engineering/filter-records-excluding-a-specific-pattern/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0029 | [Find missing number](./DSA/General/find-missing-number) | [JAVA](./DSA/General/find-missing-number/solution.java) | 🟢 Easy | `DSA` |
+| 0030 | [Find Records Excluding a Given Set of Values](./SQL/Data-Engineering/find-records-excluding-a-given-set-of-values) | [SQL](./SQL/Data-Engineering/find-records-excluding-a-given-set-of-values/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0031 | [Find Team Size for Each Employee](./SQL/Data-Engineering/find-team-size-for-each-employee) | [SQL](./SQL/Data-Engineering/find-team-size-for-each-employee/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0032 | [Find the repeating and missing number](./DSA/General/find-the-repeating-and-missing-number) | [JAVA](./DSA/General/find-the-repeating-and-missing-number/solution.java) | 🔴 Hard | `DSA` |
+| 0033 | [First Login Analysis](./SQL/Data-Engineering/first-login-analysis) | [SQL](./SQL/Data-Engineering/first-login-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0034 | [Floor and Ceil in Sorted Array](./DSA/Arrays/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Arrays/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0035 | [Frequent Actor-Director Duos](./SQL/Data-Engineering/frequent-actor-director-duos) | [SQL](./SQL/Data-Engineering/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0036 | [Generate All Possible User-Category Pairs](./SQL/Data-Engineering/generate-all-possible-user-category-pairs) | [SQL](./SQL/Data-Engineering/generate-all-possible-user-category-pairs/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0037 | [Generate Parentheses](./DSA/Recursion/generate-parentheses) | [JAVA](./DSA/Recursion/generate-parentheses/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0038 | [High-Report Managers](./SQL/Data-Engineering/high-report-managers) | [SQL](./SQL/Data-Engineering/high-report-managers/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
+| 0039 | [Highest Order Placing Customer](./SQL/Data-Engineering/highest-order-placing-customer) | [SQL](./SQL/Data-Engineering/highest-order-placing-customer/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0040 | [Inactive Customers](./SQL/Data-Engineering/inactive-customers) | [SQL](./SQL/Data-Engineering/inactive-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0041 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0042 | [Kadane's Algorithm](./DSA/General/kadanes-algorithm) | [JAVA](./DSA/General/kadanes-algorithm/solution.java) | 🟡 Medium | `DSA` |
+| 0043 | [Large Classes](./SQL/Data-Engineering/large-classes) | [SQL](./SQL/Data-Engineering/large-classes/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0044 | [Large Nations](./SQL/Data-Engineering/large-nations) | [SQL](./SQL/Data-Engineering/large-nations/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0045 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0046 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
+| 0047 | [Longest subarray with sum K](./DSA/Arrays/longest-subarray-with-sum-k) | [JAVA](./DSA/Arrays/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0048 | [Low Bonus Employees](./SQL/Data-Engineering/low-bonus-employees) | [SQL](./SQL/Data-Engineering/low-bonus-employees/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0049 | [Lower Bound](./DSA/General/lower-bound) | [JAVA](./DSA/General/lower-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0050 | [Majority Element-II](./DSA/General/majority-element-ii) | [JAVA](./DSA/General/majority-element-ii/solution.java) | 🔴 Hard | `DSA` |
+| 0051 | [Match Employees With Their Salaries](./SQL/Data-Engineering/match-employees-with-their-salaries) | [SQL](./SQL/Data-Engineering/match-employees-with-their-salaries/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0052 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🔴 Hard | `DSA` / `Arrays` |
+| 0053 | [Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0054 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0055 | [Minimum Distance Between Points](./SQL/Data-Engineering/minimum-distance-between-points) | [SQL](./SQL/Data-Engineering/minimum-distance-between-points/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0056 | [Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | 🟢 Easy | `DSA` |
+| 0057 | [N Queen](./DSA/Recursion/n-queen) | [JAVA](./DSA/Recursion/n-queen/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
+| 0058 | [Next Permutation](./DSA/Recursion/next-permutation) | [JAVA](./DSA/Recursion/next-permutation/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0059 | [Non-Referred Customers](./SQL/Data-Engineering/non-referred-customers) | [SQL](./SQL/Data-Engineering/non-referred-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0060 | [Odd Non-Boring Movies](./SQL/Data-Engineering/odd-non-boring-movies) | [SQL](./SQL/Data-Engineering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0061 | [Palindrome partitioning](./DSA/Backtracking/palindrome-partitioning) | [JAVA](./DSA/Backtracking/palindrome-partitioning/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0062 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0063 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0064 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0065 | [Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | 🟢 Easy | `DSA` |
+| 0066 | [Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | 🟢 Easy | `DSA` |
+| 0067 | [Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | 🟢 Easy | `DSA` |
+| 0068 | [Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | 🟢 Easy | `DSA` |
+| 0069 | [Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | 🟢 Easy | `DSA` |
+| 0070 | [Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | 🟢 Easy | `DSA` |
+| 0071 | [Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `DSA` |
+| 0072 | [Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | 🟡 Medium | `DSA` |
+| 0073 | [Pow(x,n)](./DSA/General/powxn) | [JAVA](./DSA/General/powxn/solution.java) | 🟢 Easy | `DSA` |
+| 0074 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0075 | [Profitable Customers in 2021](./SQL/Data-Engineering/profitable-customers-in-2021) | [SQL](./SQL/Data-Engineering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0076 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0077 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0078 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0079 | [Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | 🔴 Hard | `DSA` |
+| 0080 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0081 | [Sales Analysis](./SQL/Data-Engineering/sales-analysis) | [SQL](./SQL/Data-Engineering/sales-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0082 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0083 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0084 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0085 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0086 | [Students Enrolled in Non-Existent Departments](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments) | [SQL](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0087 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0088 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0089 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0090 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `DSA` |
+| 0091 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
+| 0092 | [Suspended Accounts](./SQL/Data-Engineering/suspended-accounts) | [SQL](./SQL/Data-Engineering/suspended-accounts/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
+| 0093 | [System Settings](./SQL/Data-Engineering/system-settings) | [SQL](./SQL/Data-Engineering/system-settings/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0094 | [Table Join Operation](./SQL/Data-Engineering/table-join-operation) | [SQL](./SQL/Data-Engineering/table-join-operation/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0095 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0096 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0097 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0098 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0099 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0100 | [Warehouse Stock Manager](./SQL/Data-Engineering/warehouse-stock-manager) | [SQL](./SQL/Data-Engineering/warehouse-stock-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0101 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
 
 ---
 
