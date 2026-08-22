@@ -1,4 +1,4 @@
-# [Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze?subject=dsa&approach=optimal&tab=submissions)
+# [Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
