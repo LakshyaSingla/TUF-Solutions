@@ -1,4 +1,4 @@
-# [M Coloring Problem](https://takeuforward.org/plus/dsa/problems/m-coloring-problem?subject=dsa&approach=optimal&tab=submissions)
+# [M Coloring Problem](https://takeuforward.org/plus/dsa/problems/m-coloring-problem?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
