@@ -7,15 +7,13 @@ class Solution {
         meetings[i][0] = start[i];
         meetings[i][1] = end[i];
        }
-       Arrays.sort(meetings, (a, b) -> Integer.compare(a[1], b[1]));
-       int count = 1;
-       int limit = meetings[0][1];
-
+       Arrays.sort(meetings, (a,b) -> Integer.compare(a[1], b[1]));
+       int count = 1, limit = meetings[0][1];
        for(int i = 1; i < n; i++){
-            if(meetings[i][0] > limit){
-                count++;
-                limit = meetings[i][1];
-            }
+        if(meetings[i][0] > limit){
+            count++;
+            limit = meetings[i][1];
+        }
        }
        return count;
     }
