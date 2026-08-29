@@ -30,7 +30,7 @@
 | 0014 | [Combination XOR](./DSA/Recursion/combination-xor) | [JAVA](./DSA/Recursion/combination-xor/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
 | 0015 | [Contest Participation Rate](./SQL/Data-Engineering/contest-participation-rate) | [SQL](./SQL/Data-Engineering/contest-participation-rate/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
 | 0016 | [Count all subsequences with sum K](./DSA/Recursion/count-all-subsequences-with-sum-k) | [JAVA](./DSA/Recursion/count-all-subsequences-with-sum-k/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0017 | [Count Inversions](./DSA/General/count-inversions) | [JAVA](./DSA/General/count-inversions/solution.java) | 🔴 Hard | `DSA` |
+| 0017 | [Count Inversions](./DSA/General/count-inversions) | [CPP](./DSA/General/count-inversions/solution.cpp) [JAVA](./DSA/General/count-inversions/solution.java) | 🔴 Hard | `DSA` |
 | 0018 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [JAVA](./DSA/Hashing/count-subarrays-with-given-sum/solution.java) | 🟡 Medium | `DSA` / `Hashing` |
 | 0019 | [Count subarrays with given xor K](./DSA/Hashing/count-subarrays-with-given-xor-k) | [JAVA](./DSA/Hashing/count-subarrays-with-given-xor-k/solution.java) | 🔴 Hard | `DSA` / `Hashing` |
 | 0020 | [CRM Automotive Sales Analysis](./SQL/Data-Engineering/crm-automotive-sales-analysis) | [SQL](./SQL/Data-Engineering/crm-automotive-sales-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
@@ -114,7 +114,7 @@
 | 0098 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
 | 0099 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 | 0100 | [Set difference of two arrays](./DSA/Arrays/set-difference-of-two-arrays) | [JAVA](./DSA/Arrays/set-difference-of-two-arrays/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0101 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [JAVA](./DSA/Greedy/shortest-job-first/solution.java) [CPP](./DSA/Greedy/shortest-job-first/solution.cpp) | 🟡 Medium | `DSA` / `Greedy` |
+| 0101 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [CPP](./DSA/Greedy/shortest-job-first/solution.cpp) [JAVA](./DSA/Greedy/shortest-job-first/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
 | 0102 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
 | 0103 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
 | 0104 | [Students Enrolled in Non-Existent Departments](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments) | [SQL](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
