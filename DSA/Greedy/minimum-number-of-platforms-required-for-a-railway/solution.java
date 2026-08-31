@@ -4,17 +4,17 @@ class Solution {
         Arrays.sort(Arrival);
         Arrays.sort(Departure);
 
-        int l = 1, r = 0;
-        int count = 1, max = 1;
-        while(l < Arrival.length){
-            if(Arrival[l] <= Departure[r]){
+        int i = 1, count = 1;
+        int j = 0, max = 1;
+        while(i < Arrival.length){
+            if(Arrival[i] <= Departure[j]){
                 count++;
-                l++;
+                i++;
             }else{
                 count--;
-                r++;
+                j++;
             }
-            max = Math.max(count, max);
+            max = Math.max(max, count);
         }
         return max;
     }
