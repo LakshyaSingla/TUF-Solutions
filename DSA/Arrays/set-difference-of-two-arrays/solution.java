@@ -1,25 +1,31 @@
 class Solution {
     public int[] setDifference(int[] nums1, int[] nums2) {
-        Set<Integer> st1 = new HashSet<>();
-        Set<Integer> st2 = new HashSet<>();
-        for(int x : nums1) st1.add(x);
-        for(int x : nums2) st2.add(x);
-
-        HashSet<Integer> res = new HashSet<>();
-        for(int i : st1){
-            res.add(i);
+        HashSet<Integer> one = new HashSet<>();
+        for(int x : nums1){
+            one.add(x);
         }
-        for(int i : st2){
-            if(res.contains(i)){
-                res.remove(i);
+        HashSet<Integer> two = new HashSet<>();
+        for(int x : nums2){
+            two.add(x);
+        }
+        
+        HashSet<Integer> res = new HashSet<>();
+        for(int num : one){
+            res.add(num);
+           
+        }
+        for(int num : two){
+            if(!res.contains(num)){
+                res.add(num);
             }else{
-                res.add(i);
+                res.remove(num);
             }
         }
+
+        int i = 0;
         int[] ans = new int[res.size()];
-        int j = 0;
-        for(int i : res){
-            ans[j++] = i;
+        for(int num : res){
+            ans[i++] = num;
         }
         Arrays.sort(ans);
         return ans;
