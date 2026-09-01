@@ -1,18 +1,18 @@
 class Solution {
     public int maxConsecutiveGoodNums(int[] nums, int[] goodNumbers) {
-        HashSet<Integer> st = new HashSet<>();
-        for(int x : goodNumbers){
-            st.add(x);
+        Set<Integer> st = new HashSet<>();
+        for(int i = 0; i < goodNumbers.length; i++){
+            st.add(goodNumbers[i]);
         }
-        int maxlen = 0, len = 0;
+        int count = 0, max = 0;
         for(int i = 0; i < nums.length; i++){
             if(st.contains(nums[i])){
-                len++;
-                maxlen = Math.max(maxlen, len);
+                count++;
+                max = Math.max(count, max);
             }else{
-                len = 0;
+                count = 0;
             }
         }
-        return maxlen;
+        return max;
     }
 }
