@@ -9,6 +9,7 @@ class Solution {
 
         if(arr.get(low) <= arr.get(high)){
             ans = Math.min(ans, arr.get(low));
+            break;
         }
         if(arr.get(mid) >= arr.get(low)){
             ans = Math.min(ans, arr.get(low));
