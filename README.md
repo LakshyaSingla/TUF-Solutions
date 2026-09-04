@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **133** | 74 | 37 | 22 | `2026-09-02` |
+| **133** | 74 | 37 | 22 | `2026-09-04` |
 
 ---
 
@@ -53,7 +53,7 @@
 | 0037 | [Find the First Device Logged In by Each Player](./SQL/Data-Engineering/find-the-first-device-logged-in-by-each-player) | [SQL](./SQL/Data-Engineering/find-the-first-device-logged-in-by-each-player/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
 | 0038 | [Find the repeating and missing number](./DSA/General/find-the-repeating-and-missing-number) | [JAVA](./DSA/General/find-the-repeating-and-missing-number/solution.java) | 🔴 Hard | `DSA` |
 | 0039 | [First Login Analysis](./SQL/Data-Engineering/first-login-analysis) | [SQL](./SQL/Data-Engineering/first-login-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0040 | [Floor and Ceil in Sorted Array](./DSA/Arrays/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Arrays/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0040 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
 | 0041 | [Frequent Actor-Director Duos](./SQL/Data-Engineering/frequent-actor-director-duos) | [SQL](./SQL/Data-Engineering/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
 | 0042 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0043 | [Generate All Possible User-Category Pairs](./SQL/Data-Engineering/generate-all-possible-user-category-pairs) | [SQL](./SQL/Data-Engineering/generate-all-possible-user-category-pairs/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
