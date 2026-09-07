@@ -1,4 +1,4 @@
-# [Find out how many times the array is rotated](https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated?subject=dsa&approach=optimal&tab=submissions)
+# [Find out how many times the array is rotated](https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated?subject=dsa&approach=binary-search&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
