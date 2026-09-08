@@ -1,4 +1,4 @@
-# [Find Nth root of a number](https://takeuforward.org/plus/dsa/problems/find-nth-root-of-a-number?subject=dsa&approach=binary-search&tab=submissions)
+# [Find Nth root of a number](https://takeuforward.org/plus/dsa/problems/find-nth-root-of-a-number?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
