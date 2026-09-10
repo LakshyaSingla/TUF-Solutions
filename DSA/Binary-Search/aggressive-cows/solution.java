@@ -6,16 +6,15 @@ class Solution {
                 count++;
                 lastCow = nums[i];
             }
-            if(count >= k) return true;
         }
-        return false;
+        return count >= k;
     }
     public int aggressiveCows(int[] nums, int k) {
-        int low = 1;
+        if(k > nums.length) return -1;
+        int low =1;
         int n = nums.length;
         Arrays.sort(nums);
-        int high = nums[n-1] - nums[0];
-
+        int high = nums[n - 1] - nums[0];
         while(low <= high){
             int mid = low + (high - low) / 2;
             if(isPossible(mid, nums, k)){

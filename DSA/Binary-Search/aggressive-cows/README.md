@@ -1,4 +1,4 @@
-# [Aggressive Cows](https://takeuforward.org/plus/dsa/problems/aggressive-cows?subject=dsa&approach=binary-search&tab=submissions)
+# [Aggressive Cows](https://takeuforward.org/plus/dsa/problems/aggressive-cows?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
