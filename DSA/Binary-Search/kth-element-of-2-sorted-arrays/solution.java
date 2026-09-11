@@ -3,7 +3,6 @@ class Solution {
       int n1 = a.length;
       int n2 = b.length;
       if(n1 > n2) return kthElement(b, a, k);
-      
       int left = k;
       int low = Math.max(0, k - n2);
       int high = Math.min(k, n1);

@@ -1,4 +1,4 @@
-# [Kth element of 2 sorted arrays](https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays?subject=dsa&approach=optimal&tab=submissions)
+# [Kth element of 2 sorted arrays](https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays?subject=dsa&approach=better&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
