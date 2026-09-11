@@ -77,7 +77,7 @@
 | 0061 | [Inactive Customers](./SQL/Data-Engineering/inactive-customers) | [SQL](./SQL/Data-Engineering/inactive-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
 | 0062 | [Insert Interval](./DSA/Greedy/insert-interval) | [JAVA](./DSA/Greedy/insert-interval/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
 | 0063 | [Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0064 | [Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0064 | [Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.java) [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.cpp) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0065 | [Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0066 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 | 0067 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [JAVA](./DSA/Greedy/job-sequencing-problem/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
