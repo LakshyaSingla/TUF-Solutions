@@ -13,20 +13,17 @@ class Solution {
     public ListNode insertAtKthPosition(ListNode head, int X, int K) {
         //YOUR CODE GOES HERE
         if(head == null){
-            if(K == 1){
-                return new ListNode(X);
-            }
+            if(K == 1) return new ListNode(X);
             return head;
         }
         if(K == 1) return new ListNode(X, head);
-
-        ListNode temp = head;
         int count = 0;
+        ListNode temp = head;
         while(temp != null){
             count++;
             if(count == K - 1){
-                ListNode node = new ListNode(X, temp.next);
-                temp.next = node;
+                ListNode newNode = new ListNode(X, temp.next);
+                temp.next = newNode;
             }
             temp = temp.next;
         }
