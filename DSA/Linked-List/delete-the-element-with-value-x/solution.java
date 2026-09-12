@@ -12,15 +12,14 @@ class ListNode{
 class Solution {
     public ListNode deleteNodeWithValueX(ListNode head, int X) {
         //YOUR CODE GOES HERE
-        if(head == null) return head;
+        if(head == null) return null;
         if(head.data == X) return head.next;
         ListNode temp = head;
         ListNode prev = null;
-        while(temp!= null){
-
+        while(temp != null){
+            
             if(temp.data == X){
-                prev.next = prev.next.next;
-                break;
+                prev.next = temp.next;
             }
             prev = temp;
             temp = temp.next;

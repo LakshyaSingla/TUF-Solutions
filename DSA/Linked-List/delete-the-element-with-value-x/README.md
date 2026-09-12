@@ -1,4 +1,4 @@
-# [Delete the element with value X](https://takeuforward.org/plus/dsa/problems/delete-the-element-with-value-x?subject=dsa&approach=better&tab=submissions)
+# [Delete the element with value X](https://takeuforward.org/plus/dsa/problems/delete-the-element-with-value-x?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
