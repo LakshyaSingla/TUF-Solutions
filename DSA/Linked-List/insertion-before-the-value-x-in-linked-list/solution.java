@@ -12,9 +12,7 @@ class ListNode{
 class Solution {
     public ListNode insertBeforeX(ListNode head, int X, int val) {
         //YOUR CODE GOES HERE
-        if(head == null){
-            return null;
-        }
+        if(head == null) return null;
         if(head.data == X){
             return new ListNode(val, head);
         }

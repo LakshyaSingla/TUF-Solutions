@@ -1,4 +1,4 @@
-# [Insertion before the value X in Linked List](https://takeuforward.org/plus/dsa/problems/insertion-before-the-value-x-in-ll?subject=dsa&approach=better&tab=submissions)
+# [Insertion before the value X in Linked List](https://takeuforward.org/plus/dsa/problems/insertion-before-the-value-x-in-ll?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
