@@ -1,4 +1,4 @@
-# [Deletion of the Kth element of Linked List](https://takeuforward.org/plus/dsa/problems/deletion-of-the-kth-element-of-ll?subject=dsa&approach=better&tab=submissions)
+# [Deletion of the Kth element of Linked List](https://takeuforward.org/plus/dsa/problems/deletion-of-the-kth-element-of-ll?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
