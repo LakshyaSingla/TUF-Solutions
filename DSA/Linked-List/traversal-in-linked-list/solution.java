@@ -12,8 +12,8 @@ class ListNode{
 class Solution {
     public List<Integer> LLTraversal(ListNode head) {
         //your code goes here
-        ListNode temp = head;
         List<Integer> ls = new ArrayList<>();
+        ListNode temp = head;
         while(temp != null){
             ls.add(temp.data);
             temp = temp.next;

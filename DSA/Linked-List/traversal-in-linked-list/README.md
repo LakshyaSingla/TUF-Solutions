@@ -1,4 +1,4 @@
-# [Traversal in Linked List](https://takeuforward.org/plus/dsa/problems/traversal-in-linked-list?subject=dsa&approach=better&tab=submissions)
+# [Traversal in Linked List](https://takeuforward.org/plus/dsa/problems/traversal-in-linked-list?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
