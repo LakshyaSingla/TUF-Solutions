@@ -12,17 +12,20 @@ class ListNode{
 class Solution {
     public ListNode deleteKthNode(ListNode head, int k) {
         // Your code goes here
-        int count = 0;
-        if(head == null) return null;
+        if(head == null) return head;
         if(k == 1) return head.next;
         ListNode temp = head;
+        ListNode prev = null;
+        int count = 0;
         while(temp != null){
             count++;
-            if(count == k - 1){
-                temp.next = temp.next.next;
+            if(count == k){
+                prev.next = temp.next;
             }
+            prev = temp;
             temp = temp.next;
-        }
+
+        } 
         return head;
     }
 }
