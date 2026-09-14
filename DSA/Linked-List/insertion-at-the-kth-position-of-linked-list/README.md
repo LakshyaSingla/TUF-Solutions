@@ -1,4 +1,4 @@
-# [Insertion at the Kth position of Linked List](https://takeuforward.org/plus/dsa/problems/insertion-at-the-kth-position-of-ll?subject=dsa&approach=optimal&tab=submissions)
+# [Insertion at the Kth position of Linked List](https://takeuforward.org/plus/dsa/problems/insertion-at-the-kth-position-of-ll?subject=dsa&approach=better&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
