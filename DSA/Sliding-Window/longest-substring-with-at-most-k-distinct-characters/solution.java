@@ -3,8 +3,7 @@ class Solution {
         //your code goes here
         int n = s.length();
         int l = 0, r = 0, maxlen = 0;
-
-        HashMap<Character, Integer> mpp = new HashMap<>();
+        Map<Character, Integer> mpp = new HashMap<>();
         while(r < n){
             mpp.put(s.charAt(r), mpp.getOrDefault(s.charAt(r), 0) + 1);
             if(mpp.size() > k){
@@ -14,9 +13,7 @@ class Solution {
                 }
                 l++;
             }
-            if(mpp.size() <= k){
-                maxlen = Math.max(maxlen, r - l + 1);
-            }
+            maxlen = Math.max(maxlen, r - l + 1);
             r++;
         }
         return maxlen;
