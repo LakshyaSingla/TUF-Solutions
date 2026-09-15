@@ -1,19 +1,18 @@
 class Solution {
-    int upperBound(int[] arr, int mid, int m){
+    int upperBound(int[] matrix, int mid, int m){
         int low = 0, high = m - 1;
-        int ans = m;
+        
         while(low <= high){
             int x = low + (high - low) / 2;
-            if(arr[x] > mid){
-                ans = x;
-                high = x - 1;
-            }else{
+            if(matrix[x] <= mid){
                 low = x + 1;
+            }else{
+                high = x - 1;
             }
         }
-        return ans;
+        return low;
     }
-    int countsmallEqual(int mid, int[][] matrix, int n, int m){
+    int countbeforeMid(int mid, int[][] matrix, int m, int n){
         int count = 0;
         for(int i = 0; i < n; i++){
             count += upperBound(matrix[i], mid, m);
@@ -26,16 +25,17 @@ class Solution {
       int low = Integer.MAX_VALUE, high = Integer.MIN_VALUE;
       for(int i = 0; i < n; i++){
         low = Math.min(matrix[i][0], low);
-        high = Math.max(high, matrix[i][m - 1]);
+        high = Math.max(matrix[i][m - 1], high);
       }
-      int req = (m * n) / 2;
+      int req = m * n / 2;
       while(low <= high){
         int mid = low + (high - low) / 2;
-        int smallEqual = countsmallEqual(mid, matrix, n, m);
-        
-        if(smallEqual <= req) low = mid + 1;
-        else high = mid - 1;
-
+        int beforeMid = countbeforeMid(mid, matrix, m, n);
+        if(beforeMid <= req){
+            low = mid + 1;
+        }else{
+            high = mid - 1;
+        }
       }
       return low;
     }
