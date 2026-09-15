@@ -6,29 +6,7 @@
 
 ## 📝 Problem Statement
 
-Given an array arr, convert it into a doubly linked list and return the head of the list.
-
-### Example 1
-
-<p>
-
-**Input:** arr = [1, 2, 3, 4]</p><p>
-
-**Output:** [1, 2, 3, 4]</p>
-
-### Example 2
-
-<p>
-
-**Input:** arr = [7, 7]</p><p>
-
-**Output:** [7, 7]</p>
-
-### Constraints
-
-- n == nums.length
-- 0 <= n <= 100
-- 0 <= nums[i] <= 100
+Problem description available on TakeUForward (TUF+).
 
 ---
 
