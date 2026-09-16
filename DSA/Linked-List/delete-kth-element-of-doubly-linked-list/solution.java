@@ -39,9 +39,12 @@ class Solution {
         }else{
             prev.next = front;
             front.prev = prev;
-            temp.next = null;
             temp.prev = null;
+            temp.next = null;
         }
+
+        
         return head;
+
     }
 }
