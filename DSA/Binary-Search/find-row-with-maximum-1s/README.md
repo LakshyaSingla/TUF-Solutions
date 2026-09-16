@@ -1,4 +1,4 @@
-# [Find row with maximum 1's](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's?subject=dsa&approach=most-optimal&tab=submissions)
+# [Find row with maximum 1's](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's?subject=dsa&approach=brute&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
