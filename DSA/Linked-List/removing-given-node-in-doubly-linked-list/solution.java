@@ -13,17 +13,17 @@ class ListNode {
 class Solution {
     public void deleteGivenNode(ListNode node) {
         // Your code goes here
-        ListNode prev = node.prev;
+        ListNode back = node.prev;
         ListNode front = node.next;
         if(front == null){
-            prev.next = null;
+            back.next = null;
             node.prev = null;
-        }else{
-            prev.next = front;
-            front.prev = prev;
-            node.next = null;
-            node.prev = null;
+            return;
         }
-        
+        back.next = front;
+        front.prev = back;
+        node.prev = null;
+        node.next = null;
+        return ;
     }
 }
