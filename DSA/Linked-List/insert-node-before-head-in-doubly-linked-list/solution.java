@@ -13,8 +13,11 @@ class ListNode {
 class Solution {
     public ListNode insertBeforeHead(ListNode head, int data) {
         // Your code goes here
-        ListNode newHead = new ListNode(data, null, head);
-        head.prev = newHead;
-        return newHead;
+        if(head == null){
+            return new ListNode(data);
+        }
+        ListNode node = new ListNode(data, null, head);
+        head.prev = node;
+        return node;
     }
 }
