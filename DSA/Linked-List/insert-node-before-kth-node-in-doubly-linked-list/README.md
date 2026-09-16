@@ -1,4 +1,4 @@
-# [Insert node before (kth node) in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/insert-node-before-kth-node-in-dll?subject=dsa&approach=optimal&tab=submissions)
+# [Insert node before (kth node) in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/insert-node-before-kth-node-in-dll?subject=dsa&approach=brute&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 

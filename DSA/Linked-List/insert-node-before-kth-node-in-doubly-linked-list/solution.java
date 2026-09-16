@@ -13,22 +13,32 @@ class ListNode {
 class Solution {
     public ListNode insertBeforeKthPosition(ListNode head, int X, int K) {
         // Your code goes here
+        if(head == null){
+            if(K == 1){
+                return new ListNode(X);
+            }
+        };
         
         if(K == 1){
-                ListNode newHead = new ListNode(X, null, head);
-                head.prev = newHead;
-                return newHead;
-            }
-        ListNode temp = head;
+                ListNode node = new ListNode(X, null, head);
+                head.prev = node;
+                return node;
+        }
         int count = 0;
+        ListNode temp = head;
         while(temp != null){
             count++;
-            if(count == K) break;
+            if(count == K){
+                break;
+            }
             temp = temp.next;
         }
-        ListNode node = new ListNode(X, temp.prev, temp);
-        temp.prev.next = node;
+        ListNode prev = temp.prev;
+        ListNode node = new ListNode(X, prev, temp);
+        prev.next = node;
         temp.prev = node;
         return head;
+
+        
     }
 }
