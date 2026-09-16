@@ -1,4 +1,4 @@
-# [Convert Array to Doubly Linked List](https://takeuforward.org/plus/dsa/problems/convert-array-to-dll?subject=dsa&category=linked-list&subcategory=fundamentals-doubly-ll&approach=optimal&tab=submissions)
+# [Convert Array to Doubly Linked List](https://takeuforward.org/plus/dsa/problems/convert-array-to-dll?subject=dsa&approach=brute&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -6,7 +6,29 @@
 
 ## 📝 Problem Statement
 
-Problem description available on TakeUForward (TUF+).
+Given an array arr, convert it into a doubly linked list and return the head of the list.
+
+### Example 1
+
+<p>
+
+**Input:** arr = [1, 2, 3, 4]</p><p>
+
+**Output:** [1, 2, 3, 4]</p>
+
+### Example 2
+
+<p>
+
+**Input:** arr = [7, 7]</p><p>
+
+**Output:** [7, 7]</p>
+
+### Constraints
+
+- n == nums.length
+- 0 <= n <= 100
+- 0 <= nums[i] <= 100
 
 ---
 

@@ -14,12 +14,12 @@ class Solution {
     public ListNode arrayToDoublyLinkedList(List<Integer> arr) {
         // Your code goes here
         if(arr == null || arr.size() == 0) return null;
-        ListNode head = new ListNode(arr.get(0), null, null);
-        ListNode prev = head;
+        ListNode head = new ListNode(arr.get(0));
+        ListNode temp = head;
         for(int i = 1; i < arr.size(); i++){
-            ListNode temp = new ListNode(arr.get(i), prev, null);
-            prev.next = temp;
-            prev = temp;
+            ListNode node = new ListNode(arr.get(i), temp, null);
+            temp.next = node;
+            temp = node;
         }
         return head;
     }
