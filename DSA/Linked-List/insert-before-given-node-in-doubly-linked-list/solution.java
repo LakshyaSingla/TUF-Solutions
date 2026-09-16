@@ -14,11 +14,10 @@ class Solution {
     public void insertBeforeGivenNode(ListNode node, int X) {
         // Your code goes here
         ListNode prev = node.prev;
-        
-        ListNode newNode = new ListNode(X, prev, node);
-        prev.next = newNode;
-        node.prev = newNode;
-        
+
+        ListNode newnode = new ListNode(X, prev, node);
+        prev.next = newnode;
+        node.prev = newnode;
         
     }
 }
