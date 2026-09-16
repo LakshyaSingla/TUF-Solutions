@@ -14,9 +14,9 @@ class Solution {
     public ListNode deleteHead(ListNode head) {
         // Your code goes here
         if(head == null || head.next == null) return null;
-        ListNode newHead = head.next;
-        head.next.prev = null;
-        head.next = null;
-        return newHead;
+        head = head.next;
+        head.prev.next = null;
+        head.prev = null;
+        return head;
     }
 }

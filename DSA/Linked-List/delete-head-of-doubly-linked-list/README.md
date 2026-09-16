@@ -1,4 +1,4 @@
-# [Delete head of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-head-of-dll?subject=dsa&approach=optimal&tab=submissions)
+# [Delete head of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-head-of-dll?subject=dsa&approach=brute&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
