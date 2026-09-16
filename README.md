@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **177** | 96 | 51 | 30 | `2026-09-16` |
+| **178** | 96 | 52 | 30 | `2026-09-16` |
 
 ---
 
@@ -169,28 +169,29 @@
 | 0153 | [Set difference of two arrays](./DSA/Arrays/set-difference-of-two-arrays) | [JAVA](./DSA/Arrays/set-difference-of-two-arrays/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
 | 0154 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [JAVA](./DSA/Greedy/shortest-job-first/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
 | 0155 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
-| 0156 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0157 | [Split array - largest sum](./DSA/Binary-Search/split-array-largest-sum) | [JAVA](./DSA/Binary-Search/split-array-largest-sum/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
-| 0158 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0159 | [Students Enrolled in Non-Existent Departments](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments) | [SQL](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0160 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0161 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0162 | [Sudoku Solver](./DSA/Backtracking/sudoku-solver) | [JAVA](./DSA/Backtracking/sudoku-solver/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
-| 0163 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0164 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `DSA` |
-| 0165 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
-| 0166 | [Suspended Accounts](./SQL/Data-Engineering/suspended-accounts) | [SQL](./SQL/Data-Engineering/suspended-accounts/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
-| 0167 | [System Settings](./SQL/Data-Engineering/system-settings) | [SQL](./SQL/Data-Engineering/system-settings/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0168 | [Table Join Operation](./SQL/Data-Engineering/table-join-operation) | [SQL](./SQL/Data-Engineering/table-join-operation/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0169 | [Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0170 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0171 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0172 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0173 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
-| 0174 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0175 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [JAVA](./DSA/Greedy/valid-paranthesis-checker/solution.java) | 🔴 Hard | `DSA` / `Greedy` |
-| 0176 | [Warehouse Stock Manager](./SQL/Data-Engineering/warehouse-stock-manager) | [SQL](./SQL/Data-Engineering/warehouse-stock-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0177 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0156 | [Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s) | [JAVA](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0157 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0158 | [Split array - largest sum](./DSA/Binary-Search/split-array-largest-sum) | [JAVA](./DSA/Binary-Search/split-array-largest-sum/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
+| 0159 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0160 | [Students Enrolled in Non-Existent Departments](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments) | [SQL](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0161 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0162 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0163 | [Sudoku Solver](./DSA/Backtracking/sudoku-solver) | [JAVA](./DSA/Backtracking/sudoku-solver/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0164 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0165 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `DSA` |
+| 0166 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
+| 0167 | [Suspended Accounts](./SQL/Data-Engineering/suspended-accounts) | [SQL](./SQL/Data-Engineering/suspended-accounts/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
+| 0168 | [System Settings](./SQL/Data-Engineering/system-settings) | [SQL](./SQL/Data-Engineering/system-settings/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0169 | [Table Join Operation](./SQL/Data-Engineering/table-join-operation) | [SQL](./SQL/Data-Engineering/table-join-operation/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0170 | [Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0171 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0172 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0173 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0174 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0175 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0176 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [JAVA](./DSA/Greedy/valid-paranthesis-checker/solution.java) | 🔴 Hard | `DSA` / `Greedy` |
+| 0177 | [Warehouse Stock Manager](./SQL/Data-Engineering/warehouse-stock-manager) | [SQL](./SQL/Data-Engineering/warehouse-stock-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0178 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
 
 ---
 
