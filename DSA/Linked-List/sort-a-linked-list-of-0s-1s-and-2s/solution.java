@@ -18,8 +18,8 @@ class Solution {
         ListNode zero = zeroHead;
         ListNode one = oneHead;
         ListNode two = twoHead;
-
         ListNode temp = head;
+        if(head == null || head.next == null) return head;
         while(temp != null){
             if(temp.data == 0){
                 zero.next = temp;
@@ -36,6 +36,6 @@ class Solution {
         zero.next = (oneHead.next != null) ? oneHead.next : twoHead.next;
         one.next = twoHead.next;
         two.next = null;
-        return zeroHead.next; 
+        return zeroHead.next;
     }
 }
