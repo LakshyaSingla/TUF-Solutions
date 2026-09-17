@@ -1,7 +1,6 @@
 class Solution {
-    int upperBound(int[] matrix, int mid, int m){
-        int low = 0, high = m - 1;
-        
+    int eachRow(int mid, int[] matrix){
+        int low = 0, high = matrix.length - 1;
         while(low <= high){
             int x = low + (high - low) / 2;
             if(matrix[x] <= mid){
@@ -12,10 +11,10 @@ class Solution {
         }
         return low;
     }
-    int countbeforeMid(int mid, int[][] matrix, int m, int n){
+    int countNum(int mid, int[][] matrix){
         int count = 0;
-        for(int i = 0; i < n; i++){
-            count += upperBound(matrix[i], mid, m);
+        for(int i = 0; i < matrix.length; i++){
+            count += eachRow(mid, matrix[i]);
         }
         return count;
     }
@@ -27,11 +26,11 @@ class Solution {
         low = Math.min(matrix[i][0], low);
         high = Math.max(matrix[i][m - 1], high);
       }
-      int req = m * n / 2;
+      int req = (m * n)/ 2;
       while(low <= high){
         int mid = low + (high - low) / 2;
-        int beforeMid = countbeforeMid(mid, matrix, m, n);
-        if(beforeMid <= req){
+        int countValue = countNum(mid, matrix);
+        if(countValue <= req){
             low = mid + 1;
         }else{
             high = mid - 1;
