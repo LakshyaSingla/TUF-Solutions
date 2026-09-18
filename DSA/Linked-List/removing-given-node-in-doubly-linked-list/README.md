@@ -1,4 +1,4 @@
-# [Removing given node in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/removing-given-node-in-dll?subject=dsa&approach=brute&tab=submissions)
+# [Removing given node in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/removing-given-node-in-dll?subject=dsa&approach=recursive&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
