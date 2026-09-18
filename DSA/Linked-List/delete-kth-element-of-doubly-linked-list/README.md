@@ -1,4 +1,4 @@
-# [Delete Kth Element of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-kth-element-of-dll?subject=dsa&approach=brute&tab=submissions)
+# [Delete Kth Element of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-kth-element-of-dll?subject=dsa&approach=recursive&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 

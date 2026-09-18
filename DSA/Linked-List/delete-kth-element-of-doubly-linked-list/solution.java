@@ -13,38 +13,35 @@ class ListNode {
 class Solution {
     public ListNode deleteKthElement(ListNode head, int k) {
         // Your code goes here
-        if(head == null) return null;
         ListNode temp = head;
+        if(head == null) return null;
+       
         int count = 0;
         while(temp != null){
             count++;
-            if(count == k){
-                break;
-            }
+            if(count == k)break;
             temp = temp.next;
         }
         if(temp == null) return head;
-        ListNode prev = temp.prev;
         ListNode front = temp.next;
-
+        ListNode prev = temp.prev;
         if(prev == null && front == null){
             return null;
         }else if(prev == null){
             head.next = null;
             head = front;
             front.prev = null;
+            return head;
         }else if(front == null){
             prev.next = null;
             temp.prev = null;
+            return head;
         }else{
             prev.next = front;
             front.prev = prev;
-            temp.prev = null;
             temp.next = null;
+            temp.prev = null;
+            return head;
         }
-
-        
-        return head;
-
     }
 }
