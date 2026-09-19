@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **184** | 97 | 57 | 30 | `2026-09-19` |
+| **185** | 97 | 58 | 30 | `2026-09-19` |
 
 ---
 
@@ -73,131 +73,132 @@
 | 0057 | [Find square root of a number](./DSA/Binary-Search/find-square-root-of-a-number) | [JAVA](./DSA/Binary-Search/find-square-root-of-a-number/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
 | 0058 | [Find Team Size for Each Employee](./SQL/Data-Engineering/find-team-size-for-each-employee) | [SQL](./SQL/Data-Engineering/find-team-size-for-each-employee/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
 | 0059 | [Find the First Device Logged In by Each Player](./SQL/Data-Engineering/find-the-first-device-logged-in-by-each-player) | [SQL](./SQL/Data-Engineering/find-the-first-device-logged-in-by-each-player/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0060 | [Find the repeating and missing number](./DSA/General/find-the-repeating-and-missing-number) | [JAVA](./DSA/General/find-the-repeating-and-missing-number/solution.java) | 🔴 Hard | `DSA` |
-| 0061 | [Find the smallest divisor](./DSA/Binary-Search/find-the-smallest-divisor) | [JAVA](./DSA/Binary-Search/find-the-smallest-divisor/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
-| 0062 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0063 | [First Login Analysis](./SQL/Data-Engineering/first-login-analysis) | [SQL](./SQL/Data-Engineering/first-login-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0064 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0065 | [Frequent Actor-Director Duos](./SQL/Data-Engineering/frequent-actor-director-duos) | [SQL](./SQL/Data-Engineering/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0066 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
-| 0067 | [Generate All Possible User-Category Pairs](./SQL/Data-Engineering/generate-all-possible-user-category-pairs) | [SQL](./SQL/Data-Engineering/generate-all-possible-user-category-pairs/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0068 | [Generate Parentheses](./DSA/Recursion/generate-parentheses) | [JAVA](./DSA/Recursion/generate-parentheses/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0069 | [High-Report Managers](./SQL/Data-Engineering/high-report-managers) | [SQL](./SQL/Data-Engineering/high-report-managers/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
-| 0070 | [Highest Non-Repeating Number](./SQL/Data-Engineering/highest-non-repeating-number) | [SQL](./SQL/Data-Engineering/highest-non-repeating-number/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0071 | [Highest Order Placing Customer](./SQL/Data-Engineering/highest-order-placing-customer) | [SQL](./SQL/Data-Engineering/highest-order-placing-customer/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0072 | [Inactive Customers](./SQL/Data-Engineering/inactive-customers) | [SQL](./SQL/Data-Engineering/inactive-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0073 | [Insert before given node in Doubly Linked List](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0074 | [Insert Interval](./DSA/Greedy/insert-interval) | [JAVA](./DSA/Greedy/insert-interval/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
-| 0075 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0076 | [Insert node before (kth node) in Doubly Linked List](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0077 | [Insert node before tail in Doubly Linked List](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0078 | [Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0079 | [Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0080 | [Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0081 | [Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0082 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0083 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [JAVA](./DSA/Greedy/job-sequencing-problem/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
-| 0084 | [Jump Game - I](./DSA/Greedy/jump-game-i) | [JAVA](./DSA/Greedy/jump-game-i/solution.java) | 🟢 Easy | `DSA` / `Greedy` |
-| 0085 | [Kadane's Algorithm](./DSA/General/kadanes-algorithm) | [JAVA](./DSA/General/kadanes-algorithm/solution.java) | 🟡 Medium | `DSA` |
-| 0086 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [JAVA](./DSA/Binary-Search/koko-eating-bananas/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
-| 0087 | [Kth element of 2 sorted arrays](./DSA/Binary-Search/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/kth-element-of-2-sorted-arrays/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
-| 0088 | [Large Classes](./SQL/Data-Engineering/large-classes) | [SQL](./SQL/Data-Engineering/large-classes/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0089 | [Large Nations](./SQL/Data-Engineering/large-nations) | [SQL](./SQL/Data-Engineering/large-nations/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0090 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0091 | [Lemonade Change](./DSA/Greedy/lemonade-change) | [JAVA](./DSA/Greedy/lemonade-change/solution.java) | 🟢 Easy | `DSA` / `Greedy` |
-| 0092 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
-| 0093 | [Longest Repeating Character Replacement](./DSA/Sliding-Window/longest-repeating-character-replacement) | [JAVA](./DSA/Sliding-Window/longest-repeating-character-replacement/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
-| 0094 | [Longest subarray with sum K](./DSA/Arrays/longest-subarray-with-sum-k) | [JAVA](./DSA/Arrays/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0095 | [Longest Substring With At Most K Distinct Characters](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
-| 0096 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
-| 0097 | [Low Bonus Employees](./SQL/Data-Engineering/low-bonus-employees) | [SQL](./SQL/Data-Engineering/low-bonus-employees/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0098 | [Lower Bound](./DSA/General/lower-bound) | [JAVA](./DSA/General/lower-bound/solution.java) | 🟢 Easy | `DSA` |
-| 0099 | [M Coloring Problem](./DSA/Backtracking/m-coloring-problem) | [JAVA](./DSA/Backtracking/m-coloring-problem/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
-| 0100 | [Majority Element-II](./DSA/General/majority-element-ii) | [JAVA](./DSA/General/majority-element-ii/solution.java) | 🔴 Hard | `DSA` |
-| 0101 | [Match Employees With Their Salaries](./SQL/Data-Engineering/match-employees-with-their-salaries) | [SQL](./SQL/Data-Engineering/match-employees-with-their-salaries/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0102 | [Matrix Median](./DSA/Binary-Search/matrix-median) | [JAVA](./DSA/Binary-Search/matrix-median/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
-| 0103 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
-| 0104 | [Maximum Consecutive Good Numbers](./DSA/Arrays/maximum-consecutive-good-numbers) | [JAVA](./DSA/Arrays/maximum-consecutive-good-numbers/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0105 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
-| 0106 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🔴 Hard | `DSA` / `Arrays` |
-| 0107 | [Median of 2 sorted arrays](./DSA/Binary-Search/median-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/median-of-2-sorted-arrays/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
-| 0108 | [Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0109 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0110 | [Minimize Max Distance to Gas Station](./DSA/Binary-Search/minimize-max-distance-to-gas-station) | [JAVA](./DSA/Binary-Search/minimize-max-distance-to-gas-station/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
-| 0111 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
-| 0112 | [Minimum Distance Between Points](./SQL/Data-Engineering/minimum-distance-between-points) | [SQL](./SQL/Data-Engineering/minimum-distance-between-points/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0113 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [JAVA](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
-| 0114 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [JAVA](./DSA/Sliding-Window/minimum-window-substring/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
-| 0115 | [Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | 🟢 Easy | `DSA` |
-| 0116 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [JAVA](./DSA/Greedy/n-meetings-in-one-room/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
-| 0117 | [N Queen](./DSA/Recursion/n-queen) | [JAVA](./DSA/Recursion/n-queen/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
-| 0118 | [Next Permutation](./DSA/Recursion/next-permutation) | [JAVA](./DSA/Recursion/next-permutation/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0119 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [JAVA](./DSA/Greedy/non-overlapping-intervals/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
-| 0120 | [Non-Referred Customers](./SQL/Data-Engineering/non-referred-customers) | [SQL](./SQL/Data-Engineering/non-referred-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0121 | [Number of Jumps](./DSA/Arrays/number-of-jumps) | [JAVA](./DSA/Arrays/number-of-jumps/solution.java) | 🔴 Hard | `DSA` / `Arrays` |
-| 0122 | [Number of Substrings Containing All Three Characters](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters) | [JAVA](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
-| 0123 | [Odd Non-Boring Movies](./SQL/Data-Engineering/odd-non-boring-movies) | [SQL](./SQL/Data-Engineering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0124 | [Palindrome partitioning](./DSA/Backtracking/palindrome-partitioning) | [JAVA](./DSA/Backtracking/palindrome-partitioning/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
-| 0125 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0126 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0127 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0128 | [Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | 🟢 Easy | `DSA` |
-| 0129 | [Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | 🟢 Easy | `DSA` |
-| 0130 | [Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | 🟢 Easy | `DSA` |
-| 0131 | [Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | 🟢 Easy | `DSA` |
-| 0132 | [Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | 🟢 Easy | `DSA` |
-| 0133 | [Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | 🟢 Easy | `DSA` |
-| 0134 | [Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `DSA` |
-| 0135 | [Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | 🟡 Medium | `DSA` |
-| 0136 | [Pow(x,n)](./DSA/General/powxn) | [JAVA](./DSA/General/powxn/solution.java) | 🟢 Easy | `DSA` |
-| 0137 | [Practice (Attributes and Methods)](./DSA/Introduction-to-OOPS/practice-attributes-and-methods) | [JAVA](./DSA/Introduction-to-OOPS/practice-attributes-and-methods/solution.java) | 🟡 Medium | `DSA` / `Introduction-to-OOPS` |
-| 0138 | [Practice (Classes and Objects)](./DSA/Introduction-to-OOPS/practice-classes-and-objects) | [JAVA](./DSA/Introduction-to-OOPS/practice-classes-and-objects/solution.java) | 🟡 Medium | `DSA` / `Introduction-to-OOPS` |
-| 0139 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0140 | [Profitable Customers in 2021](./SQL/Data-Engineering/profitable-customers-in-2021) | [SQL](./SQL/Data-Engineering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0141 | [Rat in a Maze](./DSA/Backtracking/rat-in-a-maze) | [JAVA](./DSA/Backtracking/rat-in-a-maze/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
-| 0142 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0143 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0144 | [Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [JAVA](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0145 | [Removing given node in Doubly Linked List](./DSA/Linked-List/removing-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/removing-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0146 | [Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0147 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0148 | [Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | 🔴 Hard | `DSA` |
-| 0149 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0150 | [Sales Analysis](./SQL/Data-Engineering/sales-analysis) | [SQL](./SQL/Data-Engineering/sales-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0151 | [Salespersons Without RED Orders](./SQL/Data-Engineering/salespersons-without-red-orders) | [SQL](./SQL/Data-Engineering/salespersons-without-red-orders/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0152 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
-| 0153 | [Search in a 2D matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
-| 0154 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
-| 0155 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-ii) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-ii/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
-| 0156 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0157 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0158 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0159 | [Set difference of two arrays](./DSA/Arrays/set-difference-of-two-arrays) | [JAVA](./DSA/Arrays/set-difference-of-two-arrays/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0160 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [JAVA](./DSA/Greedy/shortest-job-first/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
-| 0161 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
-| 0162 | [Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s) | [JAVA](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0163 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0164 | [Split array - largest sum](./DSA/Binary-Search/split-array-largest-sum) | [JAVA](./DSA/Binary-Search/split-array-largest-sum/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
-| 0165 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0166 | [Students Enrolled in Non-Existent Departments](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments) | [SQL](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0167 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0168 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
-| 0169 | [Sudoku Solver](./DSA/Backtracking/sudoku-solver) | [JAVA](./DSA/Backtracking/sudoku-solver/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
-| 0170 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0171 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `DSA` |
-| 0172 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
-| 0173 | [Suspended Accounts](./SQL/Data-Engineering/suspended-accounts) | [SQL](./SQL/Data-Engineering/suspended-accounts/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
-| 0174 | [System Settings](./SQL/Data-Engineering/system-settings) | [SQL](./SQL/Data-Engineering/system-settings/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0175 | [Table Join Operation](./SQL/Data-Engineering/table-join-operation) | [SQL](./SQL/Data-Engineering/table-join-operation/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0176 | [Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0177 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0178 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
-| 0179 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0180 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
-| 0181 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0182 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [JAVA](./DSA/Greedy/valid-paranthesis-checker/solution.java) | 🔴 Hard | `DSA` / `Greedy` |
-| 0183 | [Warehouse Stock Manager](./SQL/Data-Engineering/warehouse-stock-manager) | [SQL](./SQL/Data-Engineering/warehouse-stock-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0184 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0060 | [Find the intersection point of Y LL](./DSA/Linked-List/find-the-intersection-point-of-y-ll) | [JAVA](./DSA/Linked-List/find-the-intersection-point-of-y-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0061 | [Find the repeating and missing number](./DSA/General/find-the-repeating-and-missing-number) | [JAVA](./DSA/General/find-the-repeating-and-missing-number/solution.java) | 🔴 Hard | `DSA` |
+| 0062 | [Find the smallest divisor](./DSA/Binary-Search/find-the-smallest-divisor) | [JAVA](./DSA/Binary-Search/find-the-smallest-divisor/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0063 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0064 | [First Login Analysis](./SQL/Data-Engineering/first-login-analysis) | [SQL](./SQL/Data-Engineering/first-login-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0065 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0066 | [Frequent Actor-Director Duos](./SQL/Data-Engineering/frequent-actor-director-duos) | [SQL](./SQL/Data-Engineering/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0067 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0068 | [Generate All Possible User-Category Pairs](./SQL/Data-Engineering/generate-all-possible-user-category-pairs) | [SQL](./SQL/Data-Engineering/generate-all-possible-user-category-pairs/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0069 | [Generate Parentheses](./DSA/Recursion/generate-parentheses) | [JAVA](./DSA/Recursion/generate-parentheses/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0070 | [High-Report Managers](./SQL/Data-Engineering/high-report-managers) | [SQL](./SQL/Data-Engineering/high-report-managers/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
+| 0071 | [Highest Non-Repeating Number](./SQL/Data-Engineering/highest-non-repeating-number) | [SQL](./SQL/Data-Engineering/highest-non-repeating-number/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0072 | [Highest Order Placing Customer](./SQL/Data-Engineering/highest-order-placing-customer) | [SQL](./SQL/Data-Engineering/highest-order-placing-customer/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0073 | [Inactive Customers](./SQL/Data-Engineering/inactive-customers) | [SQL](./SQL/Data-Engineering/inactive-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0074 | [Insert before given node in Doubly Linked List](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0075 | [Insert Interval](./DSA/Greedy/insert-interval) | [JAVA](./DSA/Greedy/insert-interval/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
+| 0076 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0077 | [Insert node before (kth node) in Doubly Linked List](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0078 | [Insert node before tail in Doubly Linked List](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0079 | [Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0080 | [Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0081 | [Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0082 | [Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0083 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0084 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [JAVA](./DSA/Greedy/job-sequencing-problem/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
+| 0085 | [Jump Game - I](./DSA/Greedy/jump-game-i) | [JAVA](./DSA/Greedy/jump-game-i/solution.java) | 🟢 Easy | `DSA` / `Greedy` |
+| 0086 | [Kadane's Algorithm](./DSA/General/kadanes-algorithm) | [JAVA](./DSA/General/kadanes-algorithm/solution.java) | 🟡 Medium | `DSA` |
+| 0087 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [JAVA](./DSA/Binary-Search/koko-eating-bananas/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0088 | [Kth element of 2 sorted arrays](./DSA/Binary-Search/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/kth-element-of-2-sorted-arrays/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0089 | [Large Classes](./SQL/Data-Engineering/large-classes) | [SQL](./SQL/Data-Engineering/large-classes/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0090 | [Large Nations](./SQL/Data-Engineering/large-nations) | [SQL](./SQL/Data-Engineering/large-nations/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0091 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0092 | [Lemonade Change](./DSA/Greedy/lemonade-change) | [JAVA](./DSA/Greedy/lemonade-change/solution.java) | 🟢 Easy | `DSA` / `Greedy` |
+| 0093 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
+| 0094 | [Longest Repeating Character Replacement](./DSA/Sliding-Window/longest-repeating-character-replacement) | [JAVA](./DSA/Sliding-Window/longest-repeating-character-replacement/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
+| 0095 | [Longest subarray with sum K](./DSA/Arrays/longest-subarray-with-sum-k) | [JAVA](./DSA/Arrays/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0096 | [Longest Substring With At Most K Distinct Characters](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
+| 0097 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0098 | [Low Bonus Employees](./SQL/Data-Engineering/low-bonus-employees) | [SQL](./SQL/Data-Engineering/low-bonus-employees/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0099 | [Lower Bound](./DSA/General/lower-bound) | [JAVA](./DSA/General/lower-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0100 | [M Coloring Problem](./DSA/Backtracking/m-coloring-problem) | [JAVA](./DSA/Backtracking/m-coloring-problem/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0101 | [Majority Element-II](./DSA/General/majority-element-ii) | [JAVA](./DSA/General/majority-element-ii/solution.java) | 🔴 Hard | `DSA` |
+| 0102 | [Match Employees With Their Salaries](./SQL/Data-Engineering/match-employees-with-their-salaries) | [SQL](./SQL/Data-Engineering/match-employees-with-their-salaries/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0103 | [Matrix Median](./DSA/Binary-Search/matrix-median) | [JAVA](./DSA/Binary-Search/matrix-median/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
+| 0104 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0105 | [Maximum Consecutive Good Numbers](./DSA/Arrays/maximum-consecutive-good-numbers) | [JAVA](./DSA/Arrays/maximum-consecutive-good-numbers/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0106 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0107 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🔴 Hard | `DSA` / `Arrays` |
+| 0108 | [Median of 2 sorted arrays](./DSA/Binary-Search/median-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/median-of-2-sorted-arrays/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
+| 0109 | [Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0110 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0111 | [Minimize Max Distance to Gas Station](./DSA/Binary-Search/minimize-max-distance-to-gas-station) | [JAVA](./DSA/Binary-Search/minimize-max-distance-to-gas-station/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
+| 0112 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0113 | [Minimum Distance Between Points](./SQL/Data-Engineering/minimum-distance-between-points) | [SQL](./SQL/Data-Engineering/minimum-distance-between-points/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0114 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [JAVA](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
+| 0115 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [JAVA](./DSA/Sliding-Window/minimum-window-substring/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
+| 0116 | [Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | 🟢 Easy | `DSA` |
+| 0117 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [JAVA](./DSA/Greedy/n-meetings-in-one-room/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
+| 0118 | [N Queen](./DSA/Recursion/n-queen) | [JAVA](./DSA/Recursion/n-queen/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
+| 0119 | [Next Permutation](./DSA/Recursion/next-permutation) | [JAVA](./DSA/Recursion/next-permutation/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0120 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [JAVA](./DSA/Greedy/non-overlapping-intervals/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
+| 0121 | [Non-Referred Customers](./SQL/Data-Engineering/non-referred-customers) | [SQL](./SQL/Data-Engineering/non-referred-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0122 | [Number of Jumps](./DSA/Arrays/number-of-jumps) | [JAVA](./DSA/Arrays/number-of-jumps/solution.java) | 🔴 Hard | `DSA` / `Arrays` |
+| 0123 | [Number of Substrings Containing All Three Characters](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters) | [JAVA](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
+| 0124 | [Odd Non-Boring Movies](./SQL/Data-Engineering/odd-non-boring-movies) | [SQL](./SQL/Data-Engineering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0125 | [Palindrome partitioning](./DSA/Backtracking/palindrome-partitioning) | [JAVA](./DSA/Backtracking/palindrome-partitioning/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0126 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0127 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0128 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0129 | [Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | 🟢 Easy | `DSA` |
+| 0130 | [Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | 🟢 Easy | `DSA` |
+| 0131 | [Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | 🟢 Easy | `DSA` |
+| 0132 | [Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | 🟢 Easy | `DSA` |
+| 0133 | [Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | 🟢 Easy | `DSA` |
+| 0134 | [Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | 🟢 Easy | `DSA` |
+| 0135 | [Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `DSA` |
+| 0136 | [Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | 🟡 Medium | `DSA` |
+| 0137 | [Pow(x,n)](./DSA/General/powxn) | [JAVA](./DSA/General/powxn/solution.java) | 🟢 Easy | `DSA` |
+| 0138 | [Practice (Attributes and Methods)](./DSA/Introduction-to-OOPS/practice-attributes-and-methods) | [JAVA](./DSA/Introduction-to-OOPS/practice-attributes-and-methods/solution.java) | 🟡 Medium | `DSA` / `Introduction-to-OOPS` |
+| 0139 | [Practice (Classes and Objects)](./DSA/Introduction-to-OOPS/practice-classes-and-objects) | [JAVA](./DSA/Introduction-to-OOPS/practice-classes-and-objects/solution.java) | 🟡 Medium | `DSA` / `Introduction-to-OOPS` |
+| 0140 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0141 | [Profitable Customers in 2021](./SQL/Data-Engineering/profitable-customers-in-2021) | [SQL](./SQL/Data-Engineering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0142 | [Rat in a Maze](./DSA/Backtracking/rat-in-a-maze) | [JAVA](./DSA/Backtracking/rat-in-a-maze/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0143 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0144 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0145 | [Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [JAVA](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0146 | [Removing given node in Doubly Linked List](./DSA/Linked-List/removing-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/removing-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0147 | [Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0148 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0149 | [Reverse Pairs](./DSA/General/reverse-pairs) | [JAVA](./DSA/General/reverse-pairs/solution.java) | 🔴 Hard | `DSA` |
+| 0150 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0151 | [Sales Analysis](./SQL/Data-Engineering/sales-analysis) | [SQL](./SQL/Data-Engineering/sales-analysis/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0152 | [Salespersons Without RED Orders](./SQL/Data-Engineering/salespersons-without-red-orders) | [SQL](./SQL/Data-Engineering/salespersons-without-red-orders/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0153 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
+| 0154 | [Search in a 2D matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
+| 0155 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0156 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-ii) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-ii/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0157 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0158 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0159 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0160 | [Set difference of two arrays](./DSA/Arrays/set-difference-of-two-arrays) | [JAVA](./DSA/Arrays/set-difference-of-two-arrays/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0161 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [JAVA](./DSA/Greedy/shortest-job-first/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
+| 0162 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0163 | [Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s) | [JAVA](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0164 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
+| 0165 | [Split array - largest sum](./DSA/Binary-Search/split-array-largest-sum) | [JAVA](./DSA/Binary-Search/split-array-largest-sum/solution.java) | 🔴 Hard | `DSA` / `Binary-Search` |
+| 0166 | [Students Enrolled in Courses](./SQL/Data-Engineering/students-enrolled-in-courses) | [SQL](./SQL/Data-Engineering/students-enrolled-in-courses/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0167 | [Students Enrolled in Non-Existent Departments](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments) | [SQL](./SQL/Data-Engineering/students-enrolled-in-non-existent-departments/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0168 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0169 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
+| 0170 | [Sudoku Solver](./DSA/Backtracking/sudoku-solver) | [JAVA](./DSA/Backtracking/sudoku-solver/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
+| 0171 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0172 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `DSA` |
+| 0173 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `DSA` |
+| 0174 | [Suspended Accounts](./SQL/Data-Engineering/suspended-accounts) | [SQL](./SQL/Data-Engineering/suspended-accounts/solution.sql) | 🟡 Medium | `SQL` / `Data-Engineering` |
+| 0175 | [System Settings](./SQL/Data-Engineering/system-settings) | [SQL](./SQL/Data-Engineering/system-settings/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0176 | [Table Join Operation](./SQL/Data-Engineering/table-join-operation) | [SQL](./SQL/Data-Engineering/table-join-operation/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0177 | [Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0178 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0179 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0180 | [Unique Subjects per Teacher](./SQL/Data-Engineering/unique-subjects-per-teacher) | [SQL](./SQL/Data-Engineering/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0181 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `DSA` |
+| 0182 | [User Follower Count](./SQL/Data-Engineering/user-follower-count) | [SQL](./SQL/Data-Engineering/user-follower-count/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0183 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [JAVA](./DSA/Greedy/valid-paranthesis-checker/solution.java) | 🔴 Hard | `DSA` / `Greedy` |
+| 0184 | [Warehouse Stock Manager](./SQL/Data-Engineering/warehouse-stock-manager) | [SQL](./SQL/Data-Engineering/warehouse-stock-manager/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
+| 0185 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `DSA` / `Backtracking` |
 
 ---
 
