@@ -12,6 +12,7 @@ class ListNode{
 class Solution {
     public ListNode sortList(ListNode head) {
         //YOUR CODE GOES HERE
+        if(head == null || head.next == null) return head;
         ListNode zeroHead = new ListNode(-1);
         ListNode oneHead = new ListNode(-1);
         ListNode twoHead = new ListNode(-1);
@@ -19,7 +20,6 @@ class Solution {
         ListNode one = oneHead;
         ListNode two = twoHead;
         ListNode temp = head;
-        if(head == null || head.next == null) return head;
         while(temp != null){
             if(temp.data == 0){
                 zero.next = temp;
