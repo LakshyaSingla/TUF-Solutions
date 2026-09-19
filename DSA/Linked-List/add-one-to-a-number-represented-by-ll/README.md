@@ -1,4 +1,4 @@
-# [Add one to a number represented by LL](https://takeuforward.org/plus/dsa/problems/add-one-to-a-number-represented-by-ll?subject=dsa&approach=recursive&tab=submissions)
+# [Add one to a number represented by LL](https://takeuforward.org/plus/dsa/problems/add-one-to-a-number-represented-by-ll?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
