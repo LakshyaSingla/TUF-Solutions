@@ -36,7 +36,7 @@
 | 0020 | [Combination Sum III](./DSA/Recursion/combination-sum-iii) | [JAVA](./DSA/Recursion/combination-sum-iii/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
 | 0021 | [Combination XOR](./DSA/Recursion/combination-xor) | [JAVA](./DSA/Recursion/combination-xor/solution.java) | 🟡 Medium | `DSA` / `Recursion` |
 | 0022 | [Contest Participation Rate](./SQL/Data-Engineering/contest-participation-rate) | [SQL](./SQL/Data-Engineering/contest-participation-rate/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
-| 0023 | [Convert Array to Doubly Linked List](./DSA/Linked-List/convert-array-to-doubly-linked-list) | [JAVA](./DSA/Linked-List/convert-array-to-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0023 | [Convert Array to Doubly Linked List](./DSA/Linked-List/convert-array-to-doubly-linked-list) | [CPP](./DSA/Linked-List/convert-array-to-doubly-linked-list/solution.cpp) [JAVA](./DSA/Linked-List/convert-array-to-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0024 | [Count all subsequences with sum K](./DSA/Recursion/count-all-subsequences-with-sum-k) | [JAVA](./DSA/Recursion/count-all-subsequences-with-sum-k/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
 | 0025 | [Count Inversions](./DSA/General/count-inversions) | [CPP](./DSA/General/count-inversions/solution.cpp) [JAVA](./DSA/General/count-inversions/solution.java) | 🔴 Hard | `DSA` |
 | 0026 | [Count number of Nice subarrays](./DSA/Sliding-Window/count-number-of-nice-subarrays) | [JAVA](./DSA/Sliding-Window/count-number-of-nice-subarrays/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
@@ -65,7 +65,7 @@
 | 0049 | [Find Middle of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [JAVA](./DSA/Linked-List/find-middle-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0050 | [Find minimum in Rotated Sorted Array](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array) | [JAVA](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
 | 0051 | [Find missing number](./DSA/General/find-missing-number) | [JAVA](./DSA/General/find-missing-number/solution.java) | 🟢 Easy | `DSA` |
-| 0052 | [Find Nth root of a number](./DSA/Binary-Search/find-nth-root-of-a-number) | [JAVA](./DSA/Binary-Search/find-nth-root-of-a-number/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0052 | [Find Nth root of a number](./DSA/Binary-Search/find-nth-root-of-a-number) | [CPP](./DSA/Binary-Search/find-nth-root-of-a-number/solution.cpp) [JAVA](./DSA/Binary-Search/find-nth-root-of-a-number/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
 | 0053 | [Find out how many times the array is rotated](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated) | [JAVA](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
 | 0054 | [Find peak element](./DSA/Binary-Search/find-peak-element) | [JAVA](./DSA/Binary-Search/find-peak-element/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
 | 0055 | [Find Peak Element - II](./DSA/Binary-Search/find-peak-element-ii) | [JAVA](./DSA/Binary-Search/find-peak-element-ii/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
@@ -95,7 +95,7 @@
 | 0079 | [Insert node before (kth node) in Doubly Linked List](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0080 | [Insert node before tail in Doubly Linked List](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0081 | [Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0082 | [Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0082 | [Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.cpp) [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0083 | [Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0084 | [Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0085 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
@@ -177,7 +177,7 @@
 | 0161 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
 | 0162 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0163 | [Set difference of two arrays](./DSA/Arrays/set-difference-of-two-arrays) | [JAVA](./DSA/Arrays/set-difference-of-two-arrays/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
-| 0164 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [JAVA](./DSA/Greedy/shortest-job-first/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
+| 0164 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [CPP](./DSA/Greedy/shortest-job-first/solution.cpp) [JAVA](./DSA/Greedy/shortest-job-first/solution.java) | 🟡 Medium | `DSA` / `Greedy` |
 | 0165 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `DSA` / `Binary-Search` |
 | 0166 | [Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s) | [JAVA](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0167 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `DSA` / `Arrays` |
