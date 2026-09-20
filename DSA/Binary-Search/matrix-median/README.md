@@ -1,4 +1,4 @@
-# [Matrix Median](https://takeuforward.org/plus/dsa/problems/matrix-median?subject=dsa&approach=recursive&tab=submissions)
+# [Matrix Median](https://takeuforward.org/plus/dsa/problems/matrix-median?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
