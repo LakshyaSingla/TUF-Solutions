@@ -71,7 +71,7 @@
 | 0053 | [Generate Parentheses](./DSA/Recursion/generate-parentheses) | [JAVA](./DSA/Recursion/generate-parentheses/solution.java) | 🟡 Medium | `Recursion` | `2026-09-21` |
 | 0054 | [Implement queue using Linkedlist](./DSA/Stack-Queue/implement-queue-using-linkedlist) | [JAVA](./DSA/Stack-Queue/implement-queue-using-linkedlist/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-23` |
 | 0055 | [Implement Queue Using Stack](./DSA/Stack-Queue/implement-queue-using-stack) | [JAVA](./DSA/Stack-Queue/implement-queue-using-stack/solution.java) | ⚪ Unspecified | `Stack-Queue` | `2026-09-23` |
-| 0056 | [Implement stack using Linkedlist](./DSA/Stack-Queue/implement-stack-using-linkedlist) | [JAVA](./DSA/Stack-Queue/implement-stack-using-linkedlist/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-23` |
+| 0056 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0057 | [Insert before given node in Doubly Linked List](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-21` |
 | 0058 | [Insert Interval](./DSA/Greedy/insert-interval) | [JAVA](./DSA/Greedy/insert-interval/solution.java) | 🟡 Medium | `Greedy` | `2026-09-21` |
 | 0059 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-21` |
