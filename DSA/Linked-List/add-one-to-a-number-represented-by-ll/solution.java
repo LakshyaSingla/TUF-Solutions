@@ -21,35 +21,34 @@ class ListNode {
  */
 
 class Solution {
-    ListNode reverse(ListNode head){
-        if(head == null || head.next == null) return head;
+    ListNode reverseLL(ListNode head){
+        
         ListNode curr = head;
         ListNode prev = null;
         while(curr != null){
-            ListNode front = curr.next;
+            ListNode next = curr.next;
             curr.next = prev;
             prev = curr;
-            curr = front;
+            curr = next;
         }
         return prev;
     }
     public ListNode addOne(ListNode head) {
         int carry = 1;
-        head = reverse(head);
+        head = reverseLL(head);
         ListNode curr = head;
         while(curr != null){
-            int sum = carry + curr.val;
+            int sum = curr.val + carry;
             carry = sum / 10;
             curr.val = sum % 10;
             if(carry == 0) break;
             if(curr.next == null && carry != 0){
-            curr.next = new ListNode(carry);
-            break;
-        }
+                curr.next = new ListNode(carry);
+                break;
+            }
             curr = curr.next;
         }
-        
-        head = reverse(head);
+        head = reverseLL(head);
         return head;
 
     }

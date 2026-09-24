@@ -1,6 +1,6 @@
-# [Add one to a number represented by LL](https://takeuforward.org/plus/dsa/problems/add-one-to-a-number-represented-by-ll?subject=dsa&approach=optimal&tab=submissions)
+# [Add one to a number represented by LL](https://takeuforward.org/practice/dsa/add-one-to-a-number-represented-by-ll?category=faqs--medium&source=strivers-a2z-dsa-sheet&tab=problem)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
@@ -10,25 +10,29 @@ Given the **head** of a singly linked list representing a positive **integer** n
 
 The number will contain **no** leading zeroes except when the value represented is **zero** itself.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** head -> 1 -> 2 -> 3
 
-**Input:** head -> 1 -> 2 -> 3</p><p>
+**Output:** head -> 1 -> 2 -> 4
 
-**Output:** head -> 1 -> 2 -> 4</p><p>
+**Explanation:** The number represented by the linked list = 123.
 
-**Explanation:** The number represented by the linked list = 123.</p>123 + 1 = 124.
+123 + 1 = 124.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** head -> 9 -> 9
 
-**Input:** head -> 9 -> 9</p><p>
+**Output:** head -> 1 -> 0 -> 0
 
-**Output:** head -> 1 -> 0 -> 0</p><p>
+**Explanation:** The number represented by the linked list = 99.
 
-**Explanation:** The number represented by the linked list = 99.</p>99 + 1 = 100.
+99 + 1 = 100.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +50,5 @@ The number will contain **no** leading zeroes except when the value represented 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

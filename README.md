@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **191** | 97 | 64 | 30 | `2026-09-23` |
+| **191** | 97 | 64 | 30 | `2026-09-24` |
 
 ---
 
@@ -18,7 +18,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [3 Sum](./DSA/General/0003-sum) | [JAVA](./DSA/General/0003-sum/solution.java) | 🟡 Medium | `General` | `2026-09-21` |
 | 0002 | [4 Sum](./DSA/General/0004-sum) | [JAVA](./DSA/General/0004-sum/solution.java) | 🟡 Medium | `General` | `2026-09-21` |
-| 0003 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-21` |
+| 0003 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0004 | [Add two numbers in Linked List](./DSA/Linked-List/add-two-numbers-in-linked-list) | [JAVA](./DSA/Linked-List/add-two-numbers-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-21` |
 | 0005 | [Aggressive Cows](./DSA/Binary-Search/aggressive-cows) | [JAVA](./DSA/Binary-Search/aggressive-cows/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-21` |
 | 0006 | [Assign Cookies](./DSA/Greedy/assign-cookies) | [JAVA](./DSA/Greedy/assign-cookies/solution.java) | 🟢 Easy | `Greedy` | `2026-09-21` |
