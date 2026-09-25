@@ -1,4 +1,4 @@
-# [Next Greater Element](https://takeuforward.org/practice/dsa/next-greater-element?category=monotonic-stack&source=strivers-a2z-dsa-sheet&solution=optimal)
+# [Next Greater Element](https://takeuforward.org/practice/dsa/next-greater-element?category=monotonic-stack&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
