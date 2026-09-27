@@ -20,8 +20,8 @@ class Solution {
         while(tail.next != null){
             tail = tail.next;
         }
-        ListNode left = head;
         ListNode right = tail;
+        ListNode left = head;
         List<List<Integer>> ans = new ArrayList<>();
         while(left != null && right != null && left != right && left.prev != right){
             int sum = left.val + right.val;
