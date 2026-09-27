@@ -1,4 +1,4 @@
-# [Flattening of LL](https://takeuforward.org/practice/dsa/flattening-of-ll?category=faqs--hard&source=strivers-a2z-dsa-sheet&tab=problem&solution=better)
+# [Flattening of LL](https://takeuforward.org/practice/dsa/flattening-of-ll?category=faqs--hard&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
