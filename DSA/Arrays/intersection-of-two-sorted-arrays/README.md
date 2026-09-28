@@ -1,6 +1,6 @@
-# [Intersection of two sorted arrays](https://takeuforward.org/plus/dsa/problems/intersection-of-two-sorted-arrays?subject=dsa&approach=optimal&tab=submissions)
+# [Intersection of two sorted arrays](https://takeuforward.org/practice/dsa/intersection-of-two-sorted-arrays?category=logic-building&source=strivers-a2z-dsa-sheet&solution=optimal)
 
-![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
@@ -10,27 +10,31 @@ Given two sorted arrays, **nums1** and **nums2** , return an array containing th
 
 The intersection of two arrays is an array where all values are present in both arrays.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums1 = [1, 2, 2, 3, 5], nums2 = [1, 2, 7]
 
-**Input:** nums1 = [1, 2, 2, 3, 5], nums2 = [1, 2, 7]</p><p>
+**Output:** [1, 2]
 
-**Output:** [1, 2]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The elements 1, 2 are the only elements present in both nums1 and nums2
+The elements 1, 2 are the only elements present in both nums1 and nums2
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums1 = [1, 2, 2, 3, 3, 3], nums2 = [2, 3, 3, 4, 5, 7]
 
-**Input:** nums1 = [1, 2, 2, 3, 3, 3], nums2 = [2, 3, 3, 4, 5, 7]</p><p>
+**Output:** [2, 3, 3]
 
-**Output:** [2, 3, 3]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The element 2 appears in both arrays only one time.
+The element 2 appears in both arrays only one time.
 
 The element 3 appears in both arrays two times so we add element 3 equal to its number of occurrences.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -48,5 +52,5 @@ The element 3 appears in both arrays two times so we add element 3 equal to its 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
