@@ -1,6 +1,6 @@
-# [Remove duplicates from sorted array](https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array?subject=dsa&approach=optimal&tab=submissions)
+# [Remove duplicates from sorted array](https://takeuforward.org/practice/dsa/remove-duplicates-from-sorted-array?category=logic-building&source=strivers-a2z-dsa-sheet&solution=optimal)
 
-![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
+![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
 ---
 
@@ -18,29 +18,33 @@ If the number of unique elements be **k,** then,
 
 An array sorted in **non-decreasing** order is an array where every element to the right of an element is either equal to or greater **** in value than that element.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [0, 0, 3, 3, 5, 6]
 
-**Input:** nums = [0, 0, 3, 3, 5, 6]</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:**
 
-**Explanation:** </p>Resulting array = [0, 3, 5, 6, _, _]
+Resulting array = [0, 3, 5, 6, _, _]
+
+There are 4 distinct elements in nums and the elements marked as _ can have any value.
+
+### Example 2:
+
+**Input:** nums = [-2, 2, 4, 4, 4, 4, 5, 5]
+
+**Output:** 4
+
+**Explanation:**
+
+Resulting array = [-2, 2, 4, 5, _, _, _, _]
 
 There are 4 distinct elements in nums and the elements marked as _ can have any value.
 
-### Example 2
+Still unsure what the problem is asking ?
 
-<p>
-
-**Input:** nums = [-2, 2, 4, 4, 4, 4, 5, 5]</p><p>
-
-**Output:** 4</p><p>
-
-**Explanation:** </p>Resulting array = [-2, 2, 4, 5, _, _, _, _]
-
-There are 4 distinct elements in nums and the elements marked as _ can have any value.
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -58,5 +62,5 @@ There are 4 distinct elements in nums and the elements marked as _ can have any 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
