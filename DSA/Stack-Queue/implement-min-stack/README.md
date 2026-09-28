@@ -1,4 +1,4 @@
-# [Implement Min Stack](https://takeuforward.org/practice/dsa/implement-min-stack?category=faqs&source=strivers-a2z-dsa-sheet)
+# [Implement Min Stack](https://takeuforward.org/practice/dsa/implement-min-stack?category=faqs&source=strivers-a2z-dsa-sheet&solution=optimal-approach)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
