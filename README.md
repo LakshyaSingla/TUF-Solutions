@@ -55,7 +55,7 @@
 | 0037 | [Fibonacci Number](./DSA/General/fibonacci-number) | [JAVA](./DSA/General/fibonacci-number/solution.java) | 🟢 Easy | `General` | `2026-09-21` |
 | 0038 | [Find Middle of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [JAVA](./DSA/Linked-List/find-middle-of-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-21` |
 | 0039 | [Find minimum in Rotated Sorted Array](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array) | [JAVA](./DSA/Binary-Search/find-minimum-in-rotated-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-21` |
-| 0040 | [Find missing number](./DSA/General/find-missing-number) | [JAVA](./DSA/General/find-missing-number/solution.java) | 🟢 Easy | `General` | `2026-09-21` |
+| 0040 | [Find missing number](./DSA/Arrays/find-missing-number) | [JAVA](./DSA/Arrays/find-missing-number/solution.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
 | 0041 | [Find Nth root of a number](./DSA/Binary-Search/find-nth-root-of-a-number) | [CPP](./DSA/Binary-Search/find-nth-root-of-a-number/solution.cpp) [JAVA](./DSA/Binary-Search/find-nth-root-of-a-number/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-21` |
 | 0042 | [Find out how many times the array is rotated](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated) | [JAVA](./DSA/Binary-Search/find-out-how-many-times-the-array-is-rotated/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-21` |
 | 0043 | [Find Pairs with Given Sum in Doubly Linked List](./DSA/Linked-List/find-pairs-with-given-sum-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/find-pairs-with-given-sum-in-doubly-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-27` |
