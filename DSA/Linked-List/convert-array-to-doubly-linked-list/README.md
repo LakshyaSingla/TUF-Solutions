@@ -1,4 +1,4 @@
-# [Convert Array to Doubly Linked List](https://takeuforward.org/plus/dsa/problems/convert-array-to-dll?subject=dsa&approach=brute&tab=submissions)
+# [Convert Array to Doubly Linked List](https://takeuforward.org/practice/dsa/convert-array-to-dll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,21 +8,21 @@
 
 Given an array arr, convert it into a doubly linked list and return the head of the list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** arr = [1, 2, 3, 4]
 
-**Input:** arr = [1, 2, 3, 4]</p><p>
+**Output:** [1, 2, 3, 4]
 
-**Output:** [1, 2, 3, 4]</p>
+### Example 2:
 
-### Example 2
+**Input:** arr = [7, 7]
 
-<p>
+**Output:** [7, 7]
 
-**Input:** arr = [7, 7]</p><p>
+Still unsure what the problem is asking ?
 
-**Output:** [7, 7]</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -40,5 +40,5 @@ Given an array arr, convert it into a doubly linked list and return the head of 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

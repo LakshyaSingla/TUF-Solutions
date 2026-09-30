@@ -1,4 +1,4 @@
-# [Check if String is Palindrome or Not](https://takeuforward.org/plus/dsa/problems/check-if-string-is-palindrome-or-not-?subject=dsa&approach=optimal-ii&tab=submissions)
+# [Check if String is Palindrome or Not](https://takeuforward.org/practice/dsa/check-if-string-is-palindrome-or-not-)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,25 @@ Given a string **s, r** eturn **true** if the string is palindrome, otherwise **
 
 A string is called **palindrome** if it reads the same forward and backward.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** s = "hannah"
 
-**Input:** s = "hannah"</p><p>
+**Output:** true
 
-**Output:** true</p><p>
+**Explanation:** The string when reversed is --> "hannah", which is same as original string , so we return true.
 
-**Explanation:** The string when reversed is --> "hannah", which is same as original string , so we return true.</p>
+### Example 2:
 
-### Example 2
+**Input:** s = "aabbaA"
 
-<p>
+**Output:** false
 
-**Input:** s = "aabbaA"</p><p>
+**Explanation:** The string when reversed is --> "Aabbaa", which is not same as original string, So we return false.
 
-**Output:** false</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The string when reversed is --> "Aabbaa", which is not same as original string, So we return false.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +45,5 @@ A string is called **palindrome** if it reads the same forward and backward.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

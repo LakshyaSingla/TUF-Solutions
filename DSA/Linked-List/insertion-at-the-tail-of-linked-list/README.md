@@ -1,4 +1,4 @@
-# [Insertion at the tail of Linked List](https://takeuforward.org/plus/dsa/problems/insertion-at-the-tail-of-ll?subject=dsa&approach=better&tab=submissions)
+# [Insertion at the tail of Linked List](https://takeuforward.org/practice/dsa/insertion-at-the-tail-of-ll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,29 @@
 
 Given the head of a singly linked list and an integer X, insert a node with value X at the tail of the linked list and return the head of the modified list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** linkedList = [1, 2, 3], X = 7
 
-**Input:** linkedList = [1, 2, 3], X = 7</p><p>
+**Output:** [1, 2, 3, 7]
 
-**Output:** [1, 2, 3, 7]</p><p>
+**Explanation:**
 
-**Explanation:** </p>7 was added as the last node.
+7 was added as the last node.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** linkedList = [], X = 0
 
-**Input:** linkedList = [], X = 0</p><p>
+**Output:** [0]
 
-**Output:** [0]</p><p>
+**Explanation:**
 
-**Explanation:** </p>0 was added as the last/only node.
+0 was added as the last/only node.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +48,5 @@ Given the head of a singly linked list and an integer X, insert a node with valu
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Deletion of the Kth element of Linked List](https://takeuforward.org/plus/dsa/problems/deletion-of-the-kth-element-of-ll?subject=dsa&approach=better&tab=submissions)
+# [Deletion of the Kth element of Linked List](https://takeuforward.org/practice/dsa/deletion-of-the-kth-element-of-ll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,29 @@
 
 Given the head of a singly linked list and an integer k, delete the k^th node of the linked list and return the head of the modified list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** linkedList = [3, 4, 5], k = 2
 
-**Input:** linkedList = [3, 4, 5], k = 2</p><p>
+**Output:** linkedList = [3, 5]
 
-**Output:** linkedList = [3, 5]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The 2^nd node with value 4 was removed.
+The 2^nd node with value 4 was removed.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** linkedList = [1, 2, 3], k = 1
 
-**Input:** linkedList = [1, 2, 3], k = 1</p><p>
+**Output:** [2, 3]
 
-**Output:** [2, 3]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The 1^st Node was removed, note that the value of the head has changed.
+The 1^st Node was removed, note that the value of the head has changed.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +49,5 @@ Given the head of a singly linked list and an integer k, delete the k^th node of
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

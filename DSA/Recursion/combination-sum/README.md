@@ -1,4 +1,4 @@
-# [Combination Sum](https://takeuforward.org/plus/dsa/problems/combination-sum?subject=dsa&approach=optimal-ii&tab=submissions)
+# [Combination Sum](https://takeuforward.org/practice/dsa/combination-sum)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -6,39 +6,41 @@
 
 ## 📝 Problem Statement
 
-Provided with a goal integer **target** and an array of unique integer **candidates** , provide a list of all possible combinations of candidates in which the selected numbers add up to the target. The combinations can be returned in any order.
+Provided with a goal integer **target** and an array of unique integers **nums** , provide a list of all possible combinations of nums in which the selected numbers add up to the target. The combinations can be returned in any order.
 
-A candidate may be selected from the pool an **infinite** number of times. There are two distinct combinations if the frequency of at least one of the selected figures differs.
+A number may be selected from nums an infinite number of times. There are two distinct combinations if the frequency of at least one of the selected numbers differs.
 
 The test cases are created so that, for the given input, there are fewer than 150 possible combinations that add up to the target.
 
-If there is no possible subsequences then return **empty** **vector** .
+If there is no possible combination, then return an empty vector.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [2, 3, 5, 4] , target = 7
 
-**Input:** candidates = [2, 3, 5, 4] , target = 7</p><p>
+**Output:** [ [2, 2, 3], [2, 5] , [3, 4] ]
 
-**Output:** [ [2, 2, 3] , [3, 4] , [5, 2] ]</p><p>
+**Explanation:**
 
-**Explanation:** </p>2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
+2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
 
-5 and 2 are candidates, and 5 + 2 = 7.
+2 and 5 are candidates, and 2 + 5 = 7.
 
 3 and 4 are candidates, and 3 + 4 = 7.
 
 There are total three combinations.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [2], target = 1
 
-**Input:** candidates = [2], target = 1</p><p>
+**Output:** []
 
-**Output:** []</p><p>
+**Explanation:** There is no way we can choose the candidates to sum up to target.
 
-**Explanation:** There is no way we can choose the candidates to sum up to target.</p>
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -57,5 +59,5 @@ There are total three combinations.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

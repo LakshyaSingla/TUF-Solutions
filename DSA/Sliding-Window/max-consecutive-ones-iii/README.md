@@ -1,4 +1,4 @@
-# [Max Consecutive Ones III](https://takeuforward.org/plus/dsa/problems/max-consecutive-ones-iii?subject=dsa&approach=optimal&tab=submissions)
+# [Max Consecutive Ones III](https://takeuforward.org/practice/dsa/max-consecutive-ones-iii)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,29 +10,33 @@ Given a binary array **nums** and an integer **k** , flip at most k 0's.
 
 Return the **maximum** number of **consecutive 1's** after performing the flipping operation.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0] , k = 3
 
-**Input:** nums = [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0] , k = 3</p><p>
+**Output:** 10
 
-**Output:** 10</p><p>
+**Explanation:** The maximum number of consecutive 1's are obtained only if we flip the 0's present at position 3, 4, 5 (0 base indexing).
 
-**Explanation:** The maximum number of consecutive 1's are obtained only if we flip the 0's present at position 3, 4, 5 (0 base indexing).</p>The array after flipping becomes [1, 1, 1, <u>1</u>, <u>1</u>, <u>1</u>, 1, 1, 1, 1, 0].
+The array after flipping becomes [1, 1, 1, <u>1</u>, <u>1</u>, <u>1</u>, 1, 1, 1, 1, 0].
 
 The number of consecutive 1's is 10.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1] , k = 3
 
-**Input:** nums = [0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1] , k = 3</p><p>
+**Output:** 9
 
-**Output:** 9</p><p>
+**Explanation:** The underlines 1's are obtained by flipping 0's in the new array.
 
-**Explanation:** The underlines 1's are obtained by flipping 0's in the new array.</p>[<u>1</u>, <u>1</u>, 1, 1, 1, <u>1</u>, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1].
+[<u>1</u>, <u>1</u>, 1, 1, 1, <u>1</u>, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1].
 
 The number of consecutive 1's is 9.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -50,5 +54,5 @@ The number of consecutive 1's is 9.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

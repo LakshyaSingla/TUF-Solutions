@@ -1,4 +1,4 @@
-# [Longest Substring Without Repeating Characters](https://takeuforward.org/plus/dsa/problems/longest-substring-without-repeating-characters?subject=dsa&approach=optimal&tab=submissions)
+# [Longest Substring Without Repeating Characters](https://takeuforward.org/practice/dsa/longest-substring-without-repeating-characters)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given a string, S. Find the **length** of the longest substring without repeating characters.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** S = "abcddabac"
 
-**Input:** S = "abcddabac"</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:** The answer is "abcd" , with a length of 4.
 
-**Explanation:** The answer is "abcd" , with a length of 4.</p>
+### Example 2:
 
-### Example 2
+**Input:** S = "aaabbbccc"
 
-<p>
+**Output:** 2
 
-**Input:** S = "aaabbbccc"</p><p>
+**Explanation:** The answers are "ab" , "bc". Both have maximum length 2.
 
-**Output:** 2</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The answers are "ab" , "bc". Both have maximum length 2.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +43,5 @@ Given a string, S. Find the **length** of the longest substring without repeatin
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

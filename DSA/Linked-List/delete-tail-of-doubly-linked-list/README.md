@@ -1,4 +1,4 @@
-# [Delete Tail of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-tail-of-dll?subject=dsa&approach=optimal&tab=submissions)
+# [Delete Tail of Doubly Linked List](https://takeuforward.org/practice/dsa/delete-tail-of-dll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,27 +10,29 @@ Given the head of a doubly linked list, remove the node at the tail of the linke
 
 The tail is the last node of the linked list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** head = [1, 2, 3]
 
-**Input:** head = [1, 2, 3]</p><p>
+**Output:** head = [1, 2]
 
-**Output:** head = [1, 2]</p><p>
+**Explanation:**
 
-**Explanation:** </p>
 - The node with value 3 was removed.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** head = [7]
 
-**Input:** head = [7]</p><p>
+**Output:** head = [ ]
 
-**Output:** head = [ ]</p><p>
+**Explanation:**
 
-**Explanation:** </p>
 - Note that the head has null value after the removal.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -48,5 +50,5 @@ The tail is the last node of the linked list.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

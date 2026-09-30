@@ -1,4 +1,4 @@
-# [Reverse a LL](https://takeuforward.org/plus/dsa/problems/reverse-a-ll?subject=dsa&approach=iterative&tab=submissions)
+# [Reverse a LL](https://takeuforward.org/practice/dsa/reverse-a-ll)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -8,25 +8,27 @@
 
 Given the head of a singly linked list. Reverse the given linked list and return the head of the modified list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** head -> 1 -> 2 -> 3 -> 4 -> 5
 
-**Input:** head -> 1 -> 2 -> 3 -> 4 -> 5</p><p>
+**Output:** head -> 5 -> 4 -> 3 -> 2 -> 1
 
-**Output:** head -> 5 -> 4 -> 3 -> 2 -> 1</p><p>
+**Explanation:** All the links are reversed and the head now points to the last node of the original list.
 
-**Explanation:** All the links are reversed and the head now points to the last node of the original list.</p>
+### Example 2:
 
-### Example 2
+**Input:** head -> 6 -> 8
 
-<p>
+**Output:** head -> 8 -> 6
 
-**Input:** head -> 6 -> 8</p><p>
+**Explanation:** All the links are reversed and the head now points to the last node of the original list.
 
-**Output:** head -> 8 -> 6</p><p>
+This can be seen like: 6 <- 8 <- head.
 
-**Explanation:** All the links are reversed and the head now points to the last node of the original list.</p>This can be seen like: 6 <- 8 <- head.
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +45,5 @@ Given the head of a singly linked list. Reverse the given linked list and return
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

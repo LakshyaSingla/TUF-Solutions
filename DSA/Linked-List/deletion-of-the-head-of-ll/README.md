@@ -1,4 +1,4 @@
-# [Deletion of the head of LL](https://takeuforward.org/plus/dsa/problems/deletion-of-the-head-of-ll?subject=dsa&approach=better&tab=submissions)
+# [Deletion of the head of LL](https://takeuforward.org/practice/dsa/deletion-of-the-head-of-ll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,29 @@ Given the head of a singly linked list, delete the head of the linked list and r
 
 **Note** : Please note that this section might seem a bit difficult without prior knowledge on what linkedList is, we will soon try to add basics concepts for your ease! If you know the concepts already please go ahead to give a shot to the problem. Cheers!
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** linkedList = [1, 2, 3]
 
-**Input:** linkedList = [1, 2, 3]</p><p>
+**Output:** [2, 3]
 
-**Output:** [2, 3]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The first node was removed.
+The first node was removed.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** linkedList = [1]
 
-**Input:** linkedList = [1]</p><p>
+**Output:** []
 
-**Output:** []</p><p>
+**Explanation:**
 
-**Explanation:** </p>Note that the head of the linked list gets changed.
+Note that the head of the linked list gets changed.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +49,5 @@ Given the head of a singly linked list, delete the head of the linked list and r
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

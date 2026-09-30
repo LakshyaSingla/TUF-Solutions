@@ -1,4 +1,4 @@
-# [Insert node before tail in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/insert-node-before-tail-in-dll?subject=dsa&approach=optimal&tab=submissions)
+# [Insert node before tail in Doubly Linked List](https://takeuforward.org/practice/dsa/insert-node-before-tail-in-dll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given the head of a doubly linked list and an integer X, insert a node with value X before the tail of the linked list and return the head of the modified list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** head = [1, 2, 4], X = 3
 
-**Input:** head = [1, 2, 4], X = 3</p><p>
+**Output:** head = [1, 2, 3, 4]
 
-**Output:** head = [1, 2, 3, 4]</p><p>
+**Explanation:** 3 was added before the last node.
 
-**Explanation:** 3 was added before the last node.</p>
+### Example 2:
 
-### Example 2
+**Input:** head = [4], X = 6
 
-<p>
+**Output:** head = [6, 4]
 
-**Input:** head = [4], X = 6</p><p>
+**Explanation:** 6 was added before 4, note that the head was changed as a result.
 
-**Output:** head = [6, 4]</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** 6 was added before 4, note that the head was changed as a result.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +45,5 @@ Given the head of a doubly linked list and an integer X, insert a node with valu
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

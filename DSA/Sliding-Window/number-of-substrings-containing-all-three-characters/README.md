@@ -1,4 +1,4 @@
-# [Number of Substrings Containing All Three Characters](https://takeuforward.org/plus/dsa/problems/number-of-substrings-containing-all-three-characters?subject=dsa&approach=optimal&tab=submissions)
+# [Number of Substrings Containing All Three Characters](https://takeuforward.org/practice/dsa/number-of-substrings-containing-all-three-characters)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given a string s , consisting only of characters 'a' , 'b' , 'c'.Find the **number** of substrings that contain at least **one** occurrence of all these characters 'a' , 'b' , 'c'.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** s = "abcba"
 
-**Input:** s = "abcba"</p><p>
+**Output:** 5
 
-**Output:** 5</p><p>
+**Explanation:** The substrings containing at least one occurrence of the characters 'a' , 'b' , 'c' are "abc" , "abcb" , "abcba" , "bcba" , "cba".
 
-**Explanation:** The substrings containing at least one occurrence of the characters 'a' , 'b' , 'c' are "abc" , "abcb" , "abcba" , "bcba" , "cba".</p>
+### Example 2:
 
-### Example 2
+**Input:** s = "ccabcc"
 
-<p>
+**Output:** 8
 
-**Input:** s = "ccabcc"</p><p>
+**Explanation:** The substrings containing at least one occurrence of the characters 'a' , 'b' , 'c' are "ccab" , "ccabc" , "ccabcc" , "cab" , "cabc" , "cabcc" , "abc" , "abcc".
 
-**Output:** 8</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The substrings containing at least one occurrence of the characters 'a' , 'b' , 'c' are "ccab" , "ccabc" , "ccabcc" , "cab" , "cabc" , "cabcc" , "abc" , "abcc".</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +43,5 @@ Given a string s , consisting only of characters 'a' , 'b' , 'c'.Find the **numb
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

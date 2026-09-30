@@ -1,4 +1,4 @@
-# [Deletion of the tail of Linked List](https://takeuforward.org/plus/dsa/problems/deletion-of-the-tail-of-ll?subject=dsa&approach=better&tab=submissions)
+# [Deletion of the tail of Linked List](https://takeuforward.org/practice/dsa/deletion-of-the-tail-of-ll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,29 @@ Given the head of a singly linked list, delete the tail of the linked list and r
 
 The tail is the last node of the linked list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** linkedList = [1, 2, 3]
 
-**Input:** linkedList = [1, 2, 3]</p><p>
+**Output:** [1, 2]
 
-**Output:** [1, 2]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The last node was removed.
+The last node was removed.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** linkedList = [1]
 
-**Input:** linkedList = [1]</p><p>
+**Output:** []
 
-**Output:** []</p><p>
+**Explanation:**
 
-**Explanation:** </p>Note that the value of head is null here.
+Note that the value of head is null here.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +49,5 @@ The tail is the last node of the linked list.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

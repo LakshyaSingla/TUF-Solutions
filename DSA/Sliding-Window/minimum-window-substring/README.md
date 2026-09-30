@@ -1,4 +1,4 @@
-# [Minimum Window Substring](https://takeuforward.org/plus/dsa/problems/minimum-window-substring-?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
+# [Minimum Window Substring](https://takeuforward.org/practice/dsa/minimum-window-substring-)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given two strings s and t. Find the **smallest** window substring of s that includes all characters in t (including duplicates) , in the window. Return the empty string "" if no such substring exists.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** s = "ADOBECODEBANC" , t = "ABC"
 
-**Input:** s = "ADOBECODEBANC" , t = "ABC"</p><p>
+**Output:** "BANC"
 
-**Output:** "BANC"</p><p>
+**Explanation:** The minimum window substring of string s that contains the string t is "BANC".
 
-**Explanation:** The minimum window substring of string s that contains the string t is "BANC".</p>
+### Example 2:
 
-### Example 2
+**Input:** s = "a" , t = "a"
 
-<p>
+**Output:** "a"
 
-**Input:** s = "a" , t = "a"</p><p>
+**Explanation:** The complete string is the minimum window
 
-**Output:** "a"</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The complete string is the minimum window</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +45,5 @@ Given two strings s and t. Find the **smallest** window substring of s that incl
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

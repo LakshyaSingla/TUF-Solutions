@@ -1,4 +1,4 @@
-# [Sort a Linked List of 0's 1's and 2's](https://takeuforward.org/plus/dsa/problems/sort-a-ll-of-0's-1's-and-2's?subject=dsa&approach=optimal&tab=submissions)
+# [Sort a Linked List of 0's 1's and 2's](https://takeuforward.org/practice/dsa/sort-a-ll-of-0's-1's-and-2's)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -12,25 +12,25 @@ Sort **** the given linked list and return the head **** of the modified **** li
 
 Do it **in-place** by changing **** the links between the nodes without **** creating new nodes.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** linkedList = [1, 0, 2, 0 , 1]
 
-**Input:** linkedList = [1, 0, 2, 0 , 1]</p><p>
+**Output:** [0, 0, 1, 1, 2]
 
-**Output:** [0, 0, 1, 1, 2]</p><p>
+**Explanation:** The values after sorting are [0, 0, 1, 1, 2].
 
-**Explanation:** The values after sorting are [0, 0, 1, 1, 2].</p>
+### Example 2:
 
-### Example 2
+**Input:** linkedList = [1, 1, 1, 0]
 
-<p>
+**Output:** [0, 1, 1, 1]
 
-**Input:** linkedList = [1, 1, 1, 0]</p><p>
+**Explanation:** The values after sorting are [0, 1, 1, 1].
 
-**Output:** [0, 1, 1, 1]</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The values after sorting are [0, 1, 1, 1].</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -47,5 +47,5 @@ Do it **in-place** by changing **** the links between the nodes without **** cre
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

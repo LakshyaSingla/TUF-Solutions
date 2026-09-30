@@ -1,4 +1,4 @@
-# [Generate Parentheses](https://takeuforward.org/plus/dsa/problems/generate-parentheses?subject=dsa&approach=optimal&tab=submissions)
+# [Generate Parentheses](https://takeuforward.org/practice/dsa/generate-parentheses)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -8,29 +8,21 @@
 
 Given an integer n.Generate all possible combinations of well-formed **parentheses** of length **2 x N** .
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 3
 
-**Input:** n = 3</p><p>
+**Output:** [ "((()))" , "(()())" , "(())()" , "()(())" , "()()()" ]
 
-**Output:** [ "((()))" , "(()())" , "(())()" , "()(())" , "()()()" ]</p>
+### Example 2:
 
-### Example 2
+**Input:** 2
 
-<p>
+**Output:** [ "(())" , "()()" ]
 
-**Input:** 2</p><p>
+Still unsure what the problem is asking ?
 
-**Output:** [ "(())" , "()()" ]</p>
-
-### Example 3
-
-<p>
-
-**Input:** 1</p>Output:
-
-()
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +38,5 @@ Given an integer n.Generate all possible combinations of well-formed **parenthes
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

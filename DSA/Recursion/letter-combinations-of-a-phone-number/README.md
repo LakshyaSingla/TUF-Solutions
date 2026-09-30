@@ -1,4 +1,4 @@
-# [Letter Combinations of a Phone Number](https://takeuforward.org/plus/dsa/problems/letter-combinations-of-a-phone-number?subject=dsa&approach=optimal-ii&tab=submissions)
+# [Letter Combinations of a Phone Number](https://takeuforward.org/practice/dsa/letter-combinations-of-a-phone-number)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -10,27 +10,29 @@ Given a string consisting of digits from **2 to 9 (inclusive)** . Return all pos
 
 Mapping of digits to letters is given in first example.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** digits = "34"
 
-**Input:** digits = "34"</p><p>
+**Output:** [ "dg", "dh", "di", "eg", "eh", "ei", "fg", "fh", "fi" ]
 
-**Output:** [ "dg", "dh", "di", "eg", "eh", "ei", "fg", "fh", "fi" ]</p><p>
+**Explanation:** The 3 is mapped with "def" and 4 is mapped with "ghi".
 
-**Explanation:** The 3 is mapped with "def" and 4 is mapped with "ghi".</p>So all possible combination by replacing the digits with characters are shown in output.
+So all possible combination by replacing the digits with characters are shown in output.
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-WlUD68IM">
+<img src="https://static.takeuforward.org/content/1789481728_LvsqPDyg.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** digits = "3"
 
-**Input:** digits = "3"</p><p>
+**Output:** [ "d", "e", "f" ]
 
-**Output:** [ "d", "e", "f" ]</p><p>
+**Explanation:** The 3 is mapped with "def".
 
-**Explanation:** The 3 is mapped with "def".</p>
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -47,5 +49,5 @@ Mapping of digits to letters is given in first example.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

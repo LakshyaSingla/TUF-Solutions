@@ -1,4 +1,4 @@
-# [Subsets I](https://takeuforward.org/plus/dsa/problems/subsets-i?subject=dsa&approach=optimal&tab=submissions)
+# [Subsets I](https://takeuforward.org/practice/dsa/subsets-i)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,15 +10,15 @@ Given an array nums of n integers. Return array of **sum** of all subsets of the
 
 Output can be returned in any order.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [2, 3]
 
-**Input:** nums = [2, 3]</p><p>
+**Output:** [0, 2, 3, 5]
 
-**Output:** [0, 2, 3, 5]</p><p>
+**Explanation:**
 
-**Explanation:** </p>When no elements is taken then Sum = 0.
+When no elements is taken then Sum = 0.
 
 When only 2 is taken then Sum = 2.
 
@@ -26,15 +26,15 @@ When only 3 is taken then Sum = 3.
 
 When element 2 and 3 are taken then&nbsp;sum = 2+3 = 5.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [5, 2, 1]
 
-**Input:** nums = [5, 2, 1]</p><p>
+**Output:** [0, 1, 2, 3, 5, 6, 7, 8]
 
-**Output:** [0, 1, 2, 3, 5, 6, 7, 8]</p><p>
+**Explanation:**
 
-**Explanation:** </p>When no elements is taken then Sum = 0.
+When no elements is taken then Sum = 0.
 
 When only 5 is taken then Sum = 5.
 
@@ -43,6 +43,10 @@ When only 2 is taken then Sum = 2.
 When only 1 is taken then Sum = 1.
 
 When element 2 and 1 are taken then&nbsp;sum = 2+1 = 3.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -59,5 +63,5 @@ When element 2 and 1 are taken then&nbsp;sum = 2+1 = 3.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

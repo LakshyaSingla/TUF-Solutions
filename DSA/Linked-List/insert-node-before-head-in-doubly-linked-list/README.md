@@ -1,4 +1,4 @@
-# [Insert node before head in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/insert-node-before-head-in-dll?subject=dsa&approach=brute&tab=submissions)
+# [Insert node before head in Doubly Linked List](https://takeuforward.org/practice/dsa/insert-node-before-head-in-dll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,23 +8,23 @@
 
 Given the head of a doubly linked list and an integer X, insert a node with value X before the head of the linked list and return the head of the modified list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** head = [1, 2, 3], X = 3
 
-**Input:** head = [1, 2, 3], X = 3</p><p>
+**Output:** head = [3, 1, 2, 3]
 
-**Output:** head = [3, 1, 2, 3]</p><p>
+**Explanation:** 3 was added before the 1st node. Note that the head's value is changed.
 
-**Explanation:** 3 was added before the 1st node. Note that the head's value is changed.</p>
+### Example 2:
 
-### Example 2
+**Input:** head = [5], X = 7
 
-<p>
+**Output:** head = [7, 5]
 
-**Input:** head = [5], X = 7</p><p>
+Still unsure what the problem is asking ?
 
-**Output:** head = [7, 5]</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +43,5 @@ Given the head of a doubly linked list and an integer X, insert a node with valu
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Delete the element with value X](https://takeuforward.org/plus/dsa/problems/delete-the-element-with-value-x?subject=dsa&approach=better&tab=submissions)
+# [Delete the element with value X](https://takeuforward.org/practice/dsa/delete-the-element-with-value-x)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,33 +8,29 @@
 
 Given the head of a singly linked list and an integer X, delete the node with value X and return the head of the modified list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** linkedList = [3, 4, 5], X = 5
 
-**Input:** linkedList = [3, 4, 5], X = 5</p><p>
+**Output:** [3, 4]
 
-**Output:** [3, 4]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The node with value 5 was removed.
+The node with value 5 was removed.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** linkedList = [3, 4, 5], X = 7
 
-**Input:** linkedList = [3, 4, 5], X = 7</p><p>
+**Output:** [3, 4, 5]
 
-**Output:** [3, 4, 5]</p><p>
+**Explanation:**
 
-**Explanation:** </p>No nodes were removed.
+No nodes were removed.
 
-### Example 3
+Still unsure what the problem is asking ?
 
-<p>
-
-**Input:** linkedList = [3, 4, 5], X = 3</p>Output:
-
-[4, 5]
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -54,5 +50,5 @@ Given the head of a singly linked list and an integer X, delete the node with va
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

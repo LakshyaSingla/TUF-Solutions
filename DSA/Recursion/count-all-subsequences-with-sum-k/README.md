@@ -1,4 +1,4 @@
-# [Count all subsequences with sum K](https://takeuforward.org/plus/dsa/problems/count-all-subsequences-with-sum-k?subject=dsa&approach=optimal-ii&tab=submissions)
+# [Count all subsequences with sum K](https://takeuforward.org/practice/dsa/count-all-subsequences-with-sum-k)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given an array nums and an integer k.Return the **number** of **non-empty subsequences** of nums such that the sum of all elements in the subsequence is equal to k.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [4, 9, 2, 5, 1] , k = 10
 
-**Input:** nums = [4, 9, 2, 5, 1] , k = 10</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:** The possible subsets with sum k are [9, 1] , [4, 5, 1].
 
-**Explanation:** The possible subsets with sum k are [9, 1] , [4, 5, 1].</p>
+### Example 2:
 
-### Example 2
+**Input:** nums = [4, 2, 10, 5, 1, 3] , k = 5
 
-<p>
+**Output:** 3
 
-**Input:** nums = [4, 2, 10, 5, 1, 3] , k = 5</p><p>
+**Explanation:** The possible subsets with sum k are [4, 1] , [2, 3] , [5].
 
-**Output:** 3</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The possible subsets with sum k are [4, 1] , [2, 3] , [5].</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +44,5 @@ Given an array nums and an integer k.Return the **number** of **non-empty subseq
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

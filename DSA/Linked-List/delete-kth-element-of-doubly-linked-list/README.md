@@ -1,4 +1,4 @@
-# [Delete Kth Element of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-kth-element-of-dll?subject=dsa&approach=recursive&tab=submissions)
+# [Delete Kth Element of Doubly Linked List](https://takeuforward.org/practice/dsa/delete-kth-element-of-dll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,26 +8,29 @@
 
 Given the head of a doubly linked list and an integer k, remove the node at the k^th position of the linked list and return the head of the modified list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** head = [2, 5, 7, 9], k = 2
 
-**Input:** head = [2, 5, 7, 9], k = 2</p><p>
+**Output:** head = [2, 7, 9]
 
-**Output:** head = [2, 7, 9]</p><p>
+**Explanation:**
 
-**Explanation:** </p>
 - The node with value 5 was removed.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** head = [2, 5, 7], k = 1
 
-**Input:** head = [2, 5, 7], k = 1</p><p>
+**Output:** head = [5, 7]
 
-**Output:** head = [5, 7]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The node with value 2 was removed, note that the head was modified.
+The node with value 2 was removed, note that the head was modified.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +49,5 @@ Given the head of a doubly linked list and an integer k, remove the node at the 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

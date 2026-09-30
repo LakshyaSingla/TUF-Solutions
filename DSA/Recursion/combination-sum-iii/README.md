@@ -1,4 +1,4 @@
-# [Combination Sum III](https://takeuforward.org/plus/dsa/problems/combination-sum-iii?subject=dsa&approach=optimal-positives-negatives&tab=submissions)
+# [Combination Sum III](https://takeuforward.org/practice/dsa/combination-sum-iii)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -13,33 +13,37 @@ Determine all possible set of k numbers that can be added together to equal n wh
 
 Return list of every **feasible combination** that is allowed. The combinations can be returned in any order, but the list cannot have the same combination twice.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** k = 3 , n = 7
 
-**Input:** k = 3 , n = 7</p><p>
+**Output:** [ [1, 2, 4] ]
 
-**Output:** [ [1, 2, 4] ]</p><p>
+**Explanation:**
 
-**Explanation:** </p>1 + 2 + 4 = 7
+1 + 2 + 4 = 7
 
 There are no other valid combinations.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** k = 3, n = 9
 
-**Input:** k = 3, n = 9</p><p>
+**Output:** [[1, 2, 6],[1, 3, 5],[2, 3, 4]]
 
-**Output:** [[1, 2, 6],[1, 3, 5],[2, 3, 4]]</p><p>
+**Explanation:**
 
-**Explanation:** </p>1 + 2 + 6 = 9
+1 + 2 + 6 = 9
 
 1 + 3 + 5 = 9
 
 2 + 3 + 4 = 9
 
 There are no other valid combinations.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -56,5 +60,5 @@ There are no other valid combinations.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

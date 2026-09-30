@@ -1,4 +1,4 @@
-# [N Queen](https://takeuforward.org/plus/dsa/problems/n-queen?subject=dsa&approach=optimal&tab=submissions)
+# [N Queen](https://takeuforward.org/practice/dsa/n-queen)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -19,27 +19,27 @@ Here are the attack rules for N-Queens:
 - Same Diagonal (top-left to bottom-right) - No two queens can share the same diagonal where (row - col) is equal.
 - Same Anti-Diagonal (top-right to bottom-left) - No two queens can share the same anti-diagonal where (row + col) is equal.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 4
 
-**Input:** n = 4</p><p>
+**Output:** [[".Q.." , "...Q" , "Q..." , "..Q."] , ["..Q." , "Q..." , "...Q" , ".Q.."]]
 
-**Output:** [[".Q.." , "...Q" , "Q..." , "..Q."] , ["..Q." , "Q..." , "...Q" , ".Q.."]]</p><p>
+**Explanation:** There are two possible combinations as shown below.
 
-**Explanation:** There are two possible combinations as shown below.</p>
+<img src="https://static.takeuforward.org/content/1789481625_5Yugvbee.webp">
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-LYFMng9U">
+### Example 2:
 
-### Example 2
+**Input:** n = 2
 
-<p>
+**Output:** [ [] ]
 
-**Input:** n = 2</p><p>
+**Explanation:** There is no possible combination for placing two queens on a board of size 2*2.
 
-**Output:** [ [] ]</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** There is no possible combination for placing two queens on a board of size 2*2.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -55,5 +55,5 @@ Here are the attack rules for N-Queens:
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

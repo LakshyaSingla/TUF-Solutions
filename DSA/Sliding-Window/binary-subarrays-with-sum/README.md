@@ -1,4 +1,4 @@
-# [Binary Subarrays With Sum](https://takeuforward.org/plus/dsa/problems/binary-subarrays-with-sum?subject=dsa&approach=optimal&tab=submissions)
+# [Binary Subarrays With Sum](https://takeuforward.org/practice/dsa/binary-subarrays-with-sum)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -10,15 +10,15 @@ Given a binary array nums and an integer goal. Return the **number** of **non-em
 
 A subarray is a continuous part of the array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 1, 0, 1, 0, 0, 1] , goal = 3
 
-**Input:** nums = [1, 1, 0, 1, 0, 0, 1] , goal = 3</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:** The subarray with sum 3 are
 
-**Explanation:** The subarray with sum 3 are</p>[1, 1, 0, 1]
+[1, 1, 0, 1]
 
 [1, 1, 0, 1, 0]
 
@@ -26,21 +26,9 @@ A subarray is a continuous part of the array.
 
 [1, 0, 1, 0, 0, 1].
 
-### Example 2
+Still unsure what the problem is asking ?
 
-<p>
-
-**Input:** nums = [0, 0, 0, 0, 1] , goal = 0</p><p>
-
-**Output:** 10</p><p>
-
-**Explanation:** Some of the subarray with sum 0 are</p>[0]
-
-[0, 0]
-
-[0, 0, 0]
-
-[0, 0, 0, 0]
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -58,5 +46,5 @@ A subarray is a continuous part of the array.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

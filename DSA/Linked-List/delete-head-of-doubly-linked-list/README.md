@@ -1,4 +1,4 @@
-# [Delete head of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-head-of-dll?subject=dsa&approach=brute&tab=submissions)
+# [Delete head of Doubly Linked List](https://takeuforward.org/practice/dsa/delete-head-of-dll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,27 +10,29 @@ Given the head of a doubly linked list, remove the node at the head of the linke
 
 The head is the first node of the linked list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** doublyLinkedList = [1, 2, 3]
 
-**Input:** doublyLinkedList = [1, 2, 3]</p><p>
+**Output:** [2, 3]
 
-**Output:** [2, 3]</p><p>
+**Explanation:**
 
-**Explanation:** </p>
 - The node with value 1 was removed.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** doublyLinkedList = [7]
 
-**Input:** doublyLinkedList = [7]</p><p>
+**Output:** [ ]
 
-**Output:** [ ]</p><p>
+**Explanation:**
 
-**Explanation:** </p>
 - Note that the head has null value after the removal.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -48,5 +50,5 @@ The head is the first node of the linked list.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Insert node before (kth node) in Doubly Linked List](https://takeuforward.org/plus/dsa/problems/insert-node-before-kth-node-in-dll?subject=dsa&approach=brute&tab=submissions)
+# [Insert node before (kth node) in Doubly Linked List](https://takeuforward.org/practice/dsa/insert-node-before-kth-node-in-dll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given the head of a doubly linked list and two integers X and K, insert a new node with value X, before the K^th node of the linked list and return the head of the modified linked list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** head = [1, 3, 5], X = 7, K = 2
 
-**Input:** head = [1, 3, 5], X = 7, K = 2</p><p>
+**Output:** head = [1, 7, 3, 5]
 
-**Output:** head = [1, 7, 3, 5]</p><p>
+**Explanation:** A node with value 7 was added before the 2nd node.
 
-**Explanation:** A node with value 7 was added before the 2nd node.</p>
+### Example 2:
 
-### Example 2
+**Input:** head = [5], X = 7, K = 1
 
-<p>
+**Output:** head = [7, 5]
 
-**Input:** head = [5], X = 7, K = 1</p><p>
+**Explanation:** A node with value 7 was added, note that the head was changed.
 
-**Output:** head = [7, 5]</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** A node with value 7 was added, note that the head was changed.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +46,5 @@ Given the head of a doubly linked list and two integers X and K, insert a new no
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

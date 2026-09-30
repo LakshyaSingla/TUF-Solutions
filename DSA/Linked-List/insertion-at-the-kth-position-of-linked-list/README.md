@@ -1,4 +1,4 @@
-# [Insertion at the Kth position of Linked List](https://takeuforward.org/plus/dsa/problems/insertion-at-the-kth-position-of-ll?subject=dsa&approach=better&tab=submissions)
+# [Insertion at the Kth position of Linked List](https://takeuforward.org/practice/dsa/insertion-at-the-kth-position-of-ll)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,23 +8,25 @@
 
 Given the head of a singly linked list and two integers X and K, insert a node with value X as the k^th node of the linked list and return the head of the modified list.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** linkedList = [1, 2, 3], X = 5, K = 2
 
-**Input:** linkedList = [1, 2, 3], X = 5, K = 2</p><p>
+**Output:** [1, 5, 2, 3]
 
-**Output:** [1, 5, 2, 3]</p>
+### Example 2:
 
-### Example 2
+**Input:** linkedList = [], X = 7, K = 1
 
-<p>
+**Output:** [7]
 
-**Input:** linkedList = [], X = 7, K = 1</p><p>
+**Explanation:**
 
-**Output:** [7]</p><p>
+Note that the value of the head was changed.
 
-**Explanation:** </p>Note that the value of the head was changed.
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +46,5 @@ Given the head of a singly linked list and two integers X and K, insert a node w
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

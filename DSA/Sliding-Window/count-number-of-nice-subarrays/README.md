@@ -1,4 +1,4 @@
-# [Count number of Nice subarrays](https://takeuforward.org/plus/dsa/problems/count-number-of-nice-subarrays?subject=dsa&approach=optimal&tab=submissions)
+# [Count number of Nice subarrays](https://takeuforward.org/practice/dsa/count-number-of-nice-subarrays)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -10,27 +10,29 @@ Given an array nums and an integer k. An array is called nice if and only if it 
 
 A subarray is continuous part of the array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 1, 2, 1, 1] , k = 3
 
-**Input:** nums = [1, 1, 2, 1, 1] , k = 3</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:** The subarrays with three odd numbers are
 
-**Explanation:** The subarrays with three odd numbers are</p>[1, 1, 2, 1]
+[1, 1, 2, 1]
 
 [1, 2, 1, 1]
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [4, 8, 2] , k = 1
 
-**Input:** nums = [4, 8, 2] , k = 1</p><p>
+**Output:** 0
 
-**Output:** 0</p><p>
+**Explanation:** The array does not contain any odd number.
 
-**Explanation:** The array does not contain any odd number.</p>
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -48,5 +50,5 @@ A subarray is continuous part of the array.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

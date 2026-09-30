@@ -1,4 +1,4 @@
-# [Subsets II](https://takeuforward.org/plus/dsa/problems/subsets-ii?subject=dsa&approach=optimal-positives-negatives&tab=submissions)
+# [Subsets II](https://takeuforward.org/practice/dsa/subsets-ii)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,21 +10,21 @@ Given an integer array nums, which can have duplicate entries, provide the **pow
 
 Duplicate subsets cannot exist in the solution set. Return the answer in any sequence.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 2, 2]
 
-**Input:** nums = [1, 2, 2]</p><p>
+**Output:** [ [ ] , [1] , [1, 2] , [1, 2, 2] , [2] , [2, 2] ]
 
-**Output:** [ [ ] , [1] , [1, 2] , [1, 2, 2] , [2] , [2, 2] ]</p>
+### Example 2:
 
-### Example 2
+**Input:** nums = [1, 2]
 
-<p>
+**Output:** [ [ ], [1] , [2] , [1, 2] ]
 
-**Input:** nums = [1, 2]</p><p>
+Still unsure what the problem is asking ?
 
-**Output:** [ [ ], [1] , [2] , [1, 2] ]</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -41,5 +41,5 @@ Duplicate subsets cannot exist in the solution set. Return the answer in any seq
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
