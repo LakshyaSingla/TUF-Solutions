@@ -1,47 +1,44 @@
 class Solution {
-    int precedence(char ch){
-            if(ch == '+' || ch == '-') return 1;
-            if(ch == '*' || ch == '/') return 2;
-            if(ch == '^') return 3;
-            return 0;
-        }
-        boolean isOperator(char ch){
-            return ch == '+' ||ch == '-' ||ch == '*' ||ch == '/' ||ch == '^';
-        }
-        boolean isRightAssociative(char ch){
-            return ch == '^';
-        }
+    int precedence(char c){
+        if(c == '+' || c == '-') return 1;
+        if(c == '/' || c == '*') return 2;
+        if(c == '^') return 3;
+        return 0;
+    }
+    boolean isOperator(char c){
+        return c == '+' || c =='-' || c=='*' || c =='/' || c =='^';
+    }
+    boolean isRightAss(char c){
+        return c == '^';
+    }
     public String infixToPostfix(String s) {
         // Your code goes here
-        
-        
-        StringBuilder result = new StringBuilder();
+        int n = s.length(); 
+        StringBuilder sb = new StringBuilder();
         Stack<Character> st = new Stack<>();
-
-        for(char ch : s.toCharArray()){
-            if(Character.isLetterOrDigit(ch)){
-                result.append(ch);
-            }else if(ch == '('){
-                st.push(ch);
-            }else if(ch == ')'){
+        for(char c : s.toCharArray()){
+            if(Character.isLetterOrDigit(c)){
+                sb.append(c);
+            }else if(c == '('){
+                st.push(c);
+            }else if(c == ')'){
                 while(!st.isEmpty() && st.peek() != '('){
-                    result.append(st.pop());
+                    sb.append(st.pop());
                 }
                 st.pop();
-            }else if(isOperator(ch)){
-                while(!st.isEmpty() && st.peek()!= '(' &&
-                (precedence(st.peek()) > precedence(ch) ||
-                    (precedence(st.peek()) == precedence(ch) && !isRightAssociative(ch))
-                    )
-                ){
-                    result.append(st.pop());
+            }else if(isOperator(c)){
+                while(!st.isEmpty() && st.peek() != '(' && 
+                (precedence(st.peek()) > precedence(c) ||
+                (precedence(st.peek()) == precedence(c) && !isRightAss(c))
+                )){
+                    sb.append(st.pop());
                 }
-                st.push(ch);
+                st.push(c);
             }
         }
         while(!st.isEmpty()){
-            result.append(st.pop());
+            sb.append(st.pop());
         }
-        return result.toString();
+        return sb.toString();
     }
 }
