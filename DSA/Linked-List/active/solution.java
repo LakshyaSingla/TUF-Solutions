@@ -1,3 +1,4 @@
+
 /*Definition for Singly Linked List
 class ListNode {
     int val;
@@ -20,21 +21,34 @@ class ListNode {
 }
 */
 
-
 class Solution {
-    public ListNode removeBadElements(ListNode head, int val) {
-        if(head == null) return head;
-        ListNode dummy = new ListNode(-1);
-        dummy.next = head;
-        ListNode curr = dummy;
-        while(curr != null && curr.next != null){
-            if(curr.next.val == val){
-                curr.next = curr.next.next;
-                
+    public ListNode segregateLinkedList(ListNode head) {
+        if(head == null || head.next == null) return head;
+        ListNode zeroHead = new ListNode(-1);
+        ListNode oneHead = new ListNode(-1);
+        ListNode twoHead = new ListNode(-1);
+        ListNode zero = zeroHead;
+        ListNode one = oneHead;
+        ListNode two = twoHead;
+        ListNode temp = head;
+        int count = 1;
+        while(temp != null){
+            if(count % 3 == 0){
+                zero.next = temp;
+                zero = zero.next;
+            }else if(count % 3 == 1){
+                one.next = temp;
+                one = one.next;
             }else{
-                curr = curr.next;
+                two.next = temp;
+                two = two.next;
             }
+            temp = temp.next;
+            count++;
         }
-        return dummy.next;
+        zero.next = (oneHead.next != null) ? oneHead.next : twoHead.next;
+        one.next = twoHead.next;
+        two.next = null;
+        return zeroHead.next;
     }
 }
