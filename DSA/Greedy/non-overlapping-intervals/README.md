@@ -1,4 +1,4 @@
-# [Non-overlapping Intervals](https://takeuforward.org/plus/dsa/problems/non-overlapping-intervals?subject=dsa&approach=optimal&tab=submissions)
+# [Non-overlapping Intervals](https://takeuforward.org/practice/dsa/non-overlapping-intervals)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -8,37 +8,29 @@
 
 Given an array of N intervals in the form of (start[i], end[i]), where start[i] is the starting point of the interval and end[i] is the ending point of the interval, return the **minimum** number of intervals that need to be removed to make the remaining intervals **non-overlapping** .
 
-<strong style="color: rgb(209, 213, 219); background-color: rgb(24, 24, 24);">Note:</strong>
+<strong style="color:rgb(209, 213, 219);background-color:rgb(24, 24, 24)">Note:</strong>
 
 Intervals which only touch at a point are also considered as non-overlapping. For example, [1, 3] and [3, 4] are non-overlapping.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** Intervals = [ [1, 2] , [2, 3] , [3, 4] ,[1, 3] ]
 
-**Input:** Intervals = [ [1, 2] , [2, 3] , [3, 4] ,[1, 3] ]</p>
+**Output:** 1
 
-<p>
+**Explanation:** You can remove the interval [1, 3] to make the remaining interval non overlapping.
 
-**Output:** 1</p>
+### Example 2:
 
-<p>
+**Input:** Intervals = [ [1, 3] , [1, 4] , [3, 5] , [3, 4] , [4, 5] ]
 
-**Explanation:** You can remove the interval [1, 3] to make the remaining interval non overlapping.</p>
+**Output:** 2
 
-### Example 2
+**Explanation:** You can remove the intervals [1, 4] and [3, 5] and the remaining intervals becomes non overlapping.
 
-<p>
+Still unsure what the problem is asking ?
 
-**Input:** Intervals = [ [1, 3] , [1, 4] , [3, 5] , [3, 4] , [4, 5] ]</p>
-
-<p>
-
-**Output:** 2</p>
-
-<p>
-
-**Explanation:** You can remove the intervals [1, 4] and [3, 5] and the remaining intervals becomes non overlapping.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -56,5 +48,5 @@ Intervals which only touch at a point are also considered as non-overlapping. Fo
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

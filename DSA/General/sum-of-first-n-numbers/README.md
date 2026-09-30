@@ -1,4 +1,4 @@
-# [Sum of First N Numbers](https://takeuforward.org/plus/dsa/problems/sum-of-first-n-numbers?subject=dsa&approach=optimal-ii&tab=submissions)
+# [Sum of First N Numbers](https://takeuforward.org/practice/dsa/sum-of-first-n-numbers)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,29 @@
 
 Given an integer **N,** return the sum of first N natural numbers. Try to solve this using recursion.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** N = 4
 
-**Input:** N = 4</p><p>
+**Output:** 10
 
-**Output:** 10</p><p>
+**Explanation:** first four natural numbers are 1, 2, 3, 4.
 
-**Explanation:** first four natural numbers are 1, 2, 3, 4.</p>Sum is 1 + 2 + 3 + 4 => 10.
+Sum is 1 + 2 + 3 + 4 => 10.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** N = 2
 
-**Input:** N = 2</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:** first two natural numbers are 1, 2.
 
-**Explanation:** first two natural numbers are 1, 2.</p>Sum is 1 + 2 => 3.
+Sum is 1 + 2 => 3.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -42,5 +46,5 @@ Given an integer **N,** return the sum of first N natural numbers. Try to solve 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Set difference of two arrays](https://takeuforward.org/plus/dsa/contest/arrays/set-difference-of-two-arrays?tab=submissions)
+# [Set difference of two arrays](https://takeuforward.org/practice/dsa/set-difference-of-two-arrays)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,29 +10,33 @@ Given two sorted arrays **nums1** and **nums2** , return an array that contains 
 
 The **set difference** of two arrays is an array where all values are **distinct** and are present in either the first array or the second array, but **not** in both.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums1 = [1, 5, 7, 9], nums2 = [1, 3, 4, 7]
 
-**Input:** nums1 = [1, 5, 7, 9], nums2 = [1, 3, 4, 7]</p><p>
+**Output:** [3, 4, 5, 9]
 
-**Output:** [3, 4, 5, 9]</p><p>
+**Explanation:**
 
-**Explanation:** </p>[<u>3</u>, <u>4</u>, 5, 9] where,
+[<u>3</u>, <u>4</u>, 5, 9] where,
 
 [3, 4] come from nums2 and [5, 9] comes from nums1.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums1 = [1, 2, 6, 6], nums2 = [-2, 2, 3, 4, 6]
 
-**Input:** nums1 = [1, 2, 6, 6], nums2 = [-2, 2, 3, 4, 6]</p><p>
+**Output:** [-2, 1, 3, 4]
 
-**Output:** [-2, 1, 3, 4]</p><p>
+**Explanation:**
 
-**Explanation:** </p>[<u>-2</u>, 1, <u>3</u>, <u>4</u>] where,
+[<u>-2</u>, 1, <u>3</u>, <u>4</u>] where,
 
 [1] comes from nums1 and [-2, 3, 4] from nums2.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -50,5 +54,5 @@ The **set difference** of two arrays is an array where all values are **distinct
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

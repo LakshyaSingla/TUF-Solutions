@@ -1,4 +1,4 @@
-# [Sort an array of 0's 1's and 2's](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's?subject=dsa&approach=better&tab=submissions)
+# [Sort an array of 0's 1's and 2's](https://takeuforward.org/practice/dsa/sort-an-array-of-0's-1's-and-2's)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,25 +10,29 @@ Given an array **nums** consisting of only 0, 1, or 2. Sort the array in non-dec
 
 The sorting must be done in-place, without making a copy of the original array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 0, 2, 1, 0]
 
-**Input:** nums = [1, 0, 2, 1, 0]</p><p>
+**Output:** [0, 0, 1, 1, 2]
 
-**Output:** [0, 0, 1, 1, 2]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The nums array in sorted order has 2 zeroes, 2 ones and 1 two
+The nums array in sorted order has 2 zeroes, 2 ones and 1 two
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [0, 0, 1, 1, 1]
 
-**Input:** nums = [0, 0, 1, 1, 1]</p><p>
+**Output:** [0, 0, 1, 1, 1]
 
-**Output:** [0, 0, 1, 1, 1]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The nums array in sorted order has 2 zeroes, 3 ones and zero twos
+The nums array in sorted order has 2 zeroes, 3 ones and zero twos
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +49,5 @@ The sorting must be done in-place, without making a copy of the original array.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

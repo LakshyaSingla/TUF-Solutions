@@ -1,4 +1,4 @@
-# [Kth element of 2 sorted arrays](https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays?subject=dsa&approach=brute&tab=submissions)
+# [Kth element of 2 sorted arrays](https://takeuforward.org/practice/dsa/kth-element-of-2-sorted-arrays)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -8,7 +8,7 @@
 
 Given two sorted arrays a and b of size m and n respectively. Find the **kth** element of the final sorted array.
 
-### Example 1
+### Example 1:
 
 Input: a = [2, 3, 6, 7, 9], b = [1, 4, 8, 10], k = 5
 
@@ -16,13 +16,17 @@ Output: 6
 
 Explanation: The final sorted array would be [1, 2, 3, 4, 6, 7, 8, 9, 10]. The 5th element of this array is 6.
 
-### Example 2
+### Example 2:
 
 Input: a = [100, 112, 256, 349, 770], b = [72, 86, 113, 119, 265, 445, 892], k = 7
 
 Output: 256
 
 Explanation: Final sorted array is - [72, 86, 100, 112, 113, 119, 256, 265, 349, 445, 770, 892], 7th element of this array is 256.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -40,5 +44,5 @@ Explanation: Final sorted array is - [72, 86, 100, 112, 113, 119, 256, 265, 349,
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

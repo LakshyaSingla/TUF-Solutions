@@ -1,4 +1,4 @@
-# [Valid Paranthesis Checker](https://takeuforward.org/plus/dsa/problems/valid-paranthesis-checker?subject=dsa&approach=optimal&tab=submissions)
+# [Valid Paranthesis Checker](https://takeuforward.org/practice/dsa/valid-paranthesis-checker)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -15,25 +15,25 @@ A string entered is legitimate if
 - Left parenthesis '(' must go before the corresponding right parenthesis ')'.
 - '*' could be treated as a single right parenthesis ')' or a single left parenthesis '(' or an empty string "".
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** s = (*))
 
-**Input:** s = (*))</p><p>
+**Output:** true
 
-**Output:** true</p><p>
+**Explanation:** The * can be replaced by an opening '(' bracket. The string after replacing the * mark is "(())" and is a valid string.
 
-**Explanation:** The * can be replaced by an opening '(' bracket. The string after replacing the * mark is "(())" and is a valid string.</p>
+### Example 2:
 
-### Example 2
+**Input:** s = *(()
 
-<p>
+**Output:** false
 
-**Input:** s = *(()</p><p>
+**Explanation:** The * replaced with any bracket does not form a valid string.
 
-**Output:** false</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The * replaced with any bracket does not form a valid string.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -50,5 +50,5 @@ A string entered is legitimate if
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

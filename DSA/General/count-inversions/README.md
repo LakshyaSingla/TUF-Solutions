@@ -1,4 +1,4 @@
-# [Count Inversions](https://takeuforward.org/plus/dsa/problems/count-inversions?subject=dsa&approach=optimal&tab=submissions)
+# [Count Inversions](https://takeuforward.org/practice/dsa/count-inversions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -16,15 +16,15 @@ Two elements **a[i]** and **a[j]** form an **inversion** if **a[i] > a[j]** and 
 
 - An array **sorted** in **descending** order has **maximum** inversion.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [2, 3, 7, 1, 3, 5]
 
-**Input:** nums = [2, 3, 7, 1, 3, 5]</p><p>
+**Output:** 5
 
-**Output:** 5</p><p>
+**Explanation:**
 
-**Explanation:** </p>The responsible indexes are:
+The responsible indexes are:
 
 nums[0], nums[3], values: 2 > 1 & indexes: 0 < 3
 
@@ -36,15 +36,19 @@ nums[2], nums[4], values: 7 > 3 & indexes: 2 < 4
 
 nums[2], nums[5], values: 7 > 5 & indexes: 2 < 5
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [-10, -5, 6, 11, 15, 17]
 
-**Input:** nums = [-10, -5, 6, 11, 15, 17]</p><p>
+**Output:** 0
 
-**Output:** 0</p><p>
+**Explanation:**
 
-**Explanation:** </p>nums is sorted, hence no inversions present.
+nums is sorted, hence no inversions present.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -61,5 +65,5 @@ nums[2], nums[5], values: 7 > 5 & indexes: 2 < 5
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Find minimum in Rotated Sorted Array](https://takeuforward.org/plus/dsa/problems/find-minimum-in-rotated-sorted-array?subject=dsa&approach=binary-search&tab=submissions)
+# [Find minimum in Rotated Sorted Array](https://takeuforward.org/practice/dsa/find-minimum-in-rotated-sorted-array)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,7 +8,7 @@
 
 Given an integer array nums of size N, sorted in ascending order with distinct values, and then **rotated** an unknown number of times (between 1 and N), find the **minimum** element in the array.
 
-### Example 1
+### Example 1:
 
 Input : nums = [4, 5, 6, 7, 0, 1, 2, 3]
 
@@ -16,13 +16,17 @@ Output: 0
 
 Explanation: Here, the element 0 is the minimum element in the array.
 
-### Example 2
+### Example 2:
 
 Input : nums = [3, 4, 5, 1, 2]
 
 Output: 1
 
 Explanation:Here, the element 1 is the minimum element in the array.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -42,5 +46,5 @@ Explanation:Here, the element 1 is the minimum element in the array.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

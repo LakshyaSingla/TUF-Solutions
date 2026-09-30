@@ -1,4 +1,4 @@
-# [Sum of Array Elements II](https://takeuforward.org/plus/dsa/problems/sum-of-array-elements-ii?subject=dsa&approach=optimal-ii&tab=submissions)
+# [Sum of Array Elements II](https://takeuforward.org/practice/dsa/sum-of-array-elements-ii)
 
 ![Difficulty: easy](https://img.shields.io/badge/Difficulty-easy-22c55e?style=for-the-badge)
 
@@ -8,30 +8,30 @@
 
 Given an array **nums,** find the **sum** of elements of array using **recursion** .
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 2, 3]
 
-**Input:** nums = [1, 2, 3]</p><p>
+**Output:** 6
 
-**Output:** 6</p><p>
+**Explanation:** The sum of elements of array is 1 + 2 + 3 => 6.
 
-**Explanation:** The sum of elements of array is 1 + 2 + 3 => 6.</p>
+### Example 2:
 
-### Example 2
+**Input:** nums = [5, 8, 1]
 
-<p>
+**Output:** 14
 
-**Input:** nums = [5, 8, 1]</p><p>
+**Explanation:** The sum of elements of array is 5 + 8 + 1 => 14.
 
-**Output:** 14</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The sum of elements of array is 5 + 8 + 1 => 14.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
 - 1 <= n <= 100
-- 1 <= nums[i] <= 100
+- 0 <= nums[i] <= 100
 
 ---
 
@@ -43,5 +43,5 @@ Given an array **nums,** find the **sum** of elements of array using **recursion
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

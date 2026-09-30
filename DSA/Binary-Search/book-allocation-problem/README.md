@@ -1,4 +1,4 @@
-# [Book Allocation Problem](https://takeuforward.org/plus/dsa/problems/book-allocation-problem?subject=dsa&approach=binary-search&tab=submissions)
+# [Book Allocation Problem](https://takeuforward.org/practice/dsa/book-allocation-problem)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -10,7 +10,7 @@ Given an array nums of n integers, where nums[i] represents the number of pages 
 
 Allocate the books to m students in such a way that the **maximum number of pages** assigned to a student is minimized. If the allocation of books is not possible, return -1.
 
-### Example 1
+### Example 1:
 
 Input: nums = [12, 34, 67, 90], m=2
 
@@ -18,13 +18,17 @@ Output: 113
 
 Explanation: The allocation of books will be 12, 34, 67 | 90. One student will get the first 3 books and the other will get the last one.
 
-### Example 2
+### Example 2:
 
 Input:&nbsp;nums = [25, 46, 28, 49, 24], m=4
 
 Output: 71
 
 Explanation: The allocation of books will be 25, 46 | 28 | 49 | 24.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -41,5 +45,5 @@ Explanation: The allocation of books will be 25, 46 | 28 | 49 | 24.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

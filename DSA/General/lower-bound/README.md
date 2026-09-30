@@ -1,4 +1,4 @@
-# [Lower Bound](https://takeuforward.org/plus/dsa/problems/lower-bound-?subject=dsa&approach=optimal&tab=submissions)
+# [Lower Bound](https://takeuforward.org/practice/dsa/lower-bound-)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -12,25 +12,29 @@ The lower bound algorithm finds the first and smallest index in a sorted array w
 
 If no such index is found, return the size of the array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums= [1,2,2,3], x = 2
 
-**Input:** nums= [1,2,2,3], x = 2</p><p>
+**Output:** 1
 
-**Output:** 1</p><p>
+**Explanation:**
 
-**Explanation:** </p>Index 1 is the smallest index such that arr[1] >= x.
+Index 1 is the smallest index such that arr[1] >= x.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums= [3,5,8,15,19], x = 9
 
-**Input:** nums= [3,5,8,15,19], x = 9</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:**
 
-**Explanation:** </p>Index 3 is the smallest index such that arr[3] >= x.
+Index 3 is the smallest index such that arr[3] >= x.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -48,5 +52,5 @@ If no such index is found, return the size of the array.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

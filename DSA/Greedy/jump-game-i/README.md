@@ -1,4 +1,4 @@
-# [Jump Game - I](https://takeuforward.org/plus/dsa/problems/jump-game---i?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
+# [Jump Game - I](https://takeuforward.org/practice/dsa/jump-game---i)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,33 +8,27 @@
 
 Given an array of integers nums, each element in the array represents the maximum jump length at that position. Initially starting at the first index of the array, determine if it is possible to **reach** the last index. Return **true** if the last index can be reached, otherwise return **false** .
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** [2, 3, 1, 1, 4]
 
-**Input:** [2, 3, 1, 1, 4]</p>
+**Output:** true
 
-<p>
+**Explanation:** We can simply take Jump of 1 step at each index to reach the last index.
 
-**Output:** true</p>
+### Example 2:
 
-<p>
+**Input:** [3, 2, 1, 0, 4]
 
-**Explanation:** We can simply take Jump of 1 step at each index to reach the last index.</p>
+**Output:** false
 
-### Example 2
+**Explanation:** No matter how you make jumps you will always reach the third index (0 base) of the array.
 
-<p>
+The maximum jump of index three is 0, So you can never reach the last index of array.
 
-**Input:** [3, 2, 1, 0, 4]</p>
+Still unsure what the problem is asking ?
 
-<p>
-
-**Output:** false</p>
-
-<p>
-
-**Explanation:** No matter how you make jumps you will always reach the third index (0 base) of the array.</p>The maximum jump of index three is 0, So you can never reach the last index of array.
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -51,5 +45,5 @@ Given an array of integers nums, each element in the array represents the maximu
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

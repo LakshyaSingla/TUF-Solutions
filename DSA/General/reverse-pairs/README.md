@@ -1,4 +1,4 @@
-# [Reverse Pairs](https://takeuforward.org/plus/dsa/problems/reverse-pairs?subject=dsa&approach=optimal&tab=submissions)
+# [Reverse Pairs](https://takeuforward.org/practice/dsa/reverse-pairs)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -14,15 +14,15 @@ An index pair **(i, j)** is called a **reverse** pair if:
 
 - nums[i] > 2 * nums[j]
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [6, 4, 1, 2, 7]
 
-**Input:** nums = [6, 4, 1, 2, 7]</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:**
 
-**Explanation:** </p>The reverse pairs are:
+The reverse pairs are:
 
 (0, 2) : nums[0] = 6, nums[2] = 1, 6 > 2 * 1
 
@@ -30,15 +30,19 @@ An index pair **(i, j)** is called a **reverse** pair if:
 
 (1, 2) : nums[1] = 4, nums[2] = 1, 4 > 2 * 1
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [5, 4, 4, 3, 3]
 
-**Input:** nums = [5, 4, 4, 3, 3]</p><p>
+**Output:** 0
 
-**Output:** 0</p><p>
+**Explanation:**
 
-**Explanation:** </p>No pairs satisfy both the conditons.
+No pairs satisfy both the conditons.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -55,5 +59,5 @@ An index pair **(i, j)** is called a **reverse** pair if:
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

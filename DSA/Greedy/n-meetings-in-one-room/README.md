@@ -1,4 +1,4 @@
-# [N meetings in one room](https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?subject=dsa&approach=optimal&tab=submissions)
+# [N meetings in one room](https://takeuforward.org/practice/dsa/n-meetings-in-one-room)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given one meeting room and N meetings represented by two arrays, start and end, where start[i] represents the start time of the ith meeting and end[i] represents the end time of the ith meeting, determine the **maximum** number of meetings that can be accommodated in the meeting room if only one meeting can be held at a time. A meeting starting at the same time another meeting ends is considered overlapping.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** Start = [1, 3, 0, 5, 8, 5]&nbsp;,&nbsp;End = [2, 4, 6, 7, 9, 9]
 
-**Input:** Start = [1, 3, 0, 5, 8, 5]&nbsp;,&nbsp;End = [2, 4, 6, 7, 9, 9]</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:** The meetings that can be accommodated in meeting room are (1,2) , (3,4) , (5,7) , (8,9).
 
-**Explanation:** The meetings that can be accommodated in meeting room are (1,2) , (3,4) , (5,7) , (8,9).</p>
+### Example 2:
 
-### Example 2
+**Input:** Start = [10, 12, 20]&nbsp;,&nbsp;End = [20, 25, 30]
 
-<p>
+**Output:** 1
 
-**Input:** Start = [10, 12, 20]&nbsp;,&nbsp;End = [20, 25, 30]</p><p>
+**Explanation:** Given the start and end time, only one meeting can be held in meeting room.
 
-**Output:** 1</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** Given the start and end time, only one meeting can be held in meeting room.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +43,5 @@ Given one meeting room and N meetings represented by two arrays, start and end, 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

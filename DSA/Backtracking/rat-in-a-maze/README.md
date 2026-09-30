@@ -1,4 +1,4 @@
-# [Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze?subject=dsa&approach=optimal&tab=submissions)
+# [Rat in a Maze](https://takeuforward.org/practice/dsa/rat-in-a-maze)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -17,27 +17,29 @@ The value 0 in grid denotes that the cell is blocked and rat cannot use that cel
 - In a path no cell can be visited more than once.
 - If there is no possible path then return empty vector.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 4 , grid = [ [1, 0, 0, 0] , [1, 1, 0, 1], [1, 1, 0, 0], [0, 1, 1, 1] ]
 
-**Input:** n = 4 , grid = [ [1, 0, 0, 0] , [1, 1, 0, 1], [1, 1, 0, 0], [0, 1, 1, 1] ]</p><p>
+**Output:** [ "DDRDRR" , "DRDDRR" ]
 
-**Output:** [ "DDRDRR" , "DRDDRR" ]</p><p>
+**Explanation:** The rat has two different path to reach (3, 3).
 
-**Explanation:** The rat has two different path to reach (3, 3).</p>The first path is (0, 0) => (1, 0) => (2, 0) => (2, 1) => (3, 1) => (3, 2) => (3, 3).
+The first path is (0, 0) => (1, 0) => (2, 0) => (2, 1) => (3, 1) => (3, 2) => (3, 3).
 
 The second path is (0,0) => (1,0) => (1,1) => (2,1) => (3,1) => (3,2) => (3,3).
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** n = 2 , grid = [ [1, 0] , [1, 0] ]
 
-**Input:** n = 2 , grid = [ [1, 0] , [1, 0] ]</p><p>
+**Output:** -1
 
-**Output:** -1</p><p>
+**Explanation:** There is no path that rat can choose to travel from (0,0) to (1,1).
 
-**Explanation:** There is no path that rat can choose to travel from (0,0) to (1,1).</p>
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -54,5 +56,5 @@ The second path is (0,0) => (1,0) => (1,1) => (2,1) => (3,1) => (3,2) => (3,3).
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Merge two sorted arrays without extra space](https://takeuforward.org/plus/dsa/problems/merge-two-sorted-arrays-without-extra-space?subject=dsa&approach=optimal-iii&tab=submissions)
+# [Merge two sorted arrays without extra space](https://takeuforward.org/practice/dsa/merge-two-sorted-arrays-without-extra-space)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -16,25 +16,29 @@ Given two integer arrays **nums1** and **nums2** . Both arrays are sorted in **n
 
 - **nums2** has a length of **n.**
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums1 = [-5, -2, 4, 5], nums2 = [-3, 1, 8]
 
-**Input:** nums1 = [-5, -2, 4, 5], nums2 = [-3, 1, 8]</p><p>
+**Output:** [-5, -3, -2, 1, 4, 5, 8]
 
-**Output:** [-5, -3, -2, 1, 4, 5, 8]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The merged array is: [-5, -3, -2, 1, 4, 5, 8], where [-5, -2, 4, 5] are from nums1 and [-3, 1, 8] are from nums2
+The merged array is: [-5, -3, -2, 1, 4, 5, 8], where [-5, -2, 4, 5] are from nums1 and [-3, 1, 8] are from nums2
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums1 = [0, 2, 7, 8], nums2 = [-7, -3, -1]
 
-**Input:** nums1 = [0, 2, 7, 8], nums2 = [-7, -3, -1]</p><p>
+**Output:** [-7, -3, -1, 0, 2, 7, 8]
 
-**Output:** [-7, -3, -1, 0, 2, 7, 8]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The merged array is: [-7, -3, -1, 0, 2, 7, 8], where [0, 2, 7, 8] are from nums1 and [-7, -3, -1] are from nums2
+The merged array is: [-7, -3, -1, 0, 2, 7, 8], where [0, 2, 7, 8] are from nums1 and [-7, -3, -1] are from nums2
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -54,5 +58,5 @@ Given two integer arrays **nums1** and **nums2** . Both arrays are sorted in **n
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

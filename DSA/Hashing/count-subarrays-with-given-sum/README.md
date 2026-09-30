@@ -1,4 +1,4 @@
-# [Count subarrays with given sum](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-sum?subject=dsa&approach=optimal-only-positives&tab=submissions)
+# [Count subarrays with given sum](https://takeuforward.org/practice/dsa/count-subarrays-with-given-sum)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -8,7 +8,7 @@
 
 Given an array of integers nums and an integer k, return the total **number of** **subarrays** whose sum equals to k.
 
-### Example 1
+### Example 1:
 
 Input: nums = [1, 1, 1], k = 2
 
@@ -16,13 +16,17 @@ Output: 2
 
 Explanation: In the given array [1, 1, 1], there are two subarrays that sum up to 2: [1, 1] and [1, 1]. Hence, the output is 2.
 
-### Example 2
+### Example 2:
 
 Input: nums = [1, 2, 3], k = 3
 
 Output: 2
 
 Explanation: In the given array [1, 2, 3], there are two subarrays that sum up to 3: [1, 2] and [3]. Hence, the output is 2.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -40,5 +44,5 @@ Explanation: In the given array [1, 2, 3], there are two subarrays that sum up t
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

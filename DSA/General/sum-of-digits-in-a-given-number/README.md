@@ -1,4 +1,4 @@
-# [Sum of Digits in a Given Number](https://takeuforward.org/plus/dsa/problems/sum-of-digits-in-a-given-number?subject=dsa&approach=solution&tab=submissions)
+# [Sum of Digits in a Given Number](https://takeuforward.org/practice/dsa/sum-of-digits-in-a-given-number)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,27 +8,31 @@
 
 Given an integer **num** , repeatedly add all its digits until the result has only one digit, and return it.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** num = 529
 
-**Input:** num = 529</p><p>
+**Output:** 7
 
-**Output:** 7</p><p>
+**Explanation:** In first iteration the digits sum will be = 5 + 2 + 9 => 16
 
-**Explanation:** In first iteration the digits sum will be = 5 + 2 + 9 => 16</p>In second iteration the digits sum will be 1 + 6 => 7.
+In second iteration the digits sum will be 1 + 6 => 7.
 
 Now single digit is remaining , so we return it.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** num = 101
 
-**Input:** num = 101</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:** In first iteration the digits sum will be = 1 + 0 + 1 => 2
 
-**Explanation:** In first iteration the digits sum will be = 1 + 0 + 1 => 2</p>Now single digit is remaining , so we return it.
+Now single digit is remaining , so we return it.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +48,5 @@ Now single digit is remaining , so we return it.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

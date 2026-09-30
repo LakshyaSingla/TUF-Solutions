@@ -1,4 +1,4 @@
-# [Lemonade Change](https://takeuforward.org/plus/dsa/problems/lemonade-change?subject=dsa&approach=optimal&tab=submissions)
+# [Lemonade Change](https://takeuforward.org/practice/dsa/lemonade-change)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -12,19 +12,15 @@ Determine if it is possible to provide the correct change to every customer. Ret
 
 Given an integer array bills, where bills[i] is the bill the ith customer pays, return true if the correct change can be given to every customer, and false otherwise.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** bills = **** [5, 5, 10, 5, 20]
 
-**Input:** bills = **** [5, 5, 10, 5, 20]</p>
+**Output:** true
 
-<p>
+**Explanation:** Initially we have $0 available for change.
 
-**Output:** true</p>
-
-<p>
-
-**Explanation:** Initially we have $0 available for change.</p>From first two customers, we will collect two $5 bills in order. After the first two customers we have two $5 bills available with us for change.
+From first two customers, we will collect two $5 bills in order. After the first two customers we have two $5 bills available with us for change.
 
 From the third customer , we collect bill of $10 and give back $5. After third customer we have one $5 and one $10 bill available with us for change.
 
@@ -34,25 +30,25 @@ From fifth customer , we collect bill of $20 and give back $15 (one $10 + one $5
 
 Since all the customers did receive the change correctly , so we return true.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** bills = [5, 5, 10, 10, 20]
 
-**Input:** bills = [5, 5, 10, 10, 20]</p>
+**Output:** false
 
-<p>
+**Explanation:** From first two customers, we will collect two $5 bills in order. After the first two customers we have two $5 bills available with us for change.
 
-**Output:** false</p>
-
-<p>
-
-**Explanation:** From first two customers, we will collect two $5 bills in order. After the first two customers we have two $5 bills available with us for change.</p>From third customer , we collect $10 and give back $5. After the third customer we have one $5 and one $10 bill available with us for change.
+From third customer , we collect $10 and give back $5. After the third customer we have one $5 and one $10 bill available with us for change.
 
 From fourth customer , we collect $10 and give back $5. After the fourth customer we have two $10 bill available with us for change.
 
 From fifth customer , we collect $20 , we cannot give the $15 change as we have two $10 bills.
 
 Since all the customers did not receive the change correctly , the we return false.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -69,5 +65,5 @@ Since all the customers did not receive the change correctly , the we return fal
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

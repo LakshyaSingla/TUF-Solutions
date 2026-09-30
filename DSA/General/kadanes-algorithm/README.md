@@ -1,4 +1,4 @@
-# [Kadane's Algorithm](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm?subject=dsa&approach=optimal&tab=submissions)
+# [Kadane's Algorithm](https://takeuforward.org/practice/dsa/kadane's-algorithm)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,25 +10,29 @@ Given an integer array **nums** , find the subarray with the largest sum and ret
 
 A subarray is a contiguous non-empty sequence of elements within an array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [2, 3, 5, -2, 7, -4]
 
-**Input:** nums = [2, 3, 5, -2, 7, -4]</p><p>
+**Output:** 15
 
-**Output:** 15</p><p>
+**Explanation:**
 
-**Explanation:** </p>The subarray from index 0 to index 4 has the largest sum = 15
+The subarray from index 0 to index 4 has the largest sum = 15
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [-2, -3, -7, -2, -10, -4]
 
-**Input:** nums = [-2, -3, -7, -2, -10, -4]</p><p>
+**Output:** -2
 
-**Output:** -2</p><p>
+**Explanation:**
 
-**Explanation:** </p>The element on index 0 or index 3 make up the largest sum when taken as a subarray
+The element on index 0 or index 3 make up the largest sum when taken as a subarray
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +49,5 @@ A subarray is a contiguous non-empty sequence of elements within an array.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

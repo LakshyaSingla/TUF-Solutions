@@ -1,4 +1,4 @@
-# [Find the repeating and missing number](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number?subject=dsa&approach=optimal-i&sidebar=open&tab=submissions)
+# [Find the repeating and missing number](https://takeuforward.org/practice/dsa/find-the-repeating-and-missing-number)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -12,25 +12,29 @@ Return the values **A** and **B** , as an array of size 2, where **A** appears i
 
 **Note:** You are not allowed to modify the original array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [3, 5, 4, 1, 1]
 
-**Input:** nums = [3, 5, 4, 1, 1]</p><p>
+**Output:** [1, 2]
 
-**Output:** [1, 2]</p><p>
+**Explanation:**
 
-**Explanation:** </p>1 appears two times in the array and 2 is missing from nums
+1 appears two times in the array and 2 is missing from nums
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [1, 2, 3, 6, 7, 5, 7]
 
-**Input:** nums = [1, 2, 3, 6, 7, 5, 7]</p><p>
+**Output:** [7, 4]
 
-**Output:** [7, 4]</p><p>
+**Explanation:**
 
-**Explanation:** </p>7 appears two times in the array and 4 is missing from nums.
+7 appears two times in the array and 4 is missing from nums.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -49,5 +53,5 @@ Return the values **A** and **B** , as an array of size 2, where **A** appears i
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

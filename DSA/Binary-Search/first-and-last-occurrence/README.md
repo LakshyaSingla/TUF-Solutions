@@ -1,4 +1,4 @@
-# [First and last occurrence](https://takeuforward.org/plus/dsa/problems/first-and-last-occurrence?subject=dsa&approach=binary-search&tab=submissions)
+# [First and last occurrence](https://takeuforward.org/practice/dsa/first-and-last-occurrence)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,7 +8,7 @@
 
 Given an array of integers nums sorted in non-decreasing order, find the **starting** and **ending** position of a given target value. If the target is not found in the array, return [-1, -1].
 
-### Example 1
+### Example 1:
 
 Input: nums = [5, 7, 7, 8, 8, 10], target = 8
 
@@ -16,13 +16,17 @@ Output: [3, 4]
 
 Explanation:The target is 8, and it appears in the array at indices 3 and 4, so the output is [3,4]
 
-### Example 2
+### Example 2:
 
 Input: nums = [5, 7, 7, 8, 8, 10], target = 6
 
 Output: [-1, -1]
 
 Expalantion:&nbsp;The target is 6, which is not present in the array. Therefore, the output is [-1, -1].
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -41,5 +45,5 @@ Expalantion:&nbsp;The target is 6, which is not present in the array. Therefore,
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

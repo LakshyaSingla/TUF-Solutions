@@ -1,4 +1,4 @@
-# [Assign Cookies](https://takeuforward.org/plus/dsa/problems/assign-cookies?subject=dsa&approach=optimal&tab=submissions)
+# [Assign Cookies](https://takeuforward.org/practice/dsa/assign-cookies)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -12,33 +12,37 @@ Given two arrays, **student** and **cookie** , the i^th value in the Student arr
 
 **Maximize** the number of students assigned with cookies and output the maximum number.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** student = [1, 2, 3] , cookie = [1, 1]
 
-**Input:** student = [1, 2, 3] , cookie = [1, 1]</p><p>
+**Output:** 1
 
-**Output:** 1</p><p>
+**Explanation:** You have 3 students and 2 cookies.
 
-**Explanation:** You have 3 students and 2 cookies.</p>The minimum size of cookies required for students are 1 , 2 ,3.
+The minimum size of cookies required for students are 1 , 2 ,3.
 
 You have 2 cookies both of size 1, So you can assign the cookie only to student having minimum cookie size 1.
 
 So your answer is 1.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** student = [1, 2] , cookie = [1, 2, 3]
 
-**Input:** student = [1, 2] , cookie = [1, 2, 3]</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:** You have 2 students and 3 cookies.
 
-**Explanation:** You have 2 students and 3 cookies.</p>The minimum size of cookies required for students are 1 , 2.
+The minimum size of cookies required for students are 1 , 2.
 
 You have 3 cookies and their sizes are big enough to assign cookies to all students.
 
 So your answer is 2.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -56,5 +60,5 @@ So your answer is 2.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

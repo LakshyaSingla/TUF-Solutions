@@ -1,4 +1,4 @@
-# [Power Set](https://takeuforward.org/plus/dsa/problems/power-set?subject=dsa&approach=optimal&tab=submissions)
+# [Power Set](https://takeuforward.org/practice/dsa/power-set)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,21 +10,21 @@ Given an array of integers nums of unique elements. Return all possible **subset
 
 Do not include the duplicates in the answer.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 2, 3]
 
-**Input:** nums = [1, 2, 3]</p><p>
+**Output:** [ [ ] , [1] , [2] , [1, 2] , [3] , [1, 3] , [2, 3] , [1, 2 ,3] ]
 
-**Output:** [ [ ] , [1] , [2] , [1, 2] , [3] , [1, 3] , [2, 3] , [1, 2 ,3] ]</p>
+### Example 2:
 
-### Example 2
+**Input:** nums = [1, 2]
 
-<p>
+**Output:** [ [ ] , [1] , [2] , [1,2] ]
 
-**Input:** nums = [1, 2]</p><p>
+Still unsure what the problem is asking ?
 
-**Output:** [ [ ] , [1] , [2] , [1,2] ]</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -41,5 +41,5 @@ Do not include the duplicates in the answer.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Two Sum](https://takeuforward.org/plus/dsa/problems/two-sum?subject=dsa&approach=optimal&tab=submissions)
+# [Two Sum](https://takeuforward.org/practice/dsa/two-sum)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,29 @@ Given an array of integers **nums** and an integer **target** . Return the indic
 
 Each input will have exactly one **** solution, and the same element **cannot** be used twice. Return **** the answer in any order.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 6, 2, 10, 3], target = 7
 
-**Input:** nums = [1, 6, 2, 10, 3], target = 7</p><p>
+**Output:** [0, 1]
 
-**Output:** [0, 1]</p><p>
+**Explanation:**
 
-**Explanation:** </p>nums[0] + nums[1] = 1 + 6 = 7
+nums[0] + nums[1] = 1 + 6 = 7
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [1, 3, 5, -7, 6, -3], target = 0
 
-**Input:** nums = [1, 3, 5, -7, 6, -3], target = 0</p><p>
+**Output:** [1, 5]
 
-**Output:** [1, 5]</p><p>
+**Explanation:**
 
-**Explanation:** </p>nums[1] + nums[5] = 3 + (-3) = 0
+nums[1] + nums[5] = 3 + (-3) = 0
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -47,5 +51,5 @@ Each input will have exactly one **** solution, and the same element **cannot** 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

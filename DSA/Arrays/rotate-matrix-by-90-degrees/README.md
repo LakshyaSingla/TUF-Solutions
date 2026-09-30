@@ -1,4 +1,4 @@
-# [Rotate matrix by 90 degrees](https://takeuforward.org/plus/dsa/problems/rotate-matrix-by-90-degrees?subject=dsa&approach=optimal&tab=submissions)
+# [Rotate matrix by 90 degrees](https://takeuforward.org/practice/dsa/rotate-matrix-by-90-degrees)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,33 +10,29 @@ Given an N * N 2D integer matrix, rotate the matrix by 90 degrees clockwise.
 
 The rotation must be done in place, meaning the input 2D matrix must be modified directly.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
-**Input:** matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]</p><img src="https://static.takeuforward.org/content/ProblemSetter-L-z8Ge1S">
+<img src="https://static.takeuforward.org/content/1789410972_Ys-H_F6b.webp">
 
-<p>
+**Output:** matrix = [[7, 4, 1], [8, 5, 2], [9, 6, 3]]
 
-**Output:** matrix = [[7, 4, 1], [8, 5, 2], [9, 6, 3]]</p><img src="https://static.takeuforward.org/content/ProblemSetter-JDKl5YOv">
+<img src="https://static.takeuforward.org/content/1789456262_JTPopmQZ.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** matrix = [[0, 1, 1, 2], [2, 0, 3, 1], [4, 5, 0, 5], [5, 6, 7, 0]]
 
-**Input:** matrix = [[0, 1, 1, 2], [2, 0, 3, 1], [4, 5, 0, 5], [5, 6, 7, 0]]</p><img src="https://static.takeuforward.org/content/ProblemSetter-nTubtRDX">
+<img src="https://static.takeuforward.org/content/1789456273_nwEzmDt8.webp">
 
-<p>
+**Output:** matrix = [[5, 4, 2, 0],&nbsp;[6, 5, 0, 1], [7, 0, 3, 1], [0, 5, 1, 2]]
 
-**Output:** matrix = [[5, 4, 2, 0],&nbsp;[6, 5, 0, 1], [7, 0, 3, 1], [0, 5, 1, 2]]</p><img src="https://static.takeuforward.org/content/ProblemSetter-rOUcAXk7">
+<img src="https://static.takeuforward.org/content/1789456282_20u3h9-R.webp">
 
-### Example 3
+Still unsure what the problem is asking ?
 
-<p>
-
-**Input:** matrix = [[1, 1, 2], [5, 3, 1], [5, 3, 5]]</p>Output:
-
-[[5, 5, 1], [3, 3, 1], [5, 1, 2]]
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -55,5 +51,5 @@ The rotation must be done in place, meaning the input 2D matrix must be modified
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

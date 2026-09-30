@@ -1,4 +1,4 @@
-# [Find peak element](https://takeuforward.org/plus/dsa/problems/find-peak-element?subject=dsa&approach=binary-search&tab=submissions)
+# [Find peak element](https://takeuforward.org/practice/dsa/find-peak-element)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -16,25 +16,25 @@ Find the index(0-based) of a **peak** **element** in the array. If there are mul
 
 - As there can be many peak values, " **true"** is given as output if the returned index is a peak number, otherwise the returned value of index.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** arr = [1, 2, 3, 4, 5, 6, 7, 8, 5, 1]
 
-**Input:** arr = [1, 2, 3, 4, 5, 6, 7, 8, 5, 1]</p><p>
+**Output:** 7
 
-**Output:** 7</p><p>
+**Explanation:** In this example, there is only 1 peak that is at index 7.
 
-**Explanation:** In this example, there is only 1 peak that is at index 7.</p>
+### Example 2:
 
-### Example 2
+**Input:** arr = [1, 2, 1, 3, 5, 6, 4]
 
-<p>
+**Output:** 1
 
-**Input:** arr = [1, 2, 1, 3, 5, 6, 4]</p><p>
+**Explanation:** In this example, there are 2 peak numbers at indices 1 and 5. We can consider any of them.
 
-**Output:** 1</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** In this example, there are 2 peak numbers at indices 1 and 5. We can consider any of them.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -54,5 +54,5 @@ Find the index(0-based) of a **peak** **element** in the array. If there are mul
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

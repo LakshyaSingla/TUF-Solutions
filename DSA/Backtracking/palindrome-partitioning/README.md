@@ -1,4 +1,4 @@
-# [Palindrome partitioning](https://takeuforward.org/plus/dsa/problems/palindrome-partitioning?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
+# [Palindrome partitioning](https://takeuforward.org/practice/dsa/palindrome-partitioning)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -8,33 +8,25 @@
 
 Given a string **s** partition string s such that every substring of partition is palindrome. Return all possible **palindrome partition** of string *s* .
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** s = "aabaa"
 
-**Input:** s = "aabaa"</p><p>
+**Output:** [ [ "a", "a", "b", "a", "a"] , [ "a", "a", "b", "aa"] , [ "a", "aba", "a"] , [ "aa", "b", "a", "a"] , [ "aa", "b", "aa" ] , [ "aabaa" ] ]
 
-**Output:** [ [ "a", "a", "b", "a", "a"] , [ "a", "a", "b", "aa"] , [ "a", "aba", "a"] , [ "aa", "b", "a", "a"] , [ "aa", "b", "aa" ] , [ "aabaa" ] ]</p><p>
+**Explanation:** Above all are the possible ways in which the string can be partitioned so that each substring is a palindrome.
 
-**Explanation:** Above all are the possible ways in which the string can be partitioned so that each substring is a palindrome.</p>
+### Example 2:
 
-### Example 2
+**Input:** s = "baa"
 
-<p>
+**Output:** [ [ "b", "a", "a"] , [ "b", "aa" ] ]
 
-**Input:** s = "baa"</p><p>
+**Explanation:** Above all are the possible ways in which the string can be partitioned so that each substring is a palindrome.
 
-**Output:** [ [ "b", "a", "a"] , [ "b", "aa" ] ]</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** Above all are the possible ways in which the string can be partitioned so that each substring is a palindrome.</p>
-
-### Example 3
-
-<p>
-
-**Input:** s = "ab"</p>Output:
-
-[ [ 'a'] , [ 'b'] ]
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -51,5 +43,5 @@ Given a string **s** partition string s such that every substring of partition i
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

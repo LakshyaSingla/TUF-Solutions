@@ -1,4 +1,4 @@
-# [4 Sum](https://takeuforward.org/plus/dsa/problems/4-sum?subject=dsa&approach=better&tab=submissions)
+# [4 Sum](https://takeuforward.org/practice/dsa/4-sum)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -14,25 +14,29 @@ Given an integer array **nums** and an integer **target** . Return all quadruple
 
 Notice that the solution set must not contain duplicate quadruplets. One element can be a part of multiple quadruplets. The output and the quadruplets can be returned in any order.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, -2, 3, 5, 7, 9], target = 7
 
-**Input:** nums = [1, -2, 3, 5, 7, 9], target = 7</p><p>
+**Output:** [[-2, 1, 3, 5]]
 
-**Output:** [[-2, 1, 3, 5]]</p><p>
+**Explanation:**
 
-**Explanation:** </p>nums[1] + nums[0] + nums[2] + nums[3] = 7
+nums[1] + nums[0] + nums[2] + nums[3] = 7
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [7, -7, 1, 2, 14, 3], target = 9
 
-**Input:** nums = [7, -7, 1, 2, 14, 3], target = 9</p><p>
+**Output:** []
 
-**Output:** []</p><p>
+**Explanation:**
 
-**Explanation:** </p>No quadruplets are present which add upto 9
+No quadruplets are present which add upto 9
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -50,5 +54,5 @@ Notice that the solution set must not contain duplicate quadruplets. One element
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

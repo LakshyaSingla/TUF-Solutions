@@ -1,4 +1,4 @@
-# [Sudoku Solver](https://takeuforward.org/plus/dsa/problems/sudoko-solver?subject=dsa&approach=optimal&tab=submissions)
+# [Sudoku Solver](https://takeuforward.org/practice/dsa/sudoko-solver)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -18,41 +18,33 @@ Every sudoku solution needs to follow to these guidelines:
 
 Empty cells are indicated by the '.' character.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** board = [ ["5", "3", ".", ".", "7", ".", ".", ".", "."] , ["6", ".", ".", "1", "9", "5", ".", ".", "."] , [".", "9", "8", ".", ".", ".", ".", "6", "."] , ["8", ".", ".", ".", "6", ".", ".", ".", "3"] , ["4", ".", ".", "8", ".", "3", ".", ".", "1"] , ["7", ".", ".", ".", "2", ".", ".", ".", "6"] , [".", "6", ".", ".", ".", ".", "2", "8", "."] , [".", ".", ".", "4", "1", "9", ".", ".", "5"] , [".", ".", ".", ".", "8", ".", ".", "7", "9"] ]
 
-**Input:** board = [ ["5", "3", ".", ".", "7", ".", ".", ".", "."] , ["6", ".", ".", "1", "9", "5", ".", ".", "."] , [".", "9", "8", ".", ".", ".", ".", "6", "."] , ["8", ".", ".", ".", "6", ".", ".", ".", "3"] , ["4", ".", ".", "8", ".", "3", ".", ".", "1"] , ["7", ".", ".", ".", "2", ".", ".", ".", "6"] , [".", "6", ".", ".", ".", ".", "2", "8", "."] , [".", ".", ".", "4", "1", "9", ".", ".", "5"] , [".", ".", ".", ".", "8", ".", ".", "7", "9"] ]</p>
+<img src="https://static.takeuforward.org/content/1789481664_GI3l2deY.webp">
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-9SkzdAoS">
+**Output:** [["5","3","4","6","7","8","9","1","2"],["6","7","2","1","9","5","3","4","8"],["1","9","8","3","4","2","5","6","7"],["8","5","9","7","6","1","4","2","3"],["4","2","6","8","5","3","7","9","1"],["7","1","3","9","2","4","8","5","6"],["9","6","1","5","3","7","2","8","4"],["2","8","7","4","1","9","6","3","5"],["3","4","5","2","8","6","1","7","9"]]
 
-<p>
+<img src="https://static.takeuforward.org/content/1789481672_RAKKUczv.webp">
 
-**Output:** [["5","3","4","6","7","8","9","1","2"],["6","7","2","1","9","5","3","4","8"],["1","9","8","3","4","2","5","6","7"],["8","5","9","7","6","1","4","2","3"],["4","2","6","8","5","3","7","9","1"],["7","1","3","9","2","4","8","5","6"],["9","6","1","5","3","7","2","8","4"],["2","8","7","4","1","9","6","3","5"],["3","4","5","2","8","6","1","7","9"]]</p>
+**Explanation:** The Input and Output boards are shown above.
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-_QLy7-qR">
+### Example 2:
 
-<p>
+**Input:** board = [ [ ".", ".", ".", ".", ".", ".", "7", ".", ".", ], [ "7", ".", "5", ".", ".", ".", "9", ".", ".", ], [ ".", ".", ".", "9", "7", "5", "4", "3", "1", ], [ "9", ".", ".", ".", "4", "1", ".", ".", "7", ], [ ".", "5", ".", "8", ".", "7", "6", "4", ".", ], [ ".", "7", ".", ".", "2", ".", ".", ".", ".", ], [ ".", "4", ".", ".", ".", ".", ".", "6", "9", ], [ "1", "6", ".", "4", "3", ".", ".", ".", ".", ], [ ".", ".", ".", ".", "6", "2", "3", ".", "4", ] ]
 
-**Explanation:** The Input and Output boards are shown above.</p>
+<img src="https://static.takeuforward.org/content/1789481683_x6usH2Qu.webp">
 
-### Example 2
+**Output:** [ [ "4", "1", "9", "3", "8", "6", "7", "5", "2", ], [ "7", "3", "5", "2", "1", "4", "9", "8", "6", ], [ "8", "2", "6", "9", "7", "5", "4", "3", "1", ], [ "9", "8", "3", "6", "4", "1", "5", "2", "7", ], [ "2", "5", "1", "8", "9", "7", "6", "4", "3", ], [ "6", "7", "4", "5", "2", "3", "1", "9", "8", ], [ "3", "4", "7", "1", "5", "8", "2", "6", "9", ], [ "1", "6", "2", "4", "3", "9", "8", "7", "5", ], [ "5", "9", "8", "7", "6", "2", "3", "1", "4", ] ]
 
-<p>
+<img src="https://static.takeuforward.org/content/1789481691_D58QP3Xg.webp">
 
-**Input:** board = [ [ ".", ".", ".", ".", ".", ".", "7", ".", ".", ], [ "7", ".", "5", ".", ".", ".", "9", ".", ".", ], [ ".", ".", ".", "9", "7", "5", "4", "3", "1", ], [ "9", ".", ".", ".", "4", "1", ".", ".", "7", ], [ ".", "5", ".", "8", ".", "7", "6", "4", ".", ], [ ".", "7", ".", ".", "2", ".", ".", ".", ".", ], [ ".", "4", ".", ".", ".", ".", ".", "6", "9", ], [ "1", "6", ".", "4", "3", ".", ".", ".", ".", ], [ ".", ".", ".", ".", "6", "2", "3", ".", "4", ] ]</p>
+**Explanation:** The Input and output board are shown above.
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-8n7tUdQC">
+Still unsure what the problem is asking ?
 
-<p>
-
-**Output:** [ [ "4", "1", "9", "3", "8", "6", "7", "5", "2", ], [ "7", "3", "5", "2", "1", "4", "9", "8", "6", ], [ "8", "2", "6", "9", "7", "5", "4", "3", "1", ], [ "9", "8", "3", "6", "4", "1", "5", "2", "7", ], [ "2", "5", "1", "8", "9", "7", "6", "4", "3", ], [ "6", "7", "4", "5", "2", "3", "1", "9", "8", ], [ "3", "4", "7", "1", "5", "8", "2", "6", "9", ], [ "1", "6", "2", "4", "3", "9", "8", "7", "5", ], [ "5", "9", "8", "7", "6", "2", "3", "1", "4", ] ]</p>
-
-<img src="https://static.takeuforward.org/content/ProblemSetter-X2OcxA6t">
-
-<p>
-
-**Explanation:** The Input and output board are shown above.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -71,5 +63,5 @@ Empty cells are indicated by the '.' character.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

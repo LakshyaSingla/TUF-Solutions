@@ -1,4 +1,4 @@
-# [Candy](https://takeuforward.org/plus/dsa/problems/candy?subject=dsa&approach=optimal&tab=submissions)
+# [Candy](https://takeuforward.org/practice/dsa/candy)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -16,33 +16,27 @@ These kids are receiving candy, according to the following criteria:
 
 Return the **minimum** number of candies needed to distribute among children.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** ratings = [1, 0, 5]
 
-**Input:** ratings = [1, 0, 5]</p>
+**Output:** 5
 
-<p>
+**Explanation:** The distribution of candies will be 2 , 1 , 2 to first , second , third child respectively.
 
-**Output:** 5</p>
+### Example 2:
 
-<p>
+**Input:** ratings = [1, 2, 2]
 
-**Explanation:** The distribution of candies will be 2 , 1 , 2 to first , second , third child respectively.</p>
+**Output:** 4
 
-### Example 2
+**Explanation:** The distribution of candies will be 1 , 2 , 1 to first , second , third child respectively.
 
-<p>
+The third gets only 1 candy because it satisfy above two criteria.
 
-**Input:** ratings = [1, 2, 2]</p>
+Still unsure what the problem is asking ?
 
-<p>
-
-**Output:** 4</p>
-
-<p>
-
-**Explanation:** The distribution of candies will be 1 , 2 , 1 to first , second , third child respectively.</p>The third gets only 1 candy because it satisfy above two criteria.
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -59,5 +53,5 @@ Return the **minimum** number of candies needed to distribute among children.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

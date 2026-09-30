@@ -1,4 +1,4 @@
-# [Job sequencing Problem](https://takeuforward.org/plus/dsa/problems/job-sequencing-problem?subject=dsa&approach=optimal&tab=submissions)
+# [Job sequencing Problem](https://takeuforward.org/practice/dsa/job-sequencing-problem)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,15 +10,15 @@ Given an 2D array Jobs of size Nx3, where Jobs[i][0] represents JobID , Jobs[i][
 
 The profit associated with a job is earned only if it is completed by its deadline. Find the number of **jobs** and **maximum profit** .
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** Jobs = [ [1, 4, 20] , [2, 1, 10] , [3, 1, 40] , [4, 1, 30] ]
 
-**Input:** Jobs = [ [1, 4, 20] , [2, 1, 10] , [3, 1, 40] , [4, 1, 30] ]</p><p>
+**Output:** 2 60
 
-**Output:** 2 60</p><p>
+**Explanation:** Job with JobID 3 can be performed at time t=1 giving a profit of 40.
 
-**Explanation:** Job with JobID 3 can be performed at time t=1 giving a profit of 40.</p>Job with JobID 1 can be performed at time t=2 giving a profit of 20.
+Job with JobID 1 can be performed at time t=2 giving a profit of 20.
 
 No more jobs can be scheduled, So total Profit = 40 + 20 => 60.
 
@@ -26,21 +26,25 @@ Total number of jobs completed are two, JobID 1, JobID 3.
 
 So answer is 2 60.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** Jobs = [ [1, 2, 100] , [2, 1, 19] , [3, 2, 27] , [4, 1, 25] , [5, 1, 15] ]
 
-**Input:** Jobs = [ [1, 2, 100] , [2, 1, 19] , [3, 2, 27] , [4, 1, 25] , [5, 1, 15] ]</p><p>
+**Output:** 2 127
 
-**Output:** 2 127</p><p>
+**Explanation:** Job with JobID 1 can be performed at time time t=1 giving a profit of 100.
 
-**Explanation:** Job with JobID 1 can be performed at time time t=1 giving a profit of 100.</p>Job with JobID 3 can be performed at time t=2 giving a profit of 27.
+Job with JobID 3 can be performed at time t=2 giving a profit of 27.
 
 No more jobs can be scheduled, So total Profit = 100 + 27 => 127.
 
 Total number of jobs completed are two, JobID 1, JobID 3.
 
 So answer is 2 127.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -58,5 +62,5 @@ So answer is 2 127.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

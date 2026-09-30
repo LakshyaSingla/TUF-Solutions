@@ -1,4 +1,4 @@
-# [Insert Interval](https://takeuforward.org/plus/dsa/problems/insert-interval?subject=dsa&approach=optimal&tab=submissions)
+# [Insert Interval](https://takeuforward.org/practice/dsa/insert-interval)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -12,37 +12,33 @@ Given another array newInterval, where newInterval = [start, end] represents the
 
 Return **Intervals** after the insertion of **newInterval** .
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** Intervals = [ [1, 3] , [6, 9] ] , newInterval = [2, 5]
 
-**Input:** Intervals = [ [1, 3] , [6, 9] ] , newInterval = [2, 5]</p>
+**Output:** [ [1, 5] , [6, 9] ]
 
-<p>
+**Explanation:** After inserting the newInterval the Intervals array becomes [ [1, 3] , [2, 5] , [6, 9] ].
 
-**Output:** [ [1, 5] , [6, 9] ]</p>
-
-<p>
-
-**Explanation:** After inserting the newInterval the Intervals array becomes [ [1, 3] , [2, 5] , [6, 9] ].</p>So to make them non overlapping we can merge the intervals [1, 3] and [2, 5].
+So to make them non overlapping we can merge the intervals [1, 3] and [2, 5].
 
 So the Intervals array is [ [1, 5] , [6, 9] ].
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** Intervals = [ [1, 2] , [3, 5] , [6, 7] , [8,10] ] , newInterval = [4, 8]
 
-**Input:** Intervals = [ [1, 2] , [3, 5] , [6, 7] , [8,10] ] , newInterval = [4, 8]</p>
+**Output:** [ [1, 2] , [3, 10] ]
 
-<p>
+**Explanation:** The Intervals array after inserting newInterval is [ [1, 2] , [3, 5] , [4, 8] , [6, 7] , [8, 10] ].
 
-**Output:** [ [1, 2] , [3, 10] ]</p>
-
-<p>
-
-**Explanation:** The Intervals array after inserting newInterval is [ [1, 2] , [3, 5] , [4, 8] , [6, 7] , [8, 10] ].</p>We merge the required intervals to make it non overlapping.
+We merge the required intervals to make it non overlapping.
 
 So final array is [ [1, 2] , [3, 10] ].
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -62,5 +58,5 @@ So final array is [ [1, 2] , [3, 10] ].
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Shortest Job First](https://takeuforward.org/plus/dsa/problems/shortest-job-first?subject=dsa&approach=optimal&tab=submissions)
+# [Shortest Job First](https://takeuforward.org/practice/dsa/shortest-job-first)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -14,25 +14,29 @@ Your task is to calculate the average waiting time for all processes when schedu
 
 Return the **floor** of the average waiting time, **i.e., the largest whole number less than or equal to the actual average.**
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** bt = [4, 1, 3, 7, 2]
 
-**Input:** bt = [4, 1, 3, 7, 2]</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:** The total waiting time is 20.
 
-**Explanation:** The total waiting time is 20.</p>So the average waiting time will be 20/5 => 4.
+So the average waiting time will be 20/5 => 4.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** bt = [1, 2, 3, 4]
 
-**Input:** bt = [1, 2, 3, 4]</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:** The total waiting time is 10.
 
-**Explanation:** The total waiting time is 10.</p>So the average waiting time will be 10/4 => 2.
+So the average waiting time will be 10/4 => 2.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -49,5 +53,5 @@ Return the **floor** of the average waiting time, **i.e., the largest whole numb
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

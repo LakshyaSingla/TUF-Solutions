@@ -1,4 +1,4 @@
-# [Find row with maximum 1's](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's?subject=dsa&approach=optimal&tab=submissions)
+# [Find row with maximum 1's](https://takeuforward.org/practice/dsa/find-row-with-maximum-1's)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,7 +10,7 @@ Given a non-empty grid mat consisting of only 0s and 1s, where all the rows are 
 
 If two rows have the same number of ones, consider the one with a smaller index. If **no 1 exists** in the matrix, return -1.
 
-### Example 1
+### Example 1:
 
 Input : mat = [ [1, 1, 1], [0, 0, 1], [0, 0, 0] ]
 
@@ -18,13 +18,17 @@ Output: 0
 
 Explanation: The row with the maximum number of ones is 0 (0 - indexed).
 
-### Example 2
+### Example 2:
 
 Input: mat =&nbsp;[ [0, 0], [0, 0] ]
 
 Output: -1
 
 Explanation: The matrix does not contain any 1. So, -1 is the answer.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +47,5 @@ Explanation: The matrix does not contain any 1. So, -1 is the answer.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

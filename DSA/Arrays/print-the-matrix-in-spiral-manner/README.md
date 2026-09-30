@@ -1,4 +1,4 @@
-# [Print the matrix in spiral manner](https://takeuforward.org/plus/dsa/problems/print-the-matrix-in-spiral-manner?subject=dsa&approach=optimal&tab=submissions)
+# [Print the matrix in spiral manner](https://takeuforward.org/practice/dsa/print-the-matrix-in-spiral-manner)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,25 +10,29 @@ Given an M * N matrix, print the elements in a **clockwise** spiral **** manner.
 
 Return an array with the elements in the order of their appearance **** when printed in a spiral manner.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** matrix = [[1, 2, 3], [4 ,5 ,6], [7, 8, 9]]
 
-**Input:** matrix = [[1, 2, 3], [4 ,5 ,6], [7, 8, 9]]</p><p>
+**Output:** [1, 2, 3, 6, 9, 8, 7, 4, 5]
 
-**Output:** [1, 2, 3, 6, 9, 8, 7, 4, 5]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The elements in the spiral order are 1, 2, 3 -> 6, 9 -> 8, 7 -> 4, 5
+The elements in the spiral order are 1, 2, 3 -> 6, 9 -> 8, 7 -> 4, 5
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** matrix = [[1, 2, 3, 4], [5, 6, 7, 8]]
 
-**Input:** matrix = [[1, 2, 3, 4], [5, 6, 7, 8]]</p><p>
+**Output:** [1, 2, 3, 4, 8, 7, 6, 5]
 
-**Output:** [1, 2, 3, 4, 8, 7, 6, 5]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The elements in the spiral order are 1, 2, 3, 4 -> 8, 7, 6, 5
+The elements in the spiral order are 1, 2, 3, 4 -> 8, 7, 6, 5
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -47,5 +51,5 @@ Return an array with the elements in the order of their appearance **** when pri
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

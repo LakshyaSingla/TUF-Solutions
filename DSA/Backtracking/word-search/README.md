@@ -1,4 +1,4 @@
-# [Word Search](https://takeuforward.org/plus/dsa/problems/word-search?subject=dsa&approach=optimal&tab=submissions)
+# [Word Search](https://takeuforward.org/practice/dsa/word-search)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -10,29 +10,29 @@ Given a grid of n x m dimension grid of characters board and a string word.The w
 
 Return true if the word exists in the grid otherwise false.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** board = [ ["A", "B", "C", "E"] , ["S" ,"F" ,"C" ,"S"] , ["A", "D", "E", "E"] ] , word = "ABCCED"
 
-**Input:** board = [ ["A", "B", "C", "E"] , ["S" ,"F" ,"C" ,"S"] , ["A", "D", "E", "E"] ] , word = "ABCCED"</p><p>
+**Output:** true
 
-**Output:** true</p><p>
-
-**Explanation:** The word is coloured in yellow.</p>
+**Explanation:** The word is coloured in yellow.
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-P9Dc3q6C">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** board = [["A", "B", "C", "E"] , ["S", "F", "C", "S"] , ["A", "D", "E", "E"]] , word = "SEE"
 
-**Input:** board = [["A", "B", "C", "E"] , ["S", "F", "C", "S"] , ["A", "D", "E", "E"]] , word = "SEE"</p><p>
+**Output:** true
 
-**Output:** true</p><p>
-
-**Explanation:** The word is coloured in yellow.</p>
+**Explanation:** The word is coloured in yellow.
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-Q0bcgifi">
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -52,5 +52,5 @@ Return true if the word exists in the grid otherwise false.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
