@@ -1,4 +1,4 @@
-# [Maximum Product Subarray in an Array](https://takeuforward.org/plus/dsa/problems/maximum-product-subarray-in-an-array?subject=dsa&approach=optimal&tab=submissions)
+# [Maximum Product Subarray in an Array](https://takeuforward.org/practice/dsa/maximum-product-subarray-in-an-array)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -10,25 +10,29 @@ Given an integer array **nums** . Find the **subarray** with the **largest produ
 
 A **subarray** is a **contiguous** non-empty **sequence** of elements within an array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [4, 5, 3, 7, 1, 2]
 
-**Input:** nums = [4, 5, 3, 7, 1, 2]</p><p>
+**Output:** 840
 
-**Output:** 840</p><p>
+**Explanation:**
 
-**Explanation:** </p>The largest product is given by the whole array itself
+The largest product is given by the whole array itself
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [-5, 0, -2]
 
-**Input:** nums = [-5, 0, -2]</p><p>
+**Output:** 0
 
-**Output:** 0</p><p>
+**Explanation:**
 
-**Explanation:** </p>The largest product is achieved with the following subarrays [0], [-5, 0], [0, -2], [-5, 0, -2].
+The largest product is achieved with the following subarrays [0], [-5, 0], [0, -2], [-5, 0, -2].
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +50,5 @@ A **subarray** is a **contiguous** non-empty **sequence** of elements within an 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

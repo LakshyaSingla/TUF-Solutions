@@ -1,4 +1,4 @@
-# [Pascal's Triangle II](https://takeuforward.org/plus/dsa/problems/pascals-triangle-ii?subject=dsa&approach=optimal&tab=submissions)
+# [Pascal's Triangle II](https://takeuforward.org/practice/dsa/pascals-triangle-ii)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -16,15 +16,15 @@ In **Pascal's triangle** :
 
 - The value of each element is equal **** to the sum **** of the elements directly **** above it when arranged in a triangle format.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** r = 4
 
-**Input:** r = 4</p><p>
+**Output:** [1, 3, 3, 1]
 
-**Output:** [1, 3, 3, 1]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The Pascal's Triangle is as follows:
+The Pascal's Triangle is as follows:
 
 1
 
@@ -38,15 +38,15 @@ In **Pascal's triangle** :
 
 Thus the 4th row is [1, 3, 3, 1]
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** r = 5
 
-**Input:** r = 5</p><p>
+**Output:** [1, 4, 6, 4, 1]
 
-**Output:** [1, 4, 6, 4, 1]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The Pascal's Triangle is as follows:
+The Pascal's Triangle is as follows:
 
 1
 
@@ -61,6 +61,10 @@ Thus the 4th row is [1, 3, 3, 1]
 ....
 
 Thus the 5th row is [1, 4, 6, 4, 1]
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -77,5 +81,5 @@ Thus the 5th row is [1, 4, 6, 4, 1]
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

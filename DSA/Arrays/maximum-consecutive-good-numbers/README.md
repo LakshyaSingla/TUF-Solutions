@@ -1,4 +1,4 @@
-# [Maximum Consecutive Good Numbers](https://takeuforward.org/plus/dsa/contest/arrays/maximum-consecutive-good-numbers?tab=submissions)
+# [Maximum Consecutive Good Numbers](https://takeuforward.org/practice/dsa/maximum-consecutive-good-numbers)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,27 +10,31 @@ Given an array of integers **nums** and an array g **oodNumbers** , return the *
 
 Any number present in the **goodNumbers** array is a good number.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 2, 3, 5, 4, 5, 1], goodNumbers = [3, 5]
 
-**Input:** nums = [1, 2, 3, 5, 4, 5, 1], goodNumbers = [3, 5]</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:**
 
-**Explanation:** </p>[1, 2, <u>3, 5</u>, 4, 5, 1] the underlined numbers are all good numbers and give the maximum length.
+[1, 2, <u>3, 5</u>, 4, 5, 1] the underlined numbers are all good numbers and give the maximum length.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [4, 8, 1, 2, 0, 4, 6], goodNumbers = [1, 4, 2, 6]
 
-**Input:** nums = [4, 8, 1, 2, 0, 4, 6], goodNumbers = [1, 4, 2, 6]</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:**
 
-**Explanation:** </p>[4, 8, <u>1, 2</u>, 0, 4, 6] the underlined numbers are all good numbers and give the maximum length.
+[4, 8, <u>1, 2</u>, 0, 4, 6] the underlined numbers are all good numbers and give the maximum length.
 
 Note that the segment with index **[5, 6]** (0 - Based) was also a possible answer.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -48,5 +52,5 @@ Note that the segment with index **[5, 6]** (0 - Based) was also a possible answ
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

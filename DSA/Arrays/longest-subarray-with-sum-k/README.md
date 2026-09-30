@@ -1,4 +1,4 @@
-# [Longest subarray with sum K](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k?subject=dsa&approach=optimal-positives-negatives&tab=submissions)
+# [Longest subarray with sum K](https://takeuforward.org/practice/dsa/longest-subarray-with-sum-k)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -8,25 +8,29 @@
 
 Given an array nums of size n and an integer k, find the length of the **longest sub-array** that sums to k. If no such sub-array exists, return 0.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [10, 5, 2, 7, 1, 9],&nbsp;&nbsp;k=15
 
-**Input:** nums = [10, 5, 2, 7, 1, 9],&nbsp;&nbsp;k=15</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:**
 
-**Explanation:** </p>The longest sub-array with a sum equal to 15 is [5, 2, 7, 1], which has a length of 4. This sub-array starts at index 1 and ends at index 4, and the sum of its elements (5 + 2 + 7 + 1) equals 15. Therefore, the length of this sub-array is 4.
+The longest sub-array with a sum equal to 15 is [5, 2, 7, 1], which has a length of 4. This sub-array starts at index 1 and ends at index 4, and the sum of its elements (5 + 2 + 7 + 1) equals 15. Therefore, the length of this sub-array is 4.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [-3, 2, 1],&nbsp;k=6
 
-**Input:** nums = [-3, 2, 1],&nbsp;k=6</p><p>
+**Output:** 0
 
-**Output:** 0</p><p>
+**Explanation:**
 
-**Explanation:** </p>There is no sub-array in the array that sums to 6. Therefore, the output is 0.
+There is no sub-array in the array that sums to 6. Therefore, the output is 0.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +48,5 @@ Given an array nums of size n and an integer k, find the length of the **longest
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

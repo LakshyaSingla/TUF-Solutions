@@ -1,4 +1,4 @@
-# [Check if the Array is Sorted II](https://takeuforward.org/practice/dsa/check-if-the-array-is-sorted-ii)
+# [Move Zeros to End](https://takeuforward.org/practice/dsa/move-zeros-to-end)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -6,23 +6,29 @@
 
 ## 📝 Problem Statement
 
-Given an array **nums** of n integers, return true if the array nums is sorted in non-decreasing order or else false.
+Given an integer array **nums** , move all the 0's to the end of the array. The relative order of the other elements must remain the same.
+
+This must be done in place, without making a copy of the array.
 
 ### Example 1:
 
-**Input:** nums = [1, 2, 3, 4, 5]
+**Input:** nums = [0, 1, 4, 0, 5, 2]
 
-**Output:** true
+**Output:** [1, 4, 5, 2, 0, 0]
 
-**Explanation:** For all i (1 <= i <= 4) it holds nums[i] <= nums[i+1], hence it is sorted and we return true.
+**Explanation:**
+
+Both the zeroes are moved to the end and the order of the other elements stay the same
 
 ### Example 2:
 
-**Input:** nums = [1, 2, 1, 4, 5]
+**Input:** nums = [0, 0, 0, 1, 3, -2]
 
-**Output:** false
+**Output:** [1, 3, -2, 0, 0, 0]
 
-**Explanation:** For i == 2 it does not hold nums[i] <= nums[i+1], hence it is not sorted and we return false.
+**Explanation:**
+
+All 3 zeroes are moved to the end and the order of the other elements stay the same
 
 Still unsure what the problem is asking ?
 
@@ -30,8 +36,8 @@ Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
-- 1 <= n <= 100
-- 1 <= nums[i] <= 100
+- 1 <= nums.length <= 10^5
+- -10^4 <=nums[i] <= 10^4
 
 ---
 

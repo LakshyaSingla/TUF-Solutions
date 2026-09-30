@@ -1,4 +1,4 @@
-# [Pascal's Triangle I](https://takeuforward.org/plus/dsa/problems/pascals-triangle-i?subject=dsa&approach=optimal&tab=submissions)
+# [Pascal's Triangle I](https://takeuforward.org/practice/dsa/pascals-triangle-i)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -18,19 +18,21 @@ In **Pascal's triangle** :
 
 **For all interior elements (i.e., not at the ends), the value at position (r, c) is computed as the sum of the two elements directly above it from the previous row:**
 
-<pre class="ql-syntax" spellcheck="false">Pascal[r][c]=Pascal[r−1][c−1]+Pascal[r−1][c]
-</pre>
+```
+Pascal[r][c]=Pascal[r−1][c−1]+Pascal[r−1][c]
+```
+
 - where indexing is 1-based
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** r = 4, c = 2
 
-**Input:** r = 4, c = 2</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:**
 
-**Explanation:** </p>The Pascal's Triangle is as follows:
+The Pascal's Triangle is as follows:
 
 1
 
@@ -44,15 +46,15 @@ In **Pascal's triangle** :
 
 Thus, value at row 4 and column 2 = 3
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** r = 5, c = 3
 
-**Input:** r = 5, c = 3</p><p>
+**Output:** 6
 
-**Output:** 6</p><p>
+**Explanation:**
 
-**Explanation:** </p>The Pascal's Triangle is as follows:
+The Pascal's Triangle is as follows:
 
 1
 
@@ -67,6 +69,10 @@ Thus, value at row 4 and column 2 = 3
 ....
 
 Thus, value at row 5 and column 3 = 6
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -84,5 +90,5 @@ Thus, value at row 5 and column 3 = 6
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
