@@ -78,7 +78,7 @@
 | 0060 | [Implement Queue Using Stack](./DSA/Stack-Queue/implement-queue-using-stack) | [JAVA](./DSA/Stack-Queue/implement-queue-using-stack/solution.java) | ⚪ Unspecified | `Stack-Queue` | `2026-09-23` |
 | 0061 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0062 | [Infix to Postfix Conversion](./DSA/Stack-Queue/infix-to-postfix-conversion) | [JAVA](./DSA/Stack-Queue/infix-to-postfix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
-| 0063 | [Infix to Prefix Conversion](./DSA/Arrays/infix-to-prefix-conversion) | [JAVA](./DSA/Arrays/infix-to-prefix-conversion/solution.java) | 🟡 Medium | `Arrays` | `2026-09-29` |
+| 0063 | [Infix to Prefix Conversion](./DSA/Stack-Queue/infix-to-prefix-conversion) | [JAVA](./DSA/Stack-Queue/infix-to-prefix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
 | 0064 | [Insert before given node in Doubly Linked List](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-21` |
 | 0065 | [Insert Interval](./DSA/Greedy/insert-interval) | [JAVA](./DSA/Greedy/insert-interval/solution.java) | 🟡 Medium | `Greedy` | `2026-09-21` |
 | 0066 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-21` |
