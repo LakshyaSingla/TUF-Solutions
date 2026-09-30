@@ -22,33 +22,26 @@ class ListNode {
 */
 
 class Solution {
-    public ListNode segregateLinkedList(ListNode head) {
+    public ListNode partitionList(ListNode head, int val) {
         if(head == null || head.next == null) return head;
-        ListNode zeroHead = new ListNode(-1);
-        ListNode oneHead = new ListNode(-1);
-        ListNode twoHead = new ListNode(-1);
-        ListNode zero = zeroHead;
-        ListNode one = oneHead;
-        ListNode two = twoHead;
+        ListNode firstHead = new ListNode(-1);
+        ListNode secHead = new ListNode(-1);
+        ListNode first = firstHead;
+        ListNode sec = secHead;
         ListNode temp = head;
-        int count = 1;
         while(temp != null){
-            if(count % 3 == 0){
-                zero.next = temp;
-                zero = zero.next;
-            }else if(count % 3 == 1){
-                one.next = temp;
-                one = one.next;
+            if(temp.val < val){
+                first.next = temp;
+                first = first.next;
             }else{
-                two.next = temp;
-                two = two.next;
+                sec.next= temp;
+                sec = sec.next;
             }
             temp = temp.next;
-            count++;
         }
-        zero.next = (oneHead.next != null) ? oneHead.next : twoHead.next;
-        one.next = twoHead.next;
-        two.next = null;
-        return zeroHead.next;
+        sec.next = null;
+       if(firstHead.next != null) first.next = secHead.next;
+       else return secHead.next;
+        return firstHead.next;
     }
 }

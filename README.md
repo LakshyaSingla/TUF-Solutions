@@ -18,7 +18,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [3 Sum](./DSA/General/0003-sum) | [JAVA](./DSA/General/0003-sum/solution.java) | 🟡 Medium | `General` | `2026-09-21` |
 | 0002 | [4 Sum](./DSA/General/0004-sum) | [JAVA](./DSA/General/0004-sum/solution.java) | 🟡 Medium | `General` | `2026-09-21` |
-| 0003 | [Segregate Nodes into 3 parts in LL](./DSA/Linked-List/active) | [JAVA](./DSA/Linked-List/active/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
+| 0003 | [Special Linked List](./DSA/Linked-List/active) | [JAVA](./DSA/Linked-List/active/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
 | 0004 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0005 | [Add two numbers in Linked List](./DSA/Linked-List/add-two-numbers-in-linked-list) | [JAVA](./DSA/Linked-List/add-two-numbers-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-21` |
 | 0006 | [Aggressive Cows](./DSA/Binary-Search/aggressive-cows) | [JAVA](./DSA/Binary-Search/aggressive-cows/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-21` |
