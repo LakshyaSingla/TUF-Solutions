@@ -13,9 +13,8 @@ class Solution {
         }
       }
       if(top > bottom) return -1;
-
       for(int i = 0; i < n; i++){
-        if(i == top) continue;
+        if(top == i) continue;
         if(M[top][i] == 0 && M[i][top] == 1){
             continue;
         }else{
