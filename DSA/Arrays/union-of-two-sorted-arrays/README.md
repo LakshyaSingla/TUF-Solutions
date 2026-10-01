@@ -1,4 +1,4 @@
-# [Union of two sorted arrays](https://takeuforward.org/practice/dsa/union-of-two-sorted-arrays?category=logic-building&source=strivers-a2z-dsa-sheet&solution=optimal)
+# [Union of two sorted arrays](https://takeuforward.org/practice/dsa/union-of-two-sorted-arrays?category=logic-building&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
