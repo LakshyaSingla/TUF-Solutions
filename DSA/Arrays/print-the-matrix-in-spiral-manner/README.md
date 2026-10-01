@@ -1,6 +1,6 @@
-# [Print the matrix in spiral manner](https://takeuforward.org/practice/dsa/print-the-matrix-in-spiral-manner)
+# [Print the matrix in spiral manner](https://takeuforward.org/practice/dsa/print-the-matrix-in-spiral-manner?category=faqs-medium&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
