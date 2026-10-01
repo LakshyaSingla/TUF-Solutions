@@ -154,7 +154,7 @@
 | 0136 | [Practice (Classes and Objects)](./DSA/Introduction-to-OOPS/practice-classes-and-objects) | [JAVA](./DSA/Introduction-to-OOPS/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-to-OOPS` | `2026-08-29` |
 | 0137 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `Arrays` | `2026-09-30` |
 | 0138 | [Rat in a Maze](./DSA/Backtracking/rat-in-a-maze) | [JAVA](./DSA/Backtracking/rat-in-a-maze/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
-| 0139 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `Arrays` | `2026-09-30` |
+| 0139 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
 | 0140 | [Remove duplicates from sorted DLL](./DSA/Arrays/remove-duplicated-from-sorted-dll) | [JAVA](./DSA/Arrays/remove-duplicated-from-sorted-dll/solution.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
 | 0141 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
 | 0142 | [Remove K Digits](./DSA/Stack-Queue/remove-k-digits) | [JAVA](./DSA/Stack-Queue/remove-k-digits/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-28` |
