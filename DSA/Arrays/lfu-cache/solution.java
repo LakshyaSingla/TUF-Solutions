@@ -5,10 +5,11 @@ class Node{
         key = value = 0;
         next = prev = null;
     }
-    Node(key, value){
+    Node(int key, int value){
         this.key = key;
         this.value = value;
         next = prev = null;
+        count = 1;
     }
 }
 class List{
@@ -55,7 +56,20 @@ class LFUCache {
         currsize = 0;
     }
     void updatefreqList(Node node){
+        keyMap.remove(node.key);
+        freqMap.get(node.count).deleteNode(node);
 
+        if(node.count == minfreq && freqMap.get(minfreq).size == 0){
+            minfreq++;
+        }
+        List nextFreq = new List();
+        if(freqMap.containsKey(node.count + 1)){
+            nextFreq = freqMap.get(node.count + 1);
+        }
+        node.count += 1;
+        nextFreq.addFront(node);
+        keyMap.put(node.key, node);
+        freqMap.put(node.count, nextFreq);
     }
     public int get(int key) {
       if(!keyMap.containsKey(key)) return -1;
@@ -67,6 +81,7 @@ class LFUCache {
     }
     
     public void put(int key, int value) {
+        if(capacity == 0)return;
         if(keyMap.containsKey(key)){
             Node node = keyMap.get(key);
             node.value = value;
@@ -76,7 +91,18 @@ class LFUCache {
                 List list = freqMap.get(minfreq);
                 keyMap.remove(list.tail.prev.key);
                 freqMap.get(minfreq).deleteNode(list.tail.prev);
+                currsize--;
             }
+            currsize++;
+            minfreq = 1;
+            List minlist = new List();
+            if(freqMap.containsKey(minfreq)){
+                minlist = freqMap.get(minfreq);
+            }
+            Node node = new Node(key, value);
+            minlist.addFront(node);
+            freqMap.put(minfreq, minlist);
+            keyMap.put(key, node);
         }
     }
 }
