@@ -1,4 +1,4 @@
-# [Lexicographically Smallest String](https://takeuforward.org/practice/dsa/contest/410/active?source=strivers-a2z-dsa-sheet&category=stack-and-queues)
+# [Maximum Value Of A Subarray](https://takeuforward.org/practice/dsa/contest/410/active?source=strivers-a2z-dsa-sheet&category=stack-and-queues)
 
 ![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
@@ -6,25 +6,31 @@
 
 ## 📝 Problem Statement
 
-You are given a string s consisting of lowercase letters. Your task is to remove duplicate characters from s such that each character appears only once. Among all possible results, return the one that is the smallest in lexicographical order.
+You are given an array of integers nums and an integer k. The value of a subarray is defined as the minimum value within the subarray multiplied by its length. You need to choose a subarray where the index k is included, i.e., there exists a subarray (nums[i], nums[i+1], ..., nums[j]) such that i≤k≤j.
 
-The order of the remaining characters must preserve the relative positions of their first occurrences in&nbsp;s.
+Return the maximum possible value of any such subarray.
 
 ### Example 1:
 
-Input: s = "ecbacd"
+**Input:** nums = [1, 3, 5, 2, 8], k = 2
 
-Output: "ebacd"
+**Output:** 8
 
-Explanation: By removing duplicates and maintaining lexicographical order, the result is "ecbacd".
+**Explanation:**
+
+The optimal subarray is from index 1 to index 4(inclusive), where the minimum value is 2.
+
+The value is calculated as&nbsp;min(3,5,2,8)×4=2×4=8.
 
 ### Example 2:
 
-Input: s = "aaaabbbbcccc"
+**Input:** nums = [4, 6, 3, 5, 7, 8], k = 4
 
-Output: "abc"
+**Output:** 18
 
-Explanation: After removing duplicates, the smallest lexicographical string is "abc".
+**Explanation:**
+
+The optimal subarray is from index 0 to index 5 (inclusive), where the minimum value is 3. The value is calculated as =3×6=18.
 
 Still unsure what the problem is asking ?
 
@@ -32,7 +38,9 @@ Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
-- 1 <= s.length <= 10^5
+- 1 <= nums.length <= 10^5
+- 1 <= nums[i] <= 10^4
+- 0 <= k < nums.length
 
 ---
 

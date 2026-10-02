@@ -1,25 +1,22 @@
 class Solution {
-    public String lexicographicallySmallestString(String s) {
-        int[] lastIndex = new int[26];
-        for(int i = 0; i < s.length(); i++){
-            lastIndex[s.charAt(i) - 'a'] = i;
-        }
-        boolean[] visited = new boolean[26];
-        Stack<Character> st = new Stack<>();
-        for(int i = 0; i < s.length(); i++){
-            char c = s.charAt(i);
-            if(visited[c - 'a']) continue;
-
-            while(!st.isEmpty() && st.peek() > c && lastIndex[st.peek() - 'a'] > i){
-                visited[st.pop() -'a'] = false;
+    public int maximumValue(int[] nums, int k) {
+        int n = nums.length;
+        int l = k, r = k;
+        int minValue = nums[k];
+        int max = minValue;
+        while(l > 0 || r < n - 1){
+            int leftVal = (l > 0) ? nums[l - 1] : -1;
+            int rightVal = (r < n - 1) ? nums[r + 1] : -1;
+            if(leftVal > rightVal){
+                l--;
+                minValue = Math.min(minValue, leftVal); 
+            }else{
+                r++;
+                minValue = Math.min(minValue, rightVal);
             }
-            st.push(c);
-            visited[c - 'a'] = true;
+            int length = r - l + 1;
+            max = Math.max(max, length * minValue);
         }
-        StringBuilder sb = new StringBuilder();
-        for(char c : st){
-            sb.append(c);
-        }
-        return sb.toString();
+        return max;
     }
 }
