@@ -17,7 +17,7 @@
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [4 Sum](./DSA/General/0004-sum) | [JAVA](./DSA/General/0004-sum/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
-| 0002 | [Special Linked List](./DSA/Linked-List/active) | [JAVA](./DSA/Linked-List/active/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
+| 0002 | [Count Collisons](./DSA/Stack-And-Queues/active) | [JAVA](./DSA/Stack-And-Queues/active/solution.java) | 🟡 Medium | `Stack-And-Queues` | `2026-10-02` |
 | 0003 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0004 | [Add two numbers in Linked List](./DSA/Linked-List/add-two-numbers-in-linked-list) | [JAVA](./DSA/Linked-List/add-two-numbers-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
 | 0005 | [Aggressive Cows](./DSA/Binary-Search/aggressive-cows) | [JAVA](./DSA/Binary-Search/aggressive-cows/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
