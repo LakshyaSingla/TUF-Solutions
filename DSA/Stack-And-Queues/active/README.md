@@ -1,42 +1,30 @@
-# [Count Collisons](https://takeuforward.org/practice/dsa/contest/410/active?source=strivers-a2z-dsa-sheet&category=stack-and-queues)
+# [Lexicographically Smallest String](https://takeuforward.org/practice/dsa/contest/410/active?source=strivers-a2z-dsa-sheet&category=stack-and-queues)
 
-![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 
 ## 📝 Problem Statement
 
-Given a road having n cars arranged from left to right at unique positions. Each car has a predefined movement direction or remains stationary, represented by a string directions of length n. In the string, 'L' denotes a car moving left, 'R' denotes a car moving right, and 'S' denotes a stationary car. All moving cars travel at the same speed. When two cars moving in opposite directions collide, the collision count increases by 2, and when a moving car collides with a stationary car, the collision count increases by 1. After any collision, the cars involved stop and remain stationary at the point of collision.&nbsp;
+You are given a string s consisting of lowercase letters. Your task is to remove duplicate characters from s such that each character appears only once. Among all possible results, return the one that is the smallest in lexicographical order.
 
-Your task is to calculate the total number of collisions that occur on the road.
+The order of the remaining characters must preserve the relative positions of their first occurrences in&nbsp;s.
 
 ### Example 1:
 
-Input: directions = "RLLRS"
+Input: s = "ecbacd"
 
-Output: 4
+Output: "ebacd"
 
-Explanation:
-
-Car 1 ('R') collides with Car 2 ('L'), Total Collisons: 0+2=2
-
-Car 2, now stationary, collides with Car 3 ('L'), Total Collisons: 2+1=3
-
-Car 4 ('R') collides with Car 5 ('S'), Total Collisons: 3+1=4.
+Explanation: By removing duplicates and maintaining lexicographical order, the result is "ecbacd".
 
 ### Example 2:
 
-Input: directions = "SSRRLL"
+Input: s = "aaaabbbbcccc"
 
-Output: 4
+Output: "abc"
 
-Explanation:
-
-Car 4 ('R') collides with Car 5 ('L'),Total Collisons: 0+2=2.
-
-Car 5 ('L') collides with Car 5 after it becomes stationary,Total Collisons: 2+1=3.
-
-Car 3 ('L') collides with Car 4 after it becomes stationary,Total Collisons: 3+1=4.
+Explanation: After removing duplicates, the smallest lexicographical string is "abc".
 
 Still unsure what the problem is asking ?
 
@@ -44,7 +32,7 @@ Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
-- 1 <= directions.length <= 10^5
+- 1 <= s.length <= 10^5
 
 ---
 
