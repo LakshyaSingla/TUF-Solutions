@@ -75,7 +75,7 @@ class LFUCache {
     }
     
     public void put(int key, int value) {
-        if(maxSize == 0 ) return;
+        
         if(keyMap.containsKey(key)){
             Node node = keyMap.get(key);
             node.value = value;
