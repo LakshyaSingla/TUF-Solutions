@@ -149,7 +149,7 @@
 | 0131 | [Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
 | 0132 | [Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
 | 0133 | [Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0134 | [Postfix to Infix Conversion](./DSA/Arrays/postfix-to-infix-conversion) | [JAVA](./DSA/Arrays/postfix-to-infix-conversion/solution.java) | 🟡 Medium | `Arrays` | `2026-10-02` |
+| 0134 | [Postfix to Infix Conversion](./DSA/Stack-Queue/postfix-to-infix-conversion) | [JAVA](./DSA/Stack-Queue/postfix-to-infix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
 | 0135 | [Postfix to Prefix Conversion](./DSA/Arrays/postfix-to-prefix-conversion) | [JAVA](./DSA/Arrays/postfix-to-prefix-conversion/solution.java) | 🟡 Medium | `Arrays` | `2026-10-02` |
 | 0136 | [Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
 | 0137 | [Pow(x,n)](./DSA/General/powxn) | [JAVA](./DSA/General/powxn/solution.java) | 🟢 Easy | `General` | `2026-08-11` |
