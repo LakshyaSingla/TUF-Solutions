@@ -1,8 +1,7 @@
 class Solution {
     public List<Integer> leaders(int[] nums) {
-        int n = nums.length;
         List<Integer> ans = new ArrayList<>();
-
+        int n = nums.length;
         if(n == 0) return ans;
         int max = nums[n - 1];
         ans.add(nums[n - 1]);

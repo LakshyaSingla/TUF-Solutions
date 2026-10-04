@@ -1,4 +1,4 @@
-# [Leaders in an Array](https://takeuforward.org/practice/dsa/leaders-in-an-array?category=faqs-medium&source=strivers-a2z-dsa-sheet&solution=optimal)
+# [Leaders in an Array](https://takeuforward.org/practice/dsa/leaders-in-an-array?category=faqs-medium&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
