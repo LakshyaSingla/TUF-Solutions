@@ -16,31 +16,30 @@ class Solution {
             }
         }
         str = new String(arr);
+        
+        StringBuilder ans = new StringBuilder();
         Stack<Character> st = new Stack<>();
-        StringBuilder res = new StringBuilder();
-        for(char ch : str.toCharArray()){
-            if(Character.isLetterOrDigit(ch)){
-                res.append(ch);
-            }else if(ch == '('){
-                st.push(ch);
-            }else if(ch == ')'){
+        for(int i = 0; i < str.length(); i++){
+            char c = str.charAt(i);
+            if(Character.isLetter(c)){
+                ans.append(c);
+            }else if(c == '('){
+                st.push(c);
+            }else if(c == ')'){
                 while(!st.isEmpty() && st.peek() != '('){
-                    res.append(st.pop());
+                    ans.append(st.pop());
                 }
                 st.pop();
             }else{
-                while(!st.isEmpty() && st.peek() != '(' && 
-                precedence(st.peek()) > precedence(ch)
-                ){
-                    res.append(st.pop());
+                while(!st.isEmpty() && st.peek() != '(' && precedence(st.peek()) > precedence(c)){
+                    ans.append(st.pop());
                 }
-
-                st.push(ch);
+                st.push(c);
             }
         }
         while(!st.isEmpty()){
-            res.append(st.pop());
+            ans.append(st.pop());
         }
-        return res.reverse().toString();
+        return ans.reverse().toString();
     }
 }
