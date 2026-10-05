@@ -156,7 +156,7 @@
 | 0138 | [Pow(x,n)](./DSA/General/powxn) | [JAVA](./DSA/General/powxn/solution.java) | 🟢 Easy | `General` | `2026-08-11` |
 | 0139 | [Practice (Attributes and Methods)](./DSA/Introduction-to-OOPS/practice-attributes-and-methods) | [JAVA](./DSA/Introduction-to-OOPS/practice-attributes-and-methods/solution.java) | 🟡 Medium | `Introduction-to-OOPS` | `2026-09-05` |
 | 0140 | [Practice (Classes and Objects)](./DSA/Introduction-to-OOPS/practice-classes-and-objects) | [JAVA](./DSA/Introduction-to-OOPS/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-to-OOPS` | `2026-08-29` |
-| 0141 | [Prefix to Infix Conversion](./DSA/Stack-Queue/prefix-to-infix-conversion) | [JAVA](./DSA/Stack-Queue/prefix-to-infix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
+| 0141 | [Prefix to Infix Conversion](./DSA/Stack-Queue/prefix-to-infix-conversion) | [JAVA](./DSA/Stack-Queue/prefix-to-infix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-05` |
 | 0142 | [Prefix to Postfix Conversion](./DSA/Stack-Queue/prefix-to-postfix-conversion) | [JAVA](./DSA/Stack-Queue/prefix-to-postfix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
 | 0143 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
 | 0144 | [Rat in a Maze](./DSA/Backtracking/rat-in-a-maze) | [JAVA](./DSA/Backtracking/rat-in-a-maze/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
