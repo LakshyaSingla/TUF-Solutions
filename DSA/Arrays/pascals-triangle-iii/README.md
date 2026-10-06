@@ -1,6 +1,6 @@
-# [Pascal's Triangle III](https://takeuforward.org/practice/dsa/pascals-triangle-iii)
+# [Pascal's Triangle III](https://takeuforward.org/practice/dsa/pascals-triangle-iii?category=faqs-medium&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
