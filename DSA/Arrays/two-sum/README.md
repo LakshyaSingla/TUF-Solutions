@@ -1,6 +1,6 @@
-# [Two Sum](https://takeuforward.org/practice/dsa/two-sum)
+# [Two Sum](https://takeuforward.org/practice/dsa/two-sum?category=faqs-medium&source=strivers-a2z-dsa-sheet&solution=optimal)
 
-![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
+![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
 ---
 
