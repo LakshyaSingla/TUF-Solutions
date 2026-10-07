@@ -118,7 +118,7 @@
 | 0100 | [LRU Cache](./DSA/Stack-Queue/lru-cache) | [JAVA](./DSA/Stack-Queue/lru-cache/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-10-01` |
 | 0101 | [M Coloring Problem](./DSA/Backtracking/m-coloring-problem) | [JAVA](./DSA/Backtracking/m-coloring-problem/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
 | 0102 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0103 | [Majority Element-II](./DSA/General/majority-element-ii) | [JAVA](./DSA/General/majority-element-ii/solution.java) | 🔴 Hard | `General` | `2026-09-30` |
+| 0103 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
 | 0104 | [Matrix Median](./DSA/Binary-Search/matrix-median) | [JAVA](./DSA/Binary-Search/matrix-median/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-27` |
 | 0105 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
 | 0106 | [Maximum Consecutive Good Numbers](./DSA/Arrays/maximum-consecutive-good-numbers) | [JAVA](./DSA/Arrays/maximum-consecutive-good-numbers/solution.java) | 🟢 Easy | `Arrays` | `2026-09-30` |
