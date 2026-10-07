@@ -1,6 +1,6 @@
-# [Rotate matrix by 90 degrees](https://takeuforward.org/practice/dsa/rotate-matrix-by-90-degrees)
+# [Rotate matrix by 90 degrees](https://takeuforward.org/practice/dsa/rotate-matrix-by-90-degrees?category=faqs-medium&source=strivers-a2z-dsa-sheet&solution=optimal)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 

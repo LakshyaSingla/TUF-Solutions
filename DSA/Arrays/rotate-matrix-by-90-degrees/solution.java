@@ -1,7 +1,6 @@
 class Solution {
     public void rotateMatrix(int[][] matrix) {
         int n = matrix.length;
-
         for(int i = 0; i < n - 1; i++){
             for(int j = i + 1; j < n; j++){
                 int temp = matrix[i][j];
@@ -9,11 +8,9 @@ class Solution {
                 matrix[j][i] = temp;
             }
         }
-
         for(int i = 0; i < n; i++){
-            int left = 0;
-            int right = n - 1;
-            while(left <= right){
+            int left = 0, right = n - 1;
+            while(left < right){
                 int temp = matrix[i][left];
                 matrix[i][left] = matrix[i][right];
                 matrix[i][right] = temp;
@@ -21,6 +18,5 @@ class Solution {
                 right--;
             }
         }
-        
     }
 }
