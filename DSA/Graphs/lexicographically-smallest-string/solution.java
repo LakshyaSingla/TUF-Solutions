@@ -5,21 +5,21 @@ class Solution {
         for(int i = 0; i < n; i++){
             lastIndex[s.charAt(i) - 'a'] = i;
         }
-        Stack<Character> st = new Stack<>();
         boolean[] visited = new boolean[26];
+        Stack<Character> st = new Stack<>();
         for(int i = 0; i < n; i++){
-            char c = s.charAt(i);
-            if(visited[c - 'a']) continue;
-            while(!st.isEmpty() && st.peek() > c && lastIndex[st.peek() - 'a'] > i){
+            char ch = s.charAt(i);
+            if(visited[ch - 'a']) continue;
+            while(!st.isEmpty() && st.peek() > ch && lastIndex[st.peek() - 'a'] > i){
                 visited[st.pop() - 'a'] = false;
             }
-            st.push(c);
-            visited[c - 'a'] = true;
+            st.push(ch);
+            visited[ch - 'a'] = true;
         }
-        StringBuilder sb = new StringBuilder();
+        StringBuilder ans = new StringBuilder();
         for(char c : st){
-            sb.append(c);
+            ans.append(c);
         }
-        return sb.toString();
+        return ans.toString();
     }
 }

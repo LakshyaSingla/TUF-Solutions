@@ -107,7 +107,7 @@
 | 0089 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-26` |
 | 0090 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `Recursion` | `2026-09-30` |
 | 0091 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-10-05` |
-| 0092 | [1043. Lexicographically Smallest String](./DSA/Graphs/lexicographically-smallest-string) | [JAVA](./DSA/Graphs/lexicographically-smallest-string/solution.java) | 🔴 Hard | `Graphs` | `2026-10-05` |
+| 0092 | [1043. Lexicographically Smallest String](./DSA/Graphs/lexicographically-smallest-string) | [JAVA](./DSA/Graphs/lexicographically-smallest-string/solution.java) | 🔴 Hard | `Graphs` | `2026-10-08` |
 | 0093 | [LFU Cache](./DSA/Arrays/lfu-cache) | [JAVA](./DSA/Arrays/lfu-cache/solution.java) | 🔴 Hard | `Arrays` | `2026-10-02` |
 | 0094 | [Linear Search](./DSA/Arrays/linear-search) | [JAVA](./DSA/Arrays/linear-search/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
 | 0095 | [Longest Repeating Character Replacement](./DSA/Sliding-Window/longest-repeating-character-replacement) | [JAVA](./DSA/Sliding-Window/longest-repeating-character-replacement/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
