@@ -41,7 +41,7 @@
 | 0023 | [Combination XOR](./DSA/Recursion/combination-xor) | [JAVA](./DSA/Recursion/combination-xor/solution.java) | 🟡 Medium | `Recursion` | `2026-09-30` |
 | 0024 | [Convert Array to Doubly Linked List](./DSA/Linked-List/convert-array-to-doubly-linked-list) | [CPP](./DSA/Linked-List/convert-array-to-doubly-linked-list/solution.cpp) [JAVA](./DSA/Linked-List/convert-array-to-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
 | 0025 | [Count all subsequences with sum K](./DSA/Recursion/count-all-subsequences-with-sum-k) | [JAVA](./DSA/Recursion/count-all-subsequences-with-sum-k/solution.java) | 🟢 Easy | `Recursion` | `2026-09-30` |
-| 0026 | [Count Inversions](./DSA/General/count-inversions) | [CPP](./DSA/General/count-inversions/solution.cpp) [JAVA](./DSA/General/count-inversions/solution.java) | 🔴 Hard | `General` | `2026-09-30` |
+| 0026 | [Count Inversions](./DSA/Arrays/count-inversions) | [CPP](./DSA/Arrays/count-inversions/solution.cpp) [JAVA](./DSA/Arrays/count-inversions/solution.java) | 🔴 Hard | `Arrays` | `2026-10-08` |
 | 0027 | [Count number of Nice subarrays](./DSA/Sliding-Window/count-number-of-nice-subarrays) | [JAVA](./DSA/Sliding-Window/count-number-of-nice-subarrays/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
 | 0028 | [Count subarrays with given sum](./DSA/Hashing/count-subarrays-with-given-sum) | [JAVA](./DSA/Hashing/count-subarrays-with-given-sum/solution.java) | 🟡 Medium | `Hashing` | `2026-09-30` |
 | 0029 | [Count subarrays with given xor K](./DSA/Hashing/count-subarrays-with-given-xor-k) | [JAVA](./DSA/Hashing/count-subarrays-with-given-xor-k/solution.java) | 🔴 Hard | `Hashing` | `2026-09-30` |
