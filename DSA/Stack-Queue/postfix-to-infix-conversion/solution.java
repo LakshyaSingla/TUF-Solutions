@@ -3,6 +3,7 @@ class Solution {
         // Your code goes here
         int n = postExp.length();
         Stack<String> st = new Stack<>();
+
         for(int i = 0; i < n; i++){
             char c = postExp.charAt(i);
             if(Character.isLetter(c)){

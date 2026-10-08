@@ -156,7 +156,7 @@
 | 0138 | [Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
 | 0139 | [Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
 | 0140 | [Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0141 | [Postfix to Infix Conversion](./DSA/Stack-Queue/postfix-to-infix-conversion) | [JAVA](./DSA/Stack-Queue/postfix-to-infix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
+| 0141 | [Postfix to Infix Conversion](./DSA/Stack-Queue/postfix-to-infix-conversion) | [JAVA](./DSA/Stack-Queue/postfix-to-infix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-08` |
 | 0142 | [Postfix to Prefix Conversion](./DSA/Stack-Queue/postfix-to-prefix-conversion) | [JAVA](./DSA/Stack-Queue/postfix-to-prefix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
 | 0143 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-10-05` |
 | 0144 | [Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
