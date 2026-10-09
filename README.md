@@ -19,7 +19,7 @@
 | 0001 | [4 Sum](./DSA/General/0004-sum) | [JAVA](./DSA/General/0004-sum/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
 | 0002 | [3 Sum](./DSA/Arrays/3-sum) | [JAVA](./DSA/Arrays/3-sum/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
 | 0003 | [4 Sum](./DSA/Arrays/4-sum) | [JAVA](./DSA/Arrays/4-sum/solution.java) | 🔴 Hard | `Arrays` | `2026-10-07` |
-| 0004 | [Maximum Value Of A Subarray](./DSA/Stack-And-Queues/active) | [JAVA](./DSA/Stack-And-Queues/active/solution.java) | 🔴 Hard | `Stack-And-Queues` | `2026-10-02` |
+| 0004 | [Count of Subarrays with Sum Divisible by K](./DSA/Hashing/active) | [JAVA](./DSA/Hashing/active/solution.java) | 🟡 Medium | `Hashing` | `2026-10-09` |
 | 0005 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0006 | [Add two numbers in Linked List](./DSA/Linked-List/add-two-numbers-in-linked-list) | [JAVA](./DSA/Linked-List/add-two-numbers-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
 | 0007 | [Aggressive Cows](./DSA/Binary-Search/aggressive-cows) | [JAVA](./DSA/Binary-Search/aggressive-cows/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
