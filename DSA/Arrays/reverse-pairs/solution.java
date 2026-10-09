@@ -16,13 +16,11 @@ class Solution {
         while(j <= high){
             temp[k++] = nums[j++];
         }
-        
         for(int l = low; l <= high; l++){
             nums[l] = temp[l - low];
         }
-        
     }
-    int countpair(int[] nums, int low, int mid, int high){
+    int countreverse(int[] nums, int low, int mid, int high){
         int right = mid + 1;
         int count = 0;
         for(int i = low; i <= mid; i++){
@@ -40,7 +38,7 @@ class Solution {
         int mid = low + (high - low) / 2;
         count += mergesort(nums, low, mid);
         count += mergesort(nums, mid + 1, high);
-        count += countpair(nums, low, mid, high);
+        count += countreverse(nums, low, mid, high);
         merge(nums, low, mid, high);
         return count;
     }
