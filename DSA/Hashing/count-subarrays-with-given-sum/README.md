@@ -1,6 +1,6 @@
-# [Count subarrays with given sum](https://takeuforward.org/practice/dsa/count-subarrays-with-given-sum)
+# [Count subarrays with given sum](https://takeuforward.org/practice/dsa/count-subarrays-with-given-sum?category=faqs&source=strivers-a2z-dsa-sheet&solution=optimal)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
