@@ -1,17 +1,23 @@
 class Solution {
-    public int subarraySumDivisbleByK(int[] nums, int k) {
-        int sum = 0, count = 0;
-        int n = nums.length;
-        Map<Integer, Integer> mpp = new HashMap<>();
-        for(int i = 0; i < n; i++){
-            sum += nums[i];
-            if(sum % k == 0) count++;
-            int rem = ((sum % k) + k) % k;
-            if(mpp.containsKey(rem)){
-                count += mpp.get(rem);
-            }
-            mpp.put(rem, mpp.getOrDefault(rem, 0) + 1);
+    public List<List<String>> groupAnagrams(String[] strs) {
+      if(strs == null || strs.length == 0) return new ArrayList<>();
+
+      Map<String, List<String>> mpp = new HashMap<>();
+
+      for(String s : strs){
+        char[] ch = s.toCharArray();
+        Arrays.sort(ch);
+        String key = String.valueOf(ch);
+        if(!mpp.containsKey(key)){
+            mpp.put(key, new ArrayList<>());   
         }
-        return count;
+        mpp.get(key).add(s);
+        
+      }
+      List<List<String>> ans = new ArrayList<>();
+      for(List<String> temp : mpp.values()){
+        ans.add(temp);
+      }
+      return ans;
     }
 }
