@@ -1,6 +1,6 @@
-# [Set difference of two arrays](https://takeuforward.org/practice/dsa/set-difference-of-two-arrays)
+# [233. Set difference of two arrays](https://takeuforward.org/practice/dsa/set-difference-of-two-arrays?solution=optimal)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
