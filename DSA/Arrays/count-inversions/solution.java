@@ -1,8 +1,8 @@
 class Solution {
     long merge(int[] nums, int low, int mid, int high){
         int i = low, j = mid + 1, k = 0;
-        int[] temp = new int[high - low + 1];
         long count = 0;
+        int[] temp = new int[high - low + 1];
         while(i <= mid && j <= high){
             if(nums[i] <= nums[j]){
                 temp[k++] = nums[i++];
@@ -17,6 +17,7 @@ class Solution {
         while(j <= high){
             temp[k++] = nums[j++];
         }
+
         for(int l = low; l <= high; l++){
             nums[l] = temp[l - low];
         }

@@ -1,4 +1,4 @@
-# [Count Inversions](https://takeuforward.org/practice/dsa/count-inversions?category=faqs-hard&source=strivers-a2z-dsa-sheet)
+# [Count Inversions](https://takeuforward.org/practice/dsa/count-inversions?category=faqs-hard&source=strivers-a2z-dsa-sheet&solution=optimal)
 
 ![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
