@@ -143,7 +143,7 @@
 | 0125 | [Next Smaller Element](./DSA/Stack-Queue/next-smaller-element) | [JAVA](./DSA/Stack-Queue/next-smaller-element/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
 | 0126 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [JAVA](./DSA/Greedy/non-overlapping-intervals/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
 | 0127 | [Number of Greater Elements to the Right](./DSA/Stack-Queue/number-of-greater-elements-to-the-right) | [JAVA](./DSA/Stack-Queue/number-of-greater-elements-to-the-right/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
-| 0128 | [Number of Jumps](./DSA/Arrays/number-of-jumps) | [JAVA](./DSA/Arrays/number-of-jumps/solution.java) | 🔴 Hard | `Arrays` | `2026-09-30` |
+| 0128 | [712. Number of Jumps](./DSA/General/number-of-jumps) | [JAVA](./DSA/General/number-of-jumps/solution.java) | 🔴 Hard | `General` | `2026-10-09` |
 | 0129 | [Number of Substrings Containing All Three Characters](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters) | [JAVA](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
 | 0130 | [Palindrome partitioning](./DSA/Backtracking/palindrome-partitioning) | [JAVA](./DSA/Backtracking/palindrome-partitioning/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
 | 0131 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-05` |
