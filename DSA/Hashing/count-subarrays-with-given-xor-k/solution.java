@@ -1,18 +1,19 @@
 class Solution {
     public int subarraysWithXorK(int[] nums, int k) {
       int n = nums.length;
-      HashMap<Integer, Integer> mpp = new HashMap<>();
-      int xr = 0, count = 0;
-
+      int xor = 0, count = 0;
+      Map<Integer, Integer> mpp = new HashMap<>();
       for(int i = 0; i < n; i++){
-        xr ^= nums[i];
-        if(xr == k) count++;
-        int rem = xr ^ k;
+        xor ^= nums[i];
+        if(xor == k) count++;
+        int rem = xor ^ k;
         if(mpp.containsKey(rem)){
             count += mpp.get(rem);
         }
-        mpp.put(xr, mpp.getOrDefault(xr, 0) + 1);
+        mpp.put(xor, mpp.getOrDefault(xor, 0) + 1);
+
       }
       return count;
+
     }
 }

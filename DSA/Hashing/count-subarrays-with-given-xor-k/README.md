@@ -1,6 +1,6 @@
-# [Count subarrays with given xor K](https://takeuforward.org/practice/dsa/count-subarrays-with-given-xor-k)
+# [Count subarrays with given xor K](https://takeuforward.org/practice/dsa/count-subarrays-with-given-xor-k?category=faqs&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 
