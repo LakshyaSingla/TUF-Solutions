@@ -121,7 +121,7 @@
 | 0103 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
 | 0104 | [Matrix Median](./DSA/Binary-Search/matrix-median) | [JAVA](./DSA/Binary-Search/matrix-median/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-27` |
 | 0105 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
-| 0106 | [Maximum Consecutive Good Numbers](./DSA/Arrays/maximum-consecutive-good-numbers) | [JAVA](./DSA/Arrays/maximum-consecutive-good-numbers/solution.java) | 🟢 Easy | `Arrays` | `2026-09-30` |
+| 0106 | [826. Maximum Consecutive Good Numbers](./DSA/General/maximum-consecutive-good-numbers) | [JAVA](./DSA/General/maximum-consecutive-good-numbers/solution.java) | 🟡 Medium | `General` | `2026-10-09` |
 | 0107 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [JAVA](./DSA/Arrays/maximum-consecutive-ones/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
 | 0108 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
 | 0109 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-09` |
