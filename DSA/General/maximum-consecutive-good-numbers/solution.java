@@ -8,7 +8,7 @@ class Solution {
         for(int num : nums){
             if(st.contains(num)){
                 count++;
-                max = Math.max(count, max);
+                max = Math.max(max, count);
             }else{
                 count = 0;
             }
