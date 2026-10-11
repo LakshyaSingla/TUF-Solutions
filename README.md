@@ -100,7 +100,7 @@
 | 0082 | [Kth element of 2 sorted arrays](./DSA/Binary-Search/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/kth-element-of-2-sorted-arrays/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
 | 0083 | [Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
 | 0084 | [Largest rectangle in a histogram](./DSA/Stack-Queue/largest-rectangle-in-a-histogram) | [JAVA](./DSA/Stack-Queue/largest-rectangle-in-a-histogram/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-29` |
-| 0085 | [Largest Subarray with Sum 0](./DSA/Hashing/largest-subarray-with-sum-0) | [JAVA](./DSA/Hashing/largest-subarray-with-sum-0/solution.java) | 🟡 Medium | `Hashing` | `2026-10-09` |
+| 0085 | [Largest Subarray with Sum 0](./DSA/Hashing/largest-subarray-with-sum-0) | [JAVA](./DSA/Hashing/largest-subarray-with-sum-0/solution.java) | 🟡 Medium | `Hashing` | `2026-10-11` |
 | 0086 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
 | 0087 | [Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [JAVA](./DSA/Arrays/left-rotate-array/solution.java) | 🟡 Medium | `Arrays` | `2026-09-27` |
 | 0088 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |

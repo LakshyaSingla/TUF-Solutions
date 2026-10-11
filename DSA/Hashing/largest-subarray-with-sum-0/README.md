@@ -1,4 +1,4 @@
-# [Largest Subarray with Sum 0](https://takeuforward.org/practice/dsa/largest-subarray-with-sum-0?category=faqs&source=strivers-a2z-dsa-sheet&solution=optimal)
+# [Largest Subarray with Sum 0](https://takeuforward.org/practice/dsa/largest-subarray-with-sum-0?category=faqs&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
