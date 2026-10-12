@@ -1,8 +1,7 @@
 class Solution {
     public int subarraysWithXorK(int[] nums, int k) {
       int n = nums.length;
-      int count = 0;
-      int xor = 0;
+      int xor = 0, count = 0;
       Map<Integer, Integer> mpp = new HashMap<>();
       for(int i = 0; i < n; i++){
         xor ^= nums[i];
