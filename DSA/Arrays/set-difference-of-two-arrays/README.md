@@ -1,4 +1,4 @@
-# [233. Set difference of two arrays](https://takeuforward.org/practice/dsa/set-difference-of-two-arrays?solution=optimal)
+# [233. Set difference of two arrays](https://takeuforward.org/practice/dsa/set-difference-of-two-arrays)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
