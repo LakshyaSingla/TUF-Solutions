@@ -1,6 +1,6 @@
-# [Find square root of a number](https://takeuforward.org/practice/dsa/find-square-root-of-a-number)
+# [Find square root of a number](https://takeuforward.org/practice/dsa/find-square-root-of-a-number?category=on-answers&source=strivers-a2z-dsa-sheet&solution=binary-search)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
