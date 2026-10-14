@@ -1,16 +1,15 @@
 class Solution {
-    int func(int mid, int M, int N){
-        long base = mid;
-        long ans = 1;
+    int func(int mid, int N, int M){
+        long ans = 1, base = mid;
         while(N > 0){
             if(N % 2 == 1){
                 ans *= base;
+                if(ans > M) return -1;
                 N--;
-                if(ans > M) return 2;
-            }else if(N % 2 == 0){
-                base *= base;
+            }else if(N%2 == 0){
                 N /= 2;
-                if(base > M) return 2;
+                base *= base;
+                if(base > M) return -1;
             }
         }
         if(ans == M) return 1;
@@ -20,13 +19,10 @@ class Solution {
         int low = 1, high = M;
         while(low <= high){
             int mid = low + (high - low) / 2;
-            
-            if(func(mid, M, N) == 1) return mid;
-            if(func(mid, M, N) == 0){
-                low = mid + 1;
-            }else{
-                high = mid - 1;
-            }
+            int ans = func(mid, N, M);
+            if(ans == 1) return mid;
+            else if(ans == -1) high = mid - 1;
+            else low = mid + 1;
         }
         return -1;
     }
