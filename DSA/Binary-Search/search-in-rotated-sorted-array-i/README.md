@@ -1,6 +1,6 @@
-# [Search in rotated sorted array-I](https://takeuforward.org/practice/dsa/search-in-rotated-sorted-array-i)
+# [Search in rotated sorted array-I](https://takeuforward.org/practice/dsa/search-in-rotated-sorted-array-i?category=logic-building&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
