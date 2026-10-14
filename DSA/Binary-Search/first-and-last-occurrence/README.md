@@ -1,6 +1,6 @@
-# [First and last occurrence](https://takeuforward.org/practice/dsa/first-and-last-occurrence)
+# [First and last occurrence](https://takeuforward.org/practice/dsa/first-and-last-occurrence?category=logic-building&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 

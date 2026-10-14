@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **244** | 102 | 101 | 41 | `2026-10-13` |
+| **244** | 102 | 101 | 41 | `2026-10-14` |
 
 ---
 
@@ -70,7 +70,7 @@
 | 0052 | [Find the repeating and missing number](./DSA/Arrays/find-the-repeating-and-missing-number) | [JAVA](./DSA/Arrays/find-the-repeating-and-missing-number/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
 | 0053 | [Find the smallest divisor](./DSA/Binary-Search/find-the-smallest-divisor) | [JAVA](./DSA/Binary-Search/find-the-smallest-divisor/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
 | 0054 | [Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [JAVA](./DSA/Linked-List/find-the-starting-point-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
-| 0055 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
+| 0055 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
 | 0056 | [Flattening of LL](./DSA/Linked-List/flattening-of-ll) | [JAVA](./DSA/Linked-List/flattening-of-ll/solution.java) | 🔴 Hard | `Linked-List` | `2026-09-27` |
 | 0057 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
 | 0058 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
