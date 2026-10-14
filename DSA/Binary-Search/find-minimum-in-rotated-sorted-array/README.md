@@ -1,6 +1,6 @@
-# [Find minimum in Rotated Sorted Array](https://takeuforward.org/practice/dsa/find-minimum-in-rotated-sorted-array)
+# [Find minimum in Rotated Sorted Array](https://takeuforward.org/practice/dsa/find-minimum-in-rotated-sorted-array?category=logic-building&source=strivers-a2z-dsa-sheet&solution=binary-search)
 
-![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
