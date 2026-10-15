@@ -1,6 +1,6 @@
-# [Koko eating bananas](https://takeuforward.org/practice/dsa/koko-eating-bananas)
+# [Koko eating bananas](https://takeuforward.org/practice/dsa/koko-eating-bananas?category=on-answers&source=strivers-a2z-dsa-sheet&solution=binary-search)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 

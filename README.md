@@ -97,7 +97,7 @@
 | 0079 | [Jump Game - I](./DSA/Greedy/jump-game-i) | [JAVA](./DSA/Greedy/jump-game-i/solution.java) | 🟢 Easy | `Greedy` | `2026-09-30` |
 | 0080 | [Kadane's Algorithm](./DSA/Arrays/kadane's-algorithm) | [JAVA](./DSA/Arrays/kadane's-algorithm/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
 | 0081 | [Kadane's Algorithm](./DSA/General/kadanes-algorithm) | [JAVA](./DSA/General/kadanes-algorithm/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
-| 0082 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [JAVA](./DSA/Binary-Search/koko-eating-bananas/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
+| 0082 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [JAVA](./DSA/Binary-Search/koko-eating-bananas/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
 | 0083 | [Kth element of 2 sorted arrays](./DSA/Binary-Search/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/kth-element-of-2-sorted-arrays/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
 | 0084 | [Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
 | 0085 | [Largest rectangle in a histogram](./DSA/Stack-Queue/largest-rectangle-in-a-histogram) | [JAVA](./DSA/Stack-Queue/largest-rectangle-in-a-histogram/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-29` |
