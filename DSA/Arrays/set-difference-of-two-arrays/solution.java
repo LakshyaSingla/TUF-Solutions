@@ -5,15 +5,14 @@ class Solution {
         int n2 = nums2.length;
         int i = 0, j = 0;
         while(i < n1 && j < n2){
+            while(i > 0 && i < n1 && nums1[i] == nums1[i - 1]) i++;
+            while(j > 0 && j < n2 && nums2[j] == nums2[j - 1]) j++;
+            if(i >= n1 || j >= n2) break;
             if(nums1[i] < nums2[j]){
-               if(ls.get(ls.size() - 1) != nums1[i]){
                 ls.add(nums1[i]);
-                }
                 i++;
             }else if(nums1[i] > nums2[j]){
-               if(ls.get(ls.size() - 1) != nums2[j]){
                 ls.add(nums2[j]);
-            }
                 j++;
             }else{
                 i++;
@@ -21,13 +20,13 @@ class Solution {
             }
         }
         while(i < n1){
-            if(ls.get(ls.size() - 1) != nums1[i]){
+            if(i == 0 || nums1[i] != nums1[i - 1]){
                 ls.add(nums1[i]);
             }
             i++;
         }
         while(j < n2){
-            if(ls.get(ls.size() - 1) != nums2[j]){
+            if(j == 0  || nums2[j] != nums2[j - 1]){
                 ls.add(nums2[j]);
             }
             j++;
