@@ -6,10 +6,14 @@ class Solution {
         int i = 0, j = 0;
         while(i < n1 && j < n2){
             if(nums1[i] < nums2[j]){
+               if(ls.get(ls.size() - 1) != nums1[i]){
                 ls.add(nums1[i]);
+                }
                 i++;
             }else if(nums1[i] > nums2[j]){
+               if(ls.get(ls.size() - 1) != nums2[j]){
                 ls.add(nums2[j]);
+            }
                 j++;
             }else{
                 i++;
@@ -30,8 +34,8 @@ class Solution {
         }
 
         int[] ans = new int[ls.size()];
-        for(int i = 0; i < ans.length; i++){
-            ans[i] = ls.get(i);
+        for(int k = 0; k < ans.length; k++){
+            ans[k] = ls.get(k);
         }
         return ans;
     }
