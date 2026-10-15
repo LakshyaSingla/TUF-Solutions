@@ -1,6 +1,6 @@
-# [Minimum days to make M bouquets](https://takeuforward.org/practice/dsa/minimum-days-to-make-m-bouquets)
+# [Minimum days to make M bouquets](https://takeuforward.org/practice/dsa/minimum-days-to-make-m-bouquets?category=on-answers&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 
