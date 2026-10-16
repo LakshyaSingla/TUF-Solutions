@@ -4,15 +4,17 @@ class Solution {
         for(int num : C){
             if(len + num > mid){
                 painter++;
-                len = 0;
+                len = num;
+                if(painter > A) return false;
+            }else{
+                len += num;
             }
-            len += num;
         }
-        return painter <= A;
+        return true;        
     }
     public int paint(int A, int B, int[] C) {
         // Your code goes here
-        long low = Integer.MIN_VALUE, high = 0;
+        long low = 0, high = 0;
         int MOD = 10000003;
         for(int num : C){
             low = Math.max(low, num);

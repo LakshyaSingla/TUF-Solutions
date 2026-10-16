@@ -1,4 +1,4 @@
-# [Painter's Partition](https://takeuforward.org/practice/dsa/painters-partition?category=on-answers&source=strivers-a2z-dsa-sheet)
+# [Painter's Partition](https://takeuforward.org/practice/dsa/painters-partition?category=on-answers&source=strivers-a2z-dsa-sheet&sidebar=0)
 
 ![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
@@ -38,6 +38,10 @@ Return the minimum time required to paint all boards **modulo 10000003** .
 - Assign each board to a different painter
 - Max time = max(1, 8, 11, 3) = 11
 - Return 11 % 10000003 = 11
+
+### Example 3:
+
+<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
 
 Still unsure what the problem is asking ?
 
