@@ -1,29 +1,33 @@
 class Solution {
-    int func(int mid, int N, int M){
-        long ans = 1, base = mid;
+    int Root(int N, int num, int M){
+        long res = 1, base = num;
         while(N > 0){
             if(N % 2 == 1){
-                ans *= base;
-                if(ans > M) return -1;
+                res *= base;
                 N--;
-            }else if(N%2 == 0){
-                N /= 2;
+                if(res > M)return Integer.MAX_VALUE;
+            }else{
                 base *= base;
-                if(base > M) return -1;
+                N = N / 2;
+                if(base > M)return Integer.MAX_VALUE;
             }
         }
-        if(ans == M) return 1;
-        return 0;
+        
+        return (int) res;
     }
     public int NthRoot(int N, int M) {
         int low = 1, high = M;
         while(low <= high){
             int mid = low + (high - low) / 2;
-            int ans = func(mid, N, M);
-            if(ans == 1) return mid;
-            else if(ans == -1) high = mid - 1;
-            else low = mid + 1;
+            if(Root(N, mid, M) == M){
+                return mid;
+            }else if(Root(N, mid,M) < M){
+                low = mid + 1;
+            }else{
+                high = mid - 1;
+            }
         }
         return -1;
+        
     }
 }
