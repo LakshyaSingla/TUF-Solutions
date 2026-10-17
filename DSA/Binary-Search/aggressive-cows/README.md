@@ -1,6 +1,6 @@
-# [Aggressive Cows](https://takeuforward.org/practice/dsa/aggressive-cows)
+# [Aggressive Cows](https://takeuforward.org/practice/dsa/aggressive-cows?category=faqs&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 
