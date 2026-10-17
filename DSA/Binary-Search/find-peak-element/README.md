@@ -1,6 +1,6 @@
-# [Find peak element](https://takeuforward.org/practice/dsa/find-peak-element)
+# [Find peak element](https://takeuforward.org/practice/dsa/find-peak-element?category=faqs&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
@@ -8,13 +8,14 @@
 
 Given an array arr of integers. A peak element is defined as an element greater than both of its neighbors.
 
-Formally, if arr[i] is the peak element, **arr[i - 1] < arr[i]** and **arr[i + 1] < arr[i]** .
+Formally, if arr[i] is the peak element, arr[i - 1] < arr[i] and arr[i + 1] < arr[i].
 
-Find the index(0-based) of a **peak** **element** in the array. If there are multiple peak numbers, return the index of any peak number.
+Find the index(0-based) of a peak element in the array. If there are multiple peak numbers, return the index of any peak number.
 
-**Note** :
+Note:
 
-- As there can be many peak values, " **true"** is given as output if the returned index is a peak number, otherwise the returned value of index.
+- As there can be many peak values, "true" is given as output if the returned index is a peak number, otherwise the returned value of index.
+- The first and last elements of the array can also be considered peak elements. For boundary elements, assume the missing neighbor is smaller than any possible element in the array.
 
 ### Example 1:
 
