@@ -27,7 +27,7 @@
 | 0009 | [Asteroid Collision](./DSA/Stack-Queue/asteroid-collision) | [JAVA](./DSA/Stack-Queue/asteroid-collision/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-27` |
 | 0010 | [Balanced Paranthesis](./DSA/Linked-List/balanced-paranthesis) | [JAVA](./DSA/Linked-List/balanced-paranthesis/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0011 | [Binary Subarrays With Sum](./DSA/Sliding-Window/binary-subarrays-with-sum) | [JAVA](./DSA/Sliding-Window/binary-subarrays-with-sum/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
-| 0012 | [Book Allocation Problem](./DSA/Binary-Search/book-allocation-problem) | [JAVA](./DSA/Binary-Search/book-allocation-problem/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
+| 0012 | [Book Allocation Problem](./DSA/Binary-Search/book-allocation-problem) | [JAVA](./DSA/Binary-Search/book-allocation-problem/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-17` |
 | 0013 | [Candy](./DSA/Greedy/candy) | [JAVA](./DSA/Greedy/candy/solution.java) | 🔴 Hard | `Greedy` | `2026-09-30` |
 | 0014 | [Capacity to Ship Packages Within D Days](./DSA/Binary-Search/capacity-to-ship-packages-within-d-days) | [JAVA](./DSA/Binary-Search/capacity-to-ship-packages-within-d-days/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
 | 0015 | [Celebrity Problem](./DSA/Stack-Queue/celebrity-problem) | [JAVA](./DSA/Stack-Queue/celebrity-problem/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-06` |
