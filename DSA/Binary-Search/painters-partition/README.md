@@ -1,4 +1,4 @@
-# [Painter's Partition](https://takeuforward.org/practice/dsa/painters-partition?category=on-answers&source=strivers-a2z-dsa-sheet&sidebar=0)
+# [Painter's Partition](https://takeuforward.org/practice/dsa/painters-partition?category=on-answers&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
