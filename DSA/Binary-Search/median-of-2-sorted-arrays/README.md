@@ -1,6 +1,6 @@
-# [Median of 2 sorted arrays](https://takeuforward.org/practice/dsa/median-of-2-sorted-arrays)
+# [Median of 2 sorted arrays](https://takeuforward.org/practice/dsa/median-of-2-sorted-arrays?category=faqs&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 

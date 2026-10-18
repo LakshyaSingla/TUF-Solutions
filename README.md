@@ -134,7 +134,7 @@
 | 0116 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-09` |
 | 0117 | [Maximum Rectangles](./DSA/Stack-Queue/maximum-rectangles) | [JAVA](./DSA/Stack-Queue/maximum-rectangles/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-30` |
 | 0118 | [902. Maximum Value Of A Subarray](./DSA/Arrays/maximum-value-of-a-subarray) | [JAVA](./DSA/Arrays/maximum-value-of-a-subarray/solution.java) | 🔴 Hard | `Arrays` | `2026-10-08` |
-| 0119 | [Median of 2 sorted arrays](./DSA/Binary-Search/median-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/median-of-2-sorted-arrays/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
+| 0119 | [Median of 2 sorted arrays](./DSA/Binary-Search/median-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/median-of-2-sorted-arrays/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-18` |
 | 0120 | [Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | 🟡 Medium | `Arrays` | `2026-09-30` |
 | 0121 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `Arrays` | `2026-10-09` |
 | 0122 | [Minimize Max Distance to Gas Station](./DSA/Binary-Search/minimize-max-distance-to-gas-station) | [JAVA](./DSA/Binary-Search/minimize-max-distance-to-gas-station/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
