@@ -1,12 +1,12 @@
 class Solution {
     public int kthElement(int[] a, int[] b, int k) {
-      int n1 = a.length;
-      int n2 = b.length;
+      int n1 = a.length, n2 = b.length;
       if(n1 > n2) return kthElement(b, a, k);
 
       int left = k;
       int low = Math.max(0, k - n2);
       int high = Math.min(n1, k);
+
       while(low <= high){
         int mid1 = low + (high - low) / 2;
         int mid2 = left - mid1;
@@ -23,7 +23,6 @@ class Solution {
         }else{
             low = mid1 + 1;
         }
-
       }
       return -1;
     }

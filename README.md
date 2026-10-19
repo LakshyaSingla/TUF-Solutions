@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **249** | 102 | 103 | 44 | `2026-10-18` |
+| **249** | 102 | 103 | 44 | `2026-10-19` |
 
 ---
 
@@ -99,7 +99,7 @@
 | 0081 | [Kadane's Algorithm](./DSA/Arrays/kadane's-algorithm) | [JAVA](./DSA/Arrays/kadane's-algorithm/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
 | 0082 | [Kadane's Algorithm](./DSA/General/kadanes-algorithm) | [JAVA](./DSA/General/kadanes-algorithm/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
 | 0083 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [JAVA](./DSA/Binary-Search/koko-eating-bananas/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
-| 0084 | [Kth element of 2 sorted arrays](./DSA/Binary-Search/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/kth-element-of-2-sorted-arrays/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
+| 0084 | [Kth element of 2 sorted arrays](./DSA/Binary-Search/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/kth-element-of-2-sorted-arrays/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-19` |
 | 0085 | [Kth Missing Positive Number](./DSA/Binary-Search/kth-missing-positive-number) | [JAVA](./DSA/Binary-Search/kth-missing-positive-number/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
 | 0086 | [Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
 | 0087 | [Largest rectangle in a histogram](./DSA/Stack-Queue/largest-rectangle-in-a-histogram) | [JAVA](./DSA/Stack-Queue/largest-rectangle-in-a-histogram/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-29` |

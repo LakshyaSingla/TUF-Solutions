@@ -1,6 +1,6 @@
-# [Kth element of 2 sorted arrays](https://takeuforward.org/practice/dsa/kth-element-of-2-sorted-arrays)
+# [Kth element of 2 sorted arrays](https://takeuforward.org/practice/dsa/kth-element-of-2-sorted-arrays?category=faqs&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 
