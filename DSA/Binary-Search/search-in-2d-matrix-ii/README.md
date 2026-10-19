@@ -1,6 +1,6 @@
-# [Search in 2D matrix - II](https://takeuforward.org/practice/dsa/search-in-2d-matrix-ii)
+# [Search in 2D matrix - II](https://takeuforward.org/practice/dsa/search-in-2d-matrix-ii?category=2d-arrays&source=strivers-a2z-dsa-sheet&solution=optimal)
 
-![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
