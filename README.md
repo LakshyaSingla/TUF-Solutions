@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **250** | 102 | 103 | 45 | `2026-10-19` |
+| **251** | 102 | 104 | 45 | `2026-10-19` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (209)
+### DSA (210)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -66,165 +66,166 @@
 | 0048 | [Find Pairs with Given Sum in Doubly Linked List](./DSA/Arrays/find-pairs-with-given-sum-in-doubly-linked-list) | [JAVA](./DSA/Arrays/find-pairs-with-given-sum-in-doubly-linked-list/solution.java) | 🟡 Medium | `Arrays` | `2026-09-30` |
 | 0049 | [Find peak element](./DSA/Binary-Search/find-peak-element) | [JAVA](./DSA/Binary-Search/find-peak-element/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-17` |
 | 0050 | [Find Peak Element - II](./DSA/Binary-Search/find-peak-element-ii) | [JAVA](./DSA/Binary-Search/find-peak-element-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
-| 0051 | [Find row with maximum 1's](./DSA/Binary-Search/find-row-with-maximum-1s) | [JAVA](./DSA/Binary-Search/find-row-with-maximum-1s/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
-| 0052 | [Find square root of a number](./DSA/Binary-Search/find-square-root-of-a-number) | [JAVA](./DSA/Binary-Search/find-square-root-of-a-number/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
-| 0053 | [Find the intersection point of Y LL](./DSA/Linked-List/find-the-intersection-point-of-y-ll) | [JAVA](./DSA/Linked-List/find-the-intersection-point-of-y-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
-| 0054 | [Find the repeating and missing number](./DSA/Arrays/find-the-repeating-and-missing-number) | [JAVA](./DSA/Arrays/find-the-repeating-and-missing-number/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
-| 0055 | [Find the smallest divisor](./DSA/Binary-Search/find-the-smallest-divisor) | [JAVA](./DSA/Binary-Search/find-the-smallest-divisor/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-15` |
-| 0056 | [Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [JAVA](./DSA/Linked-List/find-the-starting-point-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
-| 0057 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
-| 0058 | [Flattening of LL](./DSA/Linked-List/flattening-of-ll) | [JAVA](./DSA/Linked-List/flattening-of-ll/solution.java) | 🔴 Hard | `Linked-List` | `2026-09-27` |
-| 0059 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
-| 0060 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
-| 0061 | [Generate Parentheses](./DSA/Recursion/generate-parentheses) | [JAVA](./DSA/Recursion/generate-parentheses/solution.java) | 🟡 Medium | `Recursion` | `2026-09-30` |
-| 0062 | [Implement Min Stack](./DSA/Stack-Queue/implement-min-stack) | [JAVA](./DSA/Stack-Queue/implement-min-stack/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-28` |
-| 0063 | [Implement queue using Linkedlist](./DSA/Linked-List/implement-queue-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-queue-using-linkedlist/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
-| 0064 | [Implement Queue Using Stack](./DSA/Stack-Queue/implement-queue-using-stack) | [JAVA](./DSA/Stack-Queue/implement-queue-using-stack/solution.java) | ⚪ Unspecified | `Stack-Queue` | `2026-09-23` |
-| 0065 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
-| 0066 | [Infix to Postfix Conversion](./DSA/Stack-Queue/infix-to-postfix-conversion) | [JAVA](./DSA/Stack-Queue/infix-to-postfix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
-| 0067 | [Infix to Prefix Conversion](./DSA/Stack-Queue/infix-to-prefix-conversion) | [JAVA](./DSA/Stack-Queue/infix-to-prefix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
-| 0068 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [JAVA](./DSA/Trees/inorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-10-05` |
-| 0069 | [Insert before given node in Doubly Linked List](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0070 | [Insert Interval](./DSA/Greedy/insert-interval) | [JAVA](./DSA/Greedy/insert-interval/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
-| 0071 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0072 | [Insert node before (kth node) in Doubly Linked List](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0073 | [Insert node before tail in Doubly Linked List](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0074 | [Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0075 | [Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.cpp) [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0076 | [Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0077 | [Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0078 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
-| 0079 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [JAVA](./DSA/Greedy/job-sequencing-problem/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
-| 0080 | [Jump Game - I](./DSA/Greedy/jump-game-i) | [JAVA](./DSA/Greedy/jump-game-i/solution.java) | 🟢 Easy | `Greedy` | `2026-09-30` |
-| 0081 | [Kadane's Algorithm](./DSA/Arrays/kadane's-algorithm) | [JAVA](./DSA/Arrays/kadane's-algorithm/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
-| 0082 | [Kadane's Algorithm](./DSA/General/kadanes-algorithm) | [JAVA](./DSA/General/kadanes-algorithm/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
-| 0083 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [JAVA](./DSA/Binary-Search/koko-eating-bananas/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
-| 0084 | [Kth element of 2 sorted arrays](./DSA/Binary-Search/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/kth-element-of-2-sorted-arrays/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-19` |
-| 0085 | [Kth Missing Positive Number](./DSA/Binary-Search/kth-missing-positive-number) | [JAVA](./DSA/Binary-Search/kth-missing-positive-number/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
-| 0086 | [Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
-| 0087 | [Largest rectangle in a histogram](./DSA/Stack-Queue/largest-rectangle-in-a-histogram) | [JAVA](./DSA/Stack-Queue/largest-rectangle-in-a-histogram/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-29` |
-| 0088 | [Largest Subarray with Sum 0](./DSA/Hashing/largest-subarray-with-sum-0) | [JAVA](./DSA/Hashing/largest-subarray-with-sum-0/solution.java) | 🟡 Medium | `Hashing` | `2026-10-12` |
-| 0089 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
-| 0090 | [Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [JAVA](./DSA/Arrays/left-rotate-array/solution.java) | 🟡 Medium | `Arrays` | `2026-09-27` |
-| 0091 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
-| 0092 | [Lemonade Change](./DSA/Greedy/lemonade-change) | [JAVA](./DSA/Greedy/lemonade-change/solution.java) | 🟢 Easy | `Greedy` | `2026-09-30` |
-| 0093 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-26` |
-| 0094 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `Recursion` | `2026-09-30` |
-| 0095 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-10-05` |
-| 0096 | [1043. Lexicographically Smallest String](./DSA/Graphs/lexicographically-smallest-string) | [JAVA](./DSA/Graphs/lexicographically-smallest-string/solution.java) | 🔴 Hard | `Graphs` | `2026-10-08` |
-| 0097 | [LFU Cache](./DSA/Arrays/lfu-cache) | [JAVA](./DSA/Arrays/lfu-cache/solution.java) | 🔴 Hard | `Arrays` | `2026-10-02` |
-| 0098 | [Linear Search](./DSA/Arrays/linear-search) | [JAVA](./DSA/Arrays/linear-search/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
-| 0099 | [Longest Consecutive Sequence in an Array](./DSA/Hashing/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Hashing/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `Hashing` | `2026-10-09` |
-| 0100 | [Longest Palindromic Substring](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring) | [JAVA](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-13` |
-| 0101 | [Longest Repeating Character Replacement](./DSA/Sliding-Window/longest-repeating-character-replacement) | [JAVA](./DSA/Sliding-Window/longest-repeating-character-replacement/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
-| 0102 | [Longest subarray with sum K](./DSA/Hashing/longest-subarray-with-sum-k) | [JAVA](./DSA/Hashing/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `Hashing` | `2026-10-15` |
-| 0103 | [Longest Substring With At Most K Distinct Characters](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
-| 0104 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
-| 0105 | [Lower Bound](./DSA/General/lower-bound) | [JAVA](./DSA/General/lower-bound/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0106 | [LRU Cache](./DSA/Stack-Queue/lru-cache) | [JAVA](./DSA/Stack-Queue/lru-cache/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-10-01` |
-| 0107 | [M Coloring Problem](./DSA/Backtracking/m-coloring-problem) | [JAVA](./DSA/Backtracking/m-coloring-problem/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
-| 0108 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0109 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
-| 0110 | [Matrix Median](./DSA/Binary-Search/matrix-median) | [JAVA](./DSA/Binary-Search/matrix-median/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-27` |
-| 0111 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
-| 0112 | [826. Maximum Consecutive Good Numbers](./DSA/General/maximum-consecutive-good-numbers) | [JAVA](./DSA/General/maximum-consecutive-good-numbers/solution.java) | 🟡 Medium | `General` | `2026-10-15` |
-| 0113 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [JAVA](./DSA/Arrays/maximum-consecutive-ones/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
-| 0114 | [Maximum Nesting Depth of the Parentheses](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-12` |
-| 0115 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
-| 0116 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-09` |
-| 0117 | [Maximum Rectangles](./DSA/Stack-Queue/maximum-rectangles) | [JAVA](./DSA/Stack-Queue/maximum-rectangles/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-30` |
-| 0118 | [902. Maximum Value Of A Subarray](./DSA/Arrays/maximum-value-of-a-subarray) | [JAVA](./DSA/Arrays/maximum-value-of-a-subarray/solution.java) | 🔴 Hard | `Arrays` | `2026-10-08` |
-| 0119 | [Median of 2 sorted arrays](./DSA/Binary-Search/median-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/median-of-2-sorted-arrays/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-18` |
-| 0120 | [Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | 🟡 Medium | `Arrays` | `2026-09-30` |
-| 0121 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `Arrays` | `2026-10-09` |
-| 0122 | [Minimize Max Distance to Gas Station](./DSA/Binary-Search/minimize-max-distance-to-gas-station) | [JAVA](./DSA/Binary-Search/minimize-max-distance-to-gas-station/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
-| 0123 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
-| 0124 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [JAVA](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
-| 0125 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [JAVA](./DSA/Sliding-Window/minimum-window-substring/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
-| 0126 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [JAVA](./DSA/Arrays/move-zeros-to-end/solution.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
-| 0127 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [JAVA](./DSA/Greedy/n-meetings-in-one-room/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
-| 0128 | [N Queen](./DSA/Recursion/n-queen) | [JAVA](./DSA/Recursion/n-queen/solution.java) | 🔴 Hard | `Recursion` | `2026-09-30` |
-| 0129 | [Next Greater Element](./DSA/Stack-Queue/next-greater-element) | [JAVA](./DSA/Stack-Queue/next-greater-element/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
-| 0130 | [Next Greater Element - 2](./DSA/Stack-Queue/next-greater-element---2) | [JAVA](./DSA/Stack-Queue/next-greater-element---2/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-24` |
-| 0131 | [Next Permutation](./DSA/Arrays/next-permutation) | [JAVA](./DSA/Arrays/next-permutation/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
-| 0132 | [Next Smaller Element](./DSA/Stack-Queue/next-smaller-element) | [JAVA](./DSA/Stack-Queue/next-smaller-element/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
-| 0133 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [JAVA](./DSA/Greedy/non-overlapping-intervals/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
-| 0134 | [Number of Greater Elements to the Right](./DSA/Stack-Queue/number-of-greater-elements-to-the-right) | [JAVA](./DSA/Stack-Queue/number-of-greater-elements-to-the-right/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
-| 0135 | [712. Number of Jumps](./DSA/General/number-of-jumps) | [JAVA](./DSA/General/number-of-jumps/solution.java) | 🔴 Hard | `General` | `2026-10-09` |
-| 0136 | [Number of Substrings Containing All Three Characters](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters) | [JAVA](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
-| 0137 | [Painter's Partition](./DSA/Binary-Search/painters-partition) | [JAVA](./DSA/Binary-Search/painters-partition/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-18` |
-| 0138 | [Palindrome partitioning](./DSA/Backtracking/palindrome-partitioning) | [JAVA](./DSA/Backtracking/palindrome-partitioning/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
-| 0139 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-05` |
-| 0140 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-05` |
-| 0141 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-06` |
-| 0142 | [Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0143 | [Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0144 | [Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0145 | [Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0146 | [Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0147 | [Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0148 | [Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0149 | [Postfix to Infix Conversion](./DSA/Stack-Queue/postfix-to-infix-conversion) | [JAVA](./DSA/Stack-Queue/postfix-to-infix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-08` |
-| 0150 | [Postfix to Prefix Conversion](./DSA/Stack-Queue/postfix-to-prefix-conversion) | [JAVA](./DSA/Stack-Queue/postfix-to-prefix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
-| 0151 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-10-05` |
-| 0152 | [Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
-| 0153 | [Pow(x,n)](./DSA/General/powxn) | [JAVA](./DSA/General/powxn/solution.java) | 🟢 Easy | `General` | `2026-08-11` |
-| 0154 | [Practice (Attributes and Methods)](./DSA/Introduction-to-OOPS/practice-attributes-and-methods) | [JAVA](./DSA/Introduction-to-OOPS/practice-attributes-and-methods/solution.java) | 🟡 Medium | `Introduction-to-OOPS` | `2026-09-05` |
-| 0155 | [Practice (Classes and Objects)](./DSA/Introduction-to-OOPS/practice-classes-and-objects) | [JAVA](./DSA/Introduction-to-OOPS/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-to-OOPS` | `2026-08-29` |
-| 0156 | [Prefix to Infix Conversion](./DSA/Arrays/prefix-to-infix-conversion) | [JAVA](./DSA/Arrays/prefix-to-infix-conversion/solution.java) | 🟡 Medium | `Arrays` | `2026-10-08` |
-| 0157 | [Prefix to Postfix Conversion](./DSA/Arrays/prefix-to-postfix-conversion) | [JAVA](./DSA/Arrays/prefix-to-postfix-conversion/solution.java) | 🟡 Medium | `Arrays` | `2026-10-08` |
-| 0158 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-10-05` |
-| 0159 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0160 | [Rat in a Maze](./DSA/Backtracking/rat-in-a-maze) | [JAVA](./DSA/Backtracking/rat-in-a-maze/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
-| 0161 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0162 | [Remove duplicates from sorted DLL](./DSA/Arrays/remove-duplicated-from-sorted-dll) | [JAVA](./DSA/Arrays/remove-duplicated-from-sorted-dll/solution.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
-| 0163 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
-| 0164 | [Remove K Digits](./DSA/Stack-Queue/remove-k-digits) | [JAVA](./DSA/Stack-Queue/remove-k-digits/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-28` |
-| 0165 | [Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [JAVA](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
-| 0166 | [Remove Outermost Parentheses](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-12` |
-| 0167 | [Removing given node in Doubly Linked List](./DSA/Linked-List/removing-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/removing-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0168 | [Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
-| 0169 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | 🟢 Easy | `Arrays` | `2026-08-11` |
-| 0170 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [JAVA](./DSA/Arrays/reverse-pairs/solution.java) | 🔴 Hard | `Arrays` | `2026-10-09` |
-| 0171 | [Roman to Integer](./DSA/Strings-Basic-and-Medium/roman-to-integer) | [JAVA](./DSA/Strings-Basic-and-Medium/roman-to-integer/solution.java) | 🟢 Easy | `Strings-Basic-and-Medium` | `2026-10-12` |
-| 0172 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
-| 0173 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
-| 0174 | [Search in a 2D matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
-| 0175 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
-| 0176 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
-| 0177 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-ii) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
-| 0178 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
-| 0179 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-09-30` |
-| 0180 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
-| 0181 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
-| 0182 | [233. Set difference of two arrays](./DSA/Arrays/set-difference-of-two-arrays) | [JAVA](./DSA/Arrays/set-difference-of-two-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
-| 0183 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
-| 0184 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [CPP](./DSA/Greedy/shortest-job-first/solution.cpp) [JAVA](./DSA/Greedy/shortest-job-first/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
-| 0185 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
-| 0186 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [JAVA](./DSA/Stack-Queue/sliding-window-maximum/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-28` |
-| 0187 | [Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s) | [JAVA](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
-| 0188 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
-| 0189 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `Arrays` | `2026-09-30` |
-| 0190 | [Split array - largest sum](./DSA/Binary-Search/split-array---largest-sum) | [JAVA](./DSA/Binary-Search/split-array---largest-sum/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-19` |
-| 0191 | [Split array - largest sum](./DSA/Binary-Search/split-array-largest-sum) | [JAVA](./DSA/Binary-Search/split-array-largest-sum/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
-| 0192 | [Stock span problem](./DSA/Stack-Queue/stock-span-problem) | [JAVA](./DSA/Stack-Queue/stock-span-problem/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
-| 0193 | [String to Integer (atoi)](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi) | [JAVA](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-12` |
-| 0194 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `Recursion` | `2026-09-30` |
-| 0195 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `Recursion` | `2026-09-30` |
-| 0196 | [Sudoku Solver](./DSA/Backtracking/sudoku-solver) | [JAVA](./DSA/Backtracking/sudoku-solver/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
-| 0197 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `Arrays` | `2026-09-30` |
-| 0198 | [Sum of Beauty of All Substrings](./DSA/Strings-Basic-and-Medium/sum-of-beauty-of-all-substrings) | [JAVA](./DSA/Strings-Basic-and-Medium/sum-of-beauty-of-all-substrings/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-13` |
-| 0199 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0200 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0201 | [Sum of Subarray Minimums](./DSA/Stack-Queue/sum-of-subarray-minimums) | [JAVA](./DSA/Stack-Queue/sum-of-subarray-minimums/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-27` |
-| 0202 | [Sum of Subarray Ranges](./DSA/Stack-Queue/sum-of-subarray-ranges) | [JAVA](./DSA/Stack-Queue/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-27` |
-| 0203 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [JAVA](./DSA/Stack-Queue/trapping-rainwater/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-29` |
-| 0204 | [Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
-| 0205 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-10-07` |
-| 0206 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0207 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
-| 0208 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [JAVA](./DSA/Greedy/valid-paranthesis-checker/solution.java) | 🔴 Hard | `Greedy` | `2026-09-30` |
-| 0209 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
+| 0051 | [Find row with maximum 1's](./DSA/Binary-Search/find-row-with-maximum-1's) | [JAVA](./DSA/Binary-Search/find-row-with-maximum-1's/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-19` |
+| 0052 | [Find row with maximum 1's](./DSA/Binary-Search/find-row-with-maximum-1s) | [JAVA](./DSA/Binary-Search/find-row-with-maximum-1s/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
+| 0053 | [Find square root of a number](./DSA/Binary-Search/find-square-root-of-a-number) | [JAVA](./DSA/Binary-Search/find-square-root-of-a-number/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
+| 0054 | [Find the intersection point of Y LL](./DSA/Linked-List/find-the-intersection-point-of-y-ll) | [JAVA](./DSA/Linked-List/find-the-intersection-point-of-y-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
+| 0055 | [Find the repeating and missing number](./DSA/Arrays/find-the-repeating-and-missing-number) | [JAVA](./DSA/Arrays/find-the-repeating-and-missing-number/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
+| 0056 | [Find the smallest divisor](./DSA/Binary-Search/find-the-smallest-divisor) | [JAVA](./DSA/Binary-Search/find-the-smallest-divisor/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-15` |
+| 0057 | [Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [JAVA](./DSA/Linked-List/find-the-starting-point-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
+| 0058 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
+| 0059 | [Flattening of LL](./DSA/Linked-List/flattening-of-ll) | [JAVA](./DSA/Linked-List/flattening-of-ll/solution.java) | 🔴 Hard | `Linked-List` | `2026-09-27` |
+| 0060 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
+| 0061 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
+| 0062 | [Generate Parentheses](./DSA/Recursion/generate-parentheses) | [JAVA](./DSA/Recursion/generate-parentheses/solution.java) | 🟡 Medium | `Recursion` | `2026-09-30` |
+| 0063 | [Implement Min Stack](./DSA/Stack-Queue/implement-min-stack) | [JAVA](./DSA/Stack-Queue/implement-min-stack/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-28` |
+| 0064 | [Implement queue using Linkedlist](./DSA/Linked-List/implement-queue-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-queue-using-linkedlist/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
+| 0065 | [Implement Queue Using Stack](./DSA/Stack-Queue/implement-queue-using-stack) | [JAVA](./DSA/Stack-Queue/implement-queue-using-stack/solution.java) | ⚪ Unspecified | `Stack-Queue` | `2026-09-23` |
+| 0066 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
+| 0067 | [Infix to Postfix Conversion](./DSA/Stack-Queue/infix-to-postfix-conversion) | [JAVA](./DSA/Stack-Queue/infix-to-postfix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
+| 0068 | [Infix to Prefix Conversion](./DSA/Stack-Queue/infix-to-prefix-conversion) | [JAVA](./DSA/Stack-Queue/infix-to-prefix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
+| 0069 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [JAVA](./DSA/Trees/inorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-10-05` |
+| 0070 | [Insert before given node in Doubly Linked List](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0071 | [Insert Interval](./DSA/Greedy/insert-interval) | [JAVA](./DSA/Greedy/insert-interval/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
+| 0072 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0073 | [Insert node before (kth node) in Doubly Linked List](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-kth-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0074 | [Insert node before tail in Doubly Linked List](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-tail-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0075 | [Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-head-of-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0076 | [Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.cpp) [JAVA](./DSA/Linked-List/insertion-at-the-kth-position-of-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0077 | [Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-linked-list) | [JAVA](./DSA/Linked-List/insertion-at-the-tail-of-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0078 | [Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0079 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
+| 0080 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [JAVA](./DSA/Greedy/job-sequencing-problem/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
+| 0081 | [Jump Game - I](./DSA/Greedy/jump-game-i) | [JAVA](./DSA/Greedy/jump-game-i/solution.java) | 🟢 Easy | `Greedy` | `2026-09-30` |
+| 0082 | [Kadane's Algorithm](./DSA/Arrays/kadane's-algorithm) | [JAVA](./DSA/Arrays/kadane's-algorithm/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
+| 0083 | [Kadane's Algorithm](./DSA/General/kadanes-algorithm) | [JAVA](./DSA/General/kadanes-algorithm/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
+| 0084 | [Koko eating bananas](./DSA/Binary-Search/koko-eating-bananas) | [JAVA](./DSA/Binary-Search/koko-eating-bananas/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
+| 0085 | [Kth element of 2 sorted arrays](./DSA/Binary-Search/kth-element-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/kth-element-of-2-sorted-arrays/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-19` |
+| 0086 | [Kth Missing Positive Number](./DSA/Binary-Search/kth-missing-positive-number) | [JAVA](./DSA/Binary-Search/kth-missing-positive-number/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
+| 0087 | [Largest Element](./DSA/Arrays/largest-element) | [JAVA](./DSA/Arrays/largest-element/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
+| 0088 | [Largest rectangle in a histogram](./DSA/Stack-Queue/largest-rectangle-in-a-histogram) | [JAVA](./DSA/Stack-Queue/largest-rectangle-in-a-histogram/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-29` |
+| 0089 | [Largest Subarray with Sum 0](./DSA/Hashing/largest-subarray-with-sum-0) | [JAVA](./DSA/Hashing/largest-subarray-with-sum-0/solution.java) | 🟡 Medium | `Hashing` | `2026-10-12` |
+| 0090 | [Leaders in an Array](./DSA/Arrays/leaders-in-an-array) | [JAVA](./DSA/Arrays/leaders-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
+| 0091 | [Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [JAVA](./DSA/Arrays/left-rotate-array/solution.java) | 🟡 Medium | `Arrays` | `2026-09-27` |
+| 0092 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
+| 0093 | [Lemonade Change](./DSA/Greedy/lemonade-change) | [JAVA](./DSA/Greedy/lemonade-change/solution.java) | 🟢 Easy | `Greedy` | `2026-09-30` |
+| 0094 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-26` |
+| 0095 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `Recursion` | `2026-09-30` |
+| 0096 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟡 Medium | `Trees` | `2026-10-05` |
+| 0097 | [1043. Lexicographically Smallest String](./DSA/Graphs/lexicographically-smallest-string) | [JAVA](./DSA/Graphs/lexicographically-smallest-string/solution.java) | 🔴 Hard | `Graphs` | `2026-10-08` |
+| 0098 | [LFU Cache](./DSA/Arrays/lfu-cache) | [JAVA](./DSA/Arrays/lfu-cache/solution.java) | 🔴 Hard | `Arrays` | `2026-10-02` |
+| 0099 | [Linear Search](./DSA/Arrays/linear-search) | [JAVA](./DSA/Arrays/linear-search/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
+| 0100 | [Longest Consecutive Sequence in an Array](./DSA/Hashing/longest-consecutive-sequence-in-an-array) | [JAVA](./DSA/Hashing/longest-consecutive-sequence-in-an-array/solution.java) | 🟡 Medium | `Hashing` | `2026-10-09` |
+| 0101 | [Longest Palindromic Substring](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring) | [JAVA](./DSA/Strings-Basic-and-Medium/longest-palindromic-substring/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-13` |
+| 0102 | [Longest Repeating Character Replacement](./DSA/Sliding-Window/longest-repeating-character-replacement) | [JAVA](./DSA/Sliding-Window/longest-repeating-character-replacement/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
+| 0103 | [Longest subarray with sum K](./DSA/Hashing/longest-subarray-with-sum-k) | [JAVA](./DSA/Hashing/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `Hashing` | `2026-10-15` |
+| 0104 | [Longest Substring With At Most K Distinct Characters](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
+| 0105 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
+| 0106 | [Lower Bound](./DSA/General/lower-bound) | [JAVA](./DSA/General/lower-bound/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0107 | [LRU Cache](./DSA/Stack-Queue/lru-cache) | [JAVA](./DSA/Stack-Queue/lru-cache/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-10-01` |
+| 0108 | [M Coloring Problem](./DSA/Backtracking/m-coloring-problem) | [JAVA](./DSA/Backtracking/m-coloring-problem/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
+| 0109 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
+| 0110 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
+| 0111 | [Matrix Median](./DSA/Binary-Search/matrix-median) | [JAVA](./DSA/Binary-Search/matrix-median/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-27` |
+| 0112 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
+| 0113 | [826. Maximum Consecutive Good Numbers](./DSA/General/maximum-consecutive-good-numbers) | [JAVA](./DSA/General/maximum-consecutive-good-numbers/solution.java) | 🟡 Medium | `General` | `2026-10-15` |
+| 0114 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [JAVA](./DSA/Arrays/maximum-consecutive-ones/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
+| 0115 | [Maximum Nesting Depth of the Parentheses](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-12` |
+| 0116 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
+| 0117 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-09` |
+| 0118 | [Maximum Rectangles](./DSA/Stack-Queue/maximum-rectangles) | [JAVA](./DSA/Stack-Queue/maximum-rectangles/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-30` |
+| 0119 | [902. Maximum Value Of A Subarray](./DSA/Arrays/maximum-value-of-a-subarray) | [JAVA](./DSA/Arrays/maximum-value-of-a-subarray/solution.java) | 🔴 Hard | `Arrays` | `2026-10-08` |
+| 0120 | [Median of 2 sorted arrays](./DSA/Binary-Search/median-of-2-sorted-arrays) | [JAVA](./DSA/Binary-Search/median-of-2-sorted-arrays/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-18` |
+| 0121 | [Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | 🟡 Medium | `Arrays` | `2026-09-30` |
+| 0122 | [Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) | 🟡 Medium | `Arrays` | `2026-10-09` |
+| 0123 | [Minimize Max Distance to Gas Station](./DSA/Binary-Search/minimize-max-distance-to-gas-station) | [JAVA](./DSA/Binary-Search/minimize-max-distance-to-gas-station/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
+| 0124 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
+| 0125 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [JAVA](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
+| 0126 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [JAVA](./DSA/Sliding-Window/minimum-window-substring/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
+| 0127 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [JAVA](./DSA/Arrays/move-zeros-to-end/solution.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
+| 0128 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [JAVA](./DSA/Greedy/n-meetings-in-one-room/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
+| 0129 | [N Queen](./DSA/Recursion/n-queen) | [JAVA](./DSA/Recursion/n-queen/solution.java) | 🔴 Hard | `Recursion` | `2026-09-30` |
+| 0130 | [Next Greater Element](./DSA/Stack-Queue/next-greater-element) | [JAVA](./DSA/Stack-Queue/next-greater-element/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
+| 0131 | [Next Greater Element - 2](./DSA/Stack-Queue/next-greater-element---2) | [JAVA](./DSA/Stack-Queue/next-greater-element---2/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-24` |
+| 0132 | [Next Permutation](./DSA/Arrays/next-permutation) | [JAVA](./DSA/Arrays/next-permutation/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
+| 0133 | [Next Smaller Element](./DSA/Stack-Queue/next-smaller-element) | [JAVA](./DSA/Stack-Queue/next-smaller-element/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
+| 0134 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [JAVA](./DSA/Greedy/non-overlapping-intervals/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
+| 0135 | [Number of Greater Elements to the Right](./DSA/Stack-Queue/number-of-greater-elements-to-the-right) | [JAVA](./DSA/Stack-Queue/number-of-greater-elements-to-the-right/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
+| 0136 | [712. Number of Jumps](./DSA/General/number-of-jumps) | [JAVA](./DSA/General/number-of-jumps/solution.java) | 🔴 Hard | `General` | `2026-10-09` |
+| 0137 | [Number of Substrings Containing All Three Characters](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters) | [JAVA](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
+| 0138 | [Painter's Partition](./DSA/Binary-Search/painters-partition) | [JAVA](./DSA/Binary-Search/painters-partition/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-18` |
+| 0139 | [Palindrome partitioning](./DSA/Backtracking/palindrome-partitioning) | [JAVA](./DSA/Backtracking/palindrome-partitioning/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
+| 0140 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-05` |
+| 0141 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-05` |
+| 0142 | [Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-06` |
+| 0143 | [Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0144 | [Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0145 | [Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0146 | [Pattern 4](./DSA/General/pattern-4) | [JAVA](./DSA/General/pattern-4/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0147 | [Pattern 5](./DSA/General/pattern-5) | [JAVA](./DSA/General/pattern-5/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0148 | [Pattern 6](./DSA/General/pattern-6) | [JAVA](./DSA/General/pattern-6/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0149 | [Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0150 | [Postfix to Infix Conversion](./DSA/Stack-Queue/postfix-to-infix-conversion) | [JAVA](./DSA/Stack-Queue/postfix-to-infix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-08` |
+| 0151 | [Postfix to Prefix Conversion](./DSA/Stack-Queue/postfix-to-prefix-conversion) | [JAVA](./DSA/Stack-Queue/postfix-to-prefix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
+| 0152 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-10-05` |
+| 0153 | [Power Set](./DSA/General/power-set) | [JAVA](./DSA/General/power-set/solution.java) | 🟡 Medium | `General` | `2026-09-30` |
+| 0154 | [Pow(x,n)](./DSA/General/powxn) | [JAVA](./DSA/General/powxn/solution.java) | 🟢 Easy | `General` | `2026-08-11` |
+| 0155 | [Practice (Attributes and Methods)](./DSA/Introduction-to-OOPS/practice-attributes-and-methods) | [JAVA](./DSA/Introduction-to-OOPS/practice-attributes-and-methods/solution.java) | 🟡 Medium | `Introduction-to-OOPS` | `2026-09-05` |
+| 0156 | [Practice (Classes and Objects)](./DSA/Introduction-to-OOPS/practice-classes-and-objects) | [JAVA](./DSA/Introduction-to-OOPS/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-to-OOPS` | `2026-08-29` |
+| 0157 | [Prefix to Infix Conversion](./DSA/Arrays/prefix-to-infix-conversion) | [JAVA](./DSA/Arrays/prefix-to-infix-conversion/solution.java) | 🟡 Medium | `Arrays` | `2026-10-08` |
+| 0158 | [Prefix to Postfix Conversion](./DSA/Arrays/prefix-to-postfix-conversion) | [JAVA](./DSA/Arrays/prefix-to-postfix-conversion/solution.java) | 🟡 Medium | `Arrays` | `2026-10-08` |
+| 0159 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-10-05` |
+| 0160 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [JAVA](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
+| 0161 | [Rat in a Maze](./DSA/Backtracking/rat-in-a-maze) | [JAVA](./DSA/Backtracking/rat-in-a-maze/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
+| 0162 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [JAVA](./DSA/Arrays/rearrange-array-elements-by-sign/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
+| 0163 | [Remove duplicates from sorted DLL](./DSA/Arrays/remove-duplicated-from-sorted-dll) | [JAVA](./DSA/Arrays/remove-duplicated-from-sorted-dll/solution.java) | 🟡 Medium | `Arrays` | `2026-09-28` |
+| 0164 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
+| 0165 | [Remove K Digits](./DSA/Stack-Queue/remove-k-digits) | [JAVA](./DSA/Stack-Queue/remove-k-digits/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-28` |
+| 0166 | [Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [JAVA](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
+| 0167 | [Remove Outermost Parentheses](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/remove-outermost-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-12` |
+| 0168 | [Removing given node in Doubly Linked List](./DSA/Linked-List/removing-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/removing-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0169 | [Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
+| 0170 | [Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | 🟢 Easy | `Arrays` | `2026-08-11` |
+| 0171 | [Reverse Pairs](./DSA/Arrays/reverse-pairs) | [JAVA](./DSA/Arrays/reverse-pairs/solution.java) | 🔴 Hard | `Arrays` | `2026-10-09` |
+| 0172 | [Roman to Integer](./DSA/Strings-Basic-and-Medium/roman-to-integer) | [JAVA](./DSA/Strings-Basic-and-Medium/roman-to-integer/solution.java) | 🟢 Easy | `Strings-Basic-and-Medium` | `2026-10-12` |
+| 0173 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
+| 0174 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
+| 0175 | [Search in a 2D matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
+| 0176 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-2) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-2/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
+| 0177 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
+| 0178 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-ii) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-30` |
+| 0179 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
+| 0180 | [Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Arrays` | `2026-09-30` |
+| 0181 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [JAVA](./DSA/Arrays/second-largest-element/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
+| 0182 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
+| 0183 | [233. Set difference of two arrays](./DSA/Arrays/set-difference-of-two-arrays) | [JAVA](./DSA/Arrays/set-difference-of-two-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
+| 0184 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [JAVA](./DSA/Arrays/set-matrix-zeroes/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
+| 0185 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [CPP](./DSA/Greedy/shortest-job-first/solution.cpp) [JAVA](./DSA/Greedy/shortest-job-first/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
+| 0186 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
+| 0187 | [Sliding Window Maximum](./DSA/Stack-Queue/sliding-window-maximum) | [JAVA](./DSA/Stack-Queue/sliding-window-maximum/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-28` |
+| 0188 | [Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s) | [JAVA](./DSA/Linked-List/sort-a-linked-list-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
+| 0189 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
+| 0190 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [JAVA](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.java) | 🟡 Medium | `Arrays` | `2026-09-30` |
+| 0191 | [Split array - largest sum](./DSA/Binary-Search/split-array---largest-sum) | [JAVA](./DSA/Binary-Search/split-array---largest-sum/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-19` |
+| 0192 | [Split array - largest sum](./DSA/Binary-Search/split-array-largest-sum) | [JAVA](./DSA/Binary-Search/split-array-largest-sum/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
+| 0193 | [Stock span problem](./DSA/Stack-Queue/stock-span-problem) | [JAVA](./DSA/Stack-Queue/stock-span-problem/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
+| 0194 | [String to Integer (atoi)](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi) | [JAVA](./DSA/Strings-Basic-and-Medium/string-to-integer-atoi/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-12` |
+| 0195 | [Subsets I](./DSA/Recursion/subsets-i) | [JAVA](./DSA/Recursion/subsets-i/solution.java) | 🟡 Medium | `Recursion` | `2026-09-30` |
+| 0196 | [Subsets II](./DSA/Recursion/subsets-ii) | [JAVA](./DSA/Recursion/subsets-ii/solution.java) | 🟡 Medium | `Recursion` | `2026-09-30` |
+| 0197 | [Sudoku Solver](./DSA/Backtracking/sudoku-solver) | [JAVA](./DSA/Backtracking/sudoku-solver/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
+| 0198 | [Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [JAVA](./DSA/Arrays/sum-of-array-elements-ii/solution.java) | 🟢 Easy | `Arrays` | `2026-09-30` |
+| 0199 | [Sum of Beauty of All Substrings](./DSA/Strings-Basic-and-Medium/sum-of-beauty-of-all-substrings) | [JAVA](./DSA/Strings-Basic-and-Medium/sum-of-beauty-of-all-substrings/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-13` |
+| 0200 | [Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0201 | [Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0202 | [Sum of Subarray Minimums](./DSA/Stack-Queue/sum-of-subarray-minimums) | [JAVA](./DSA/Stack-Queue/sum-of-subarray-minimums/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-27` |
+| 0203 | [Sum of Subarray Ranges](./DSA/Stack-Queue/sum-of-subarray-ranges) | [JAVA](./DSA/Stack-Queue/sum-of-subarray-ranges/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-27` |
+| 0204 | [Trapping Rainwater](./DSA/Stack-Queue/trapping-rainwater) | [JAVA](./DSA/Stack-Queue/trapping-rainwater/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-29` |
+| 0205 | [Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [JAVA](./DSA/Linked-List/traversal-in-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
+| 0206 | [Two Sum](./DSA/Arrays/two-sum) | [JAVA](./DSA/Arrays/two-sum/solution.java) | 🟢 Easy | `Arrays` | `2026-10-07` |
+| 0207 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
+| 0208 | [Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
+| 0209 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [JAVA](./DSA/Greedy/valid-paranthesis-checker/solution.java) | 🔴 Hard | `Greedy` | `2026-09-30` |
+| 0210 | [Word Search](./DSA/Backtracking/word-search) | [JAVA](./DSA/Backtracking/word-search/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
 
 ### SQL (41)
 
