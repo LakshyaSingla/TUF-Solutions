@@ -132,7 +132,7 @@
 | 0114 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [JAVA](./DSA/Arrays/maximum-consecutive-ones/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
 | 0115 | [Maximum Nesting Depth of the Parentheses](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-12` |
 | 0116 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
-| 0117 | [Maximum Points You Can Obtain from Cards](./DSA/Binary-Search/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/Binary-Search/maximum-points-you-can-obtain-from-cards-/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-19` |
+| 0117 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards-/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-10-20` |
 | 0118 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | 🟡 Medium | `Arrays` | `2026-10-09` |
 | 0119 | [Maximum Rectangles](./DSA/Stack-Queue/maximum-rectangles) | [JAVA](./DSA/Stack-Queue/maximum-rectangles/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-09-30` |
 | 0120 | [902. Maximum Value Of A Subarray](./DSA/Arrays/maximum-value-of-a-subarray) | [JAVA](./DSA/Arrays/maximum-value-of-a-subarray/solution.java) | 🔴 Hard | `Arrays` | `2026-10-08` |
