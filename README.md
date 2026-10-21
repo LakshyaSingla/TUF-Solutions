@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **252** | 102 | 105 | 45 | `2026-10-20` |
+| **252** | 102 | 105 | 45 | `2026-10-21` |
 
 ---
 
@@ -154,7 +154,7 @@
 | 0136 | [Number of Greater Elements to the Right](./DSA/Stack-Queue/number-of-greater-elements-to-the-right) | [JAVA](./DSA/Stack-Queue/number-of-greater-elements-to-the-right/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
 | 0137 | [712. Number of Jumps](./DSA/General/number-of-jumps) | [JAVA](./DSA/General/number-of-jumps/solution.java) | 🔴 Hard | `General` | `2026-10-09` |
 | 0138 | [Number of Substrings Containing All Three Characters](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters) | [JAVA](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
-| 0139 | [Painter's Partition](./DSA/Binary-Search/painters-partition) | [JAVA](./DSA/Binary-Search/painters-partition/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-18` |
+| 0139 | [Painter's Partition](./DSA/Binary-Search/painters-partition) | [JAVA](./DSA/Binary-Search/painters-partition/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-21` |
 | 0140 | [Palindrome partitioning](./DSA/Backtracking/palindrome-partitioning) | [JAVA](./DSA/Backtracking/palindrome-partitioning/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
 | 0141 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-05` |
 | 0142 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-05` |

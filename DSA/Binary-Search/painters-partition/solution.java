@@ -15,10 +15,11 @@ class Solution {
     public int paint(int A, int B, int[] C) {
         // Your code goes here
         int MOD = 10000003;
+        int n = C.length;
         long low = 0, high = 0;
-        for(int num : C){
-            low = Math.max(low, num);
-            high += num;
+        for(int X : C){
+            low = Math.max(low, X);
+            high += X;
         }
         while(low <= high){
             long mid = low + (high - low) / 2;
@@ -28,6 +29,6 @@ class Solution {
                 low = mid + 1;
             }
         }
-        return (int) ((low * B) % MOD); 
+        return (int) ((low * B) % MOD);
     }
 }
