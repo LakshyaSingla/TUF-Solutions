@@ -1,6 +1,6 @@
-# [Longest Substring With At Most K Distinct Characters](https://takeuforward.org/practice/dsa/longest-substring-with-at-most-k-distinct-characters)
+# [Longest Substring With At Most K Distinct Characters](https://takeuforward.org/practice/dsa/longest-substring-with-at-most-k-distinct-characters?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
+![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
 ---
 
