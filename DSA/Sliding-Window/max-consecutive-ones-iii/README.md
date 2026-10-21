@@ -1,6 +1,6 @@
-# [Max Consecutive Ones III](https://takeuforward.org/practice/dsa/max-consecutive-ones-iii)
+# [Max Consecutive Ones III](https://takeuforward.org/practice/dsa/max-consecutive-ones-iii?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 

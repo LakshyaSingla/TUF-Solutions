@@ -127,7 +127,7 @@
 | 0109 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
 | 0110 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-07` |
 | 0111 | [Matrix Median](./DSA/Binary-Search/matrix-median) | [JAVA](./DSA/Binary-Search/matrix-median/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-20` |
-| 0112 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
+| 0112 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-10-21` |
 | 0113 | [826. Maximum Consecutive Good Numbers](./DSA/General/maximum-consecutive-good-numbers) | [JAVA](./DSA/General/maximum-consecutive-good-numbers/solution.java) | 🟡 Medium | `General` | `2026-10-15` |
 | 0114 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [JAVA](./DSA/Arrays/maximum-consecutive-ones/solution.java) | 🟢 Easy | `Arrays` | `2026-09-27` |
 | 0115 | [Maximum Nesting Depth of the Parentheses](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses) | [JAVA](./DSA/Strings-Basic-and-Medium/maximum-nesting-depth-of-the-parentheses/solution.java) | 🟡 Medium | `Strings-Basic-and-Medium` | `2026-10-12` |
