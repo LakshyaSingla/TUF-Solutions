@@ -76,7 +76,7 @@
 | 0058 | [First and last occurrence](./DSA/Binary-Search/first-and-last-occurrence) | [JAVA](./DSA/Binary-Search/first-and-last-occurrence/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-14` |
 | 0059 | [Flattening of LL](./DSA/Linked-List/flattening-of-ll) | [JAVA](./DSA/Linked-List/flattening-of-ll/solution.java) | 🔴 Hard | `Linked-List` | `2026-09-27` |
 | 0060 | [Floor and Ceil in Sorted Array](./DSA/Binary-Search/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Binary-Search/floor-and-ceil-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-30` |
-| 0061 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
+| 0061 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-10-21` |
 | 0062 | [Generate Parentheses](./DSA/Recursion/generate-parentheses) | [JAVA](./DSA/Recursion/generate-parentheses/solution.java) | 🟡 Medium | `Recursion` | `2026-09-30` |
 | 0063 | [Implement Min Stack](./DSA/Stack-Queue/implement-min-stack) | [JAVA](./DSA/Stack-Queue/implement-min-stack/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-28` |
 | 0064 | [Implement queue using Linkedlist](./DSA/Linked-List/implement-queue-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-queue-using-linkedlist/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |

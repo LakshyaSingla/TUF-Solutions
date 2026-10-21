@@ -2,10 +2,8 @@ class Solution {
     public int totalFruits(int[] fruits) {
         //your code goes here
         int n = fruits.length;
-
-        HashMap<Integer, Integer> mpp = new HashMap<>();
-        int l = 0, r = 0, maxlen = 0;
-
+        int max = 0, l = 0, r = 0;
+        Map<Integer, Integer> mpp = new HashMap<>();
         while(r < n){
             mpp.put(fruits[r], mpp.getOrDefault(fruits[r], 0) + 1);
 
@@ -17,10 +15,10 @@ class Solution {
                 l++;
             }
             if(mpp.size() <= 2){
-                maxlen = Math.max(maxlen, r - l + 1);
+                max = Math.max(max, r - l + 1);
             }
             r++;
         }
-        return maxlen;
+        return max;
     }
 }
