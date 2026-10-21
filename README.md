@@ -120,7 +120,7 @@
 | 0102 | [Longest Repeating Character Replacement](./DSA/Sliding-Window/longest-repeating-character-replacement) | [JAVA](./DSA/Sliding-Window/longest-repeating-character-replacement/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
 | 0103 | [Longest subarray with sum K](./DSA/Hashing/longest-subarray-with-sum-k) | [JAVA](./DSA/Hashing/longest-subarray-with-sum-k/solution.java) | 🟡 Medium | `Hashing` | `2026-10-15` |
 | 0104 | [Longest Substring With At Most K Distinct Characters](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
-| 0105 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-30` |
+| 0105 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-10-21` |
 | 0106 | [Lower Bound](./DSA/General/lower-bound) | [JAVA](./DSA/General/lower-bound/solution.java) | 🟢 Easy | `General` | `2026-09-30` |
 | 0107 | [LRU Cache](./DSA/Stack-Queue/lru-cache) | [JAVA](./DSA/Stack-Queue/lru-cache/solution.java) | 🔴 Hard | `Stack-Queue` | `2026-10-01` |
 | 0108 | [M Coloring Problem](./DSA/Backtracking/m-coloring-problem) | [JAVA](./DSA/Backtracking/m-coloring-problem/solution.java) | 🔴 Hard | `Backtracking` | `2026-09-30` |
