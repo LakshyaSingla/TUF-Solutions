@@ -1,14 +1,13 @@
 class Solution {
     public String minWindow(String s1, String s2) {
         // User code goes here
-        int n = s1.length();
-        int m = s2.length();
+        int n1 = s1.length(), n2 = s2.length();
         int i = 0, j = 0, sIndex = -1, min = Integer.MAX_VALUE;
-        while(i < n){
+        while(i < n1){
             if(s1.charAt(i) == s2.charAt(j)){
                 j++;
             }
-            if(j == m){
+            if(j == n2){
                 int end = i;
                 j--;
                 while(j >= 0){

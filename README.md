@@ -142,7 +142,7 @@
 | 0124 | [Minimize Max Distance to Gas Station](./DSA/Binary-Search/minimize-max-distance-to-gas-station) | [JAVA](./DSA/Binary-Search/minimize-max-distance-to-gas-station/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-30` |
 | 0125 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-15` |
 | 0126 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [JAVA](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
-| 0127 | [Minimum Window Subsequence](./DSA/Sliding-Window/minimum-window-subsequence) | [JAVA](./DSA/Sliding-Window/minimum-window-subsequence/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-10-21` |
+| 0127 | [Minimum Window Subsequence](./DSA/Sliding-Window/minimum-window-subsequence) | [JAVA](./DSA/Sliding-Window/minimum-window-subsequence/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-10-22` |
 | 0128 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [JAVA](./DSA/Sliding-Window/minimum-window-substring/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |
 | 0129 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring-) | [JAVA](./DSA/Sliding-Window/minimum-window-substring-/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-10-21` |
 | 0130 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [JAVA](./DSA/Arrays/move-zeros-to-end/solution.java) | 🟢 Easy | `Arrays` | `2026-09-28` |
