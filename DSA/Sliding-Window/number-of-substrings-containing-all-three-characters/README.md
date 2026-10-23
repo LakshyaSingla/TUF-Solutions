@@ -1,6 +1,6 @@
-# [Number of Substrings Containing All Three Characters](https://takeuforward.org/practice/dsa/number-of-substrings-containing-all-three-characters)
+# [Number of Substrings Containing All Three Characters](https://takeuforward.org/practice/dsa/number-of-substrings-containing-all-three-characters?category=counting-subarrays-and-substrings-problems&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
