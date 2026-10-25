@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **255** | 102 | 105 | 48 | `2026-10-23` |
+| **255** | 102 | 105 | 48 | `2026-10-25` |
 
 ---
 
@@ -23,7 +23,7 @@
 | 0005 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0006 | [Add two numbers in Linked List](./DSA/Linked-List/add-two-numbers-in-linked-list) | [JAVA](./DSA/Linked-List/add-two-numbers-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-30` |
 | 0007 | [Aggressive Cows](./DSA/Binary-Search/aggressive-cows) | [JAVA](./DSA/Binary-Search/aggressive-cows/solution.java) | 🔴 Hard | `Binary-Search` | `2026-10-17` |
-| 0008 | [Assign Cookies](./DSA/Greedy/assign-cookies) | [JAVA](./DSA/Greedy/assign-cookies/solution.java) | 🟢 Easy | `Greedy` | `2026-09-30` |
+| 0008 | [Assign Cookies](./DSA/Greedy/assign-cookies) | [JAVA](./DSA/Greedy/assign-cookies/solution.java) | 🟡 Medium | `Greedy` | `2026-10-25` |
 | 0009 | [Asteroid Collision](./DSA/Stack-Queue/asteroid-collision) | [JAVA](./DSA/Stack-Queue/asteroid-collision/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-27` |
 | 0010 | [Balanced Paranthesis](./DSA/Linked-List/balanced-paranthesis) | [JAVA](./DSA/Linked-List/balanced-paranthesis/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0011 | [Binary Subarrays With Sum](./DSA/Sliding-Window/binary-subarrays-with-sum) | [JAVA](./DSA/Sliding-Window/binary-subarrays-with-sum/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-30` |

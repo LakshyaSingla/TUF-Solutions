@@ -1,6 +1,6 @@
-# [Assign Cookies](https://takeuforward.org/practice/dsa/assign-cookies)
+# [Assign Cookies](https://takeuforward.org/practice/dsa/assign-cookies?category=easy&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
