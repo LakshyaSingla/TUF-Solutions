@@ -1,6 +1,6 @@
-# [Job sequencing Problem](https://takeuforward.org/practice/dsa/job-sequencing-problem)
+# [Job sequencing Problem](https://takeuforward.org/practice/dsa/job-sequencing-problem?category=scheduling-and-interval-problems&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
