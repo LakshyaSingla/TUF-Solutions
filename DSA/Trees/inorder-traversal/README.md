@@ -1,4 +1,4 @@
-# [Inorder Traversal](https://takeuforward.org/practice/dsa/inorder-traversal?source=strivers-a2z-dsa-sheet&category=theory-and-traversals&solution=recursive-approach)
+# [Inorder Traversal](https://takeuforward.org/practice/dsa/inorder-traversal?category=theory-and-traversals&source=strivers-a2z-dsa-sheet&solution=iterative-approach)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 

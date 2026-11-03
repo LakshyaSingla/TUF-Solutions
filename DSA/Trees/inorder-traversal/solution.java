@@ -9,17 +9,21 @@
  **/
 
 class Solution {
-    void func(TreeNode root, List<Integer> ans){
-        if(root == null) return;
-        func(root.left, ans);
-        ans.add(root.data);
-        func(root.right, ans);
-
-    }
     public List<Integer> inorder(TreeNode root) {
         //your code goes here
         List<Integer> ans = new ArrayList<>();
-        func(root, ans);
+        Stack<TreeNode> st = new Stack<>();
+        TreeNode curr = root;
+        while(curr != null || !st.isEmpty()){
+            if(curr != null){
+                st.push(curr);
+                curr = curr.left;
+            }else{
+                curr = st.pop();
+                ans.add(curr.data);
+                curr = curr.right;
+            }
+        }
         return ans;
     }
 }

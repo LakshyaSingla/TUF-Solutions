@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **257** | 102 | 107 | 48 | `2026-10-28` |
+| **257** | 102 | 107 | 48 | `2026-11-03` |
 
 ---
 
@@ -85,7 +85,7 @@
 | 0067 | [Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [JAVA](./DSA/Linked-List/implement-stack-using-linkedlist/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-24` |
 | 0068 | [Infix to Postfix Conversion](./DSA/Stack-Queue/infix-to-postfix-conversion) | [JAVA](./DSA/Stack-Queue/infix-to-postfix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-10-03` |
 | 0069 | [Infix to Prefix Conversion](./DSA/Stack-Queue/infix-to-prefix-conversion) | [JAVA](./DSA/Stack-Queue/infix-to-prefix-conversion/solution.java) | 🟡 Medium | `Stack-Queue` | `2026-09-30` |
-| 0070 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [JAVA](./DSA/Trees/inorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-10-05` |
+| 0070 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [JAVA](./DSA/Trees/inorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-11-03` |
 | 0071 | [Insert before given node in Doubly Linked List](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-before-given-node-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
 | 0072 | [Insert Interval](./DSA/Greedy/insert-interval) | [JAVA](./DSA/Greedy/insert-interval/solution.java) | 🟡 Medium | `Greedy` | `2026-09-30` |
 | 0073 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [JAVA](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-09-30` |
